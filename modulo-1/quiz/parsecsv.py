@@ -24,6 +24,7 @@ def parse_file(datafile):
     name = ""
     data = []
     cont = 0
+
     with open(datafile,'rt') as f:
         reader = csv.reader(f)
         for row in reader:
@@ -31,26 +32,21 @@ def parse_file(datafile):
                 name = row[1]
                 reader.next()
             else:
-                for i in range(len(row) - 1):
-                    print(str(len(row)) + " - " + str(cont-1) + " - " + str(i) + ": " + row[i])
-                    #data[cont-1][i] = row[i]
+                data.append(row)
+
             cont+=1
 
     # Do not change the line below
     return (name, data)
 
-
 def test():
     datafile = os.path.join(DATADIR, DATAFILE)
     name, data = parse_file(datafile)
 
-    print (name)
-    #assert name == "MOUNTAIN VIEW MOFFETT FLD NAS"
-    #print (data[0][1])
-    #print (data[2][0])
-    #assert data[0][1] == "01:00"
-    #assert data[2][0] == "01/01/2005"
-    #assert data[2][5] == "2"
+    assert name == "MOUNTAIN VIEW MOFFETT FLD NAS"
+    assert data[0][1] == "01:00"
+    assert data[2][0] == "01/01/2005"
+    assert data[2][5] == "2"
 
 
 if __name__ == "__main__":
