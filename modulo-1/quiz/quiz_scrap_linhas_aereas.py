@@ -21,10 +21,23 @@ html_page = "options.html"
 
 def extract_carriers(page):
     data = []
+    INICIO_STRING = 0
+    TERMINO_STRING = 4
 
     with open(page, "r") as html:
         # do something here to find the necessary values
         soup = BeautifulSoup(html, "lxml")
+        valor = soup.find(id="CarrierList")
+
+        # Busca pelas tags option contidas na tag cujo id eh CarrierList
+        for opcoes in valor.find_all('option'):
+            # As strings existentes nas tags sao capturadas pelo metodo string
+            carrier = opcoes.string
+
+            # Conceito de slice
+            if carrier[INICIO_STRING:TERMINO_STRING].upper() != "ALL ":
+                # Obtem os atributos na tag como se fosse um dicionario
+                data.append(opcoes['value'])
 
     return data
 
@@ -46,7 +59,6 @@ def make_request(data):
                        ("Submit", "Submit")))
 
     return r.text
-
 
 def test():
     data = extract_carriers(html_page)
