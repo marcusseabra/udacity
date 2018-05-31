@@ -75,9 +75,19 @@ def process_file(f):
     # Note: create a new dictionary for each entry in the output data list.
     # If you use the info dictionary defined here each element in the list
     # will be a reference to the same info dictionary.
+
     with open("{}/{}".format(datadir, f), "r") as html:
-        soup = BeautifulSoup(html)
-        print(soup.prettify())
+        soup = BeautifulSoup(html, "lxml")
+        # The find_all() method looks through a tag’s descendants and retrieves all descendants that match your filters
+        tag_linhas = soup.find_all("tr", class_="dataTDRight")
+        for descendentes in tag_linhas:
+            for colunas in descendentes.find_all("td"):
+                print(unicode(colunas.string))
+                print(str(type(unicode(colunas.string))) + " - " + colunas.string)
+
+            #for colunas in tag_linhas.contents:
+            #    print(colunas)
+        #print(soup.prettify())
 
     return data
 
