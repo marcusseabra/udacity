@@ -81,18 +81,37 @@ def process_file(f):
         # The find_all() method looks through a tag’s descendants and retrieves all descendants that match your filters
         tag_linhas = soup.find_all("tr", class_="dataTDRight")
         for descendentes in tag_linhas:
+            isLinhaDados = True
             for colunas in descendentes.find_all("td"):
-                print(unicode(colunas.string))
-                print(str(type(unicode(colunas.string))) + " - " + colunas.string)
+                if str(colunas.string) == "TOTAL":
+                    isLinhaDados = False
+                    break
+            if isLinhaDados:
+                info = {}
+                voos = {}
+                info["courier"], info["airport"] = f[:6].split("-")
+                col = 0
+                # Novo laco sobre descendentes para gerar o dicionario
+                for colunas in descendentes.find_all("td"):
+                    if col == 0:
+                        info["year"] = int(colunas.string)
+                    elif col == 1:
+                        info["month"] = int(colunas.string)
+                    elif col == 2:
+                        num_string = str(colunas.string)
+                        voos["domestic"] = int(num_string.replace(",", ""))
+                    elif col == 3:
+                        num_string = str(colunas.string)
+                        voos["international"] = int(num_string.replace(",", ""))
+                    col=col+1
 
-            #for colunas in tag_linhas.contents:
-            #    print(colunas)
-        #print(soup.prettify())
+                info["flights"] = voos
+                data.append(info)
+
+            else:
+                continue
 
     return data
-
-def teste_preliminar():
-    process_file('FL-ATL.html')
 
 def test():
     print ("Running a simple test...")
@@ -118,4 +137,4 @@ def test():
     print ("... success!")
 
 if __name__ == "__main__":
-    teste_preliminar()
+    test()
