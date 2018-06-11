@@ -28,6 +28,8 @@ ANO_FINAL = 2014
 
 def process_file(input_file, output_good, output_bad):
 
+    linhas_interesse = []
+    linhas_descarte = []
     with open(input_file, "r") as f:
         reader = csv.DictReader(f)
         header = reader.fieldnames
@@ -43,23 +45,27 @@ def process_file(input_file, output_good, output_bad):
                 if n.match(ano[:4]):
                     ano_interesse = int(ano[:4])
                     if ano_interesse >= ANO_INICIAL and ano_interesse <= ANO_FINAL:
-                        print(linhas)
-#                n = re.compile('DBPedia')
-#                print(linhas["productionStartYear"])
-
-        #COMPLETE THIS FUNCTION
-
-
+                        linhas["productionStartYear"] = ano_interesse
+                        linhas_interesse.append(linhas)
+                    else:
+                        linhas_descarte.append(linhas)
+                else:
+                    linhas_descarte.append(linhas)
 
     # This is just an example on how you can use csv.DictWriter
     # Remember that you have to output 2 files
-    '''
+
     with open(output_good, "w") as g:
         writer = csv.DictWriter(g, delimiter=",", fieldnames= header)
         writer.writeheader()
-        for row in YOURDATA:
+        for row in linhas_interesse:
             writer.writerow(row)
-    '''
+
+    with open(output_bad, "w") as g:
+        writer = csv.DictWriter(g, delimiter=",", fieldnames= header)
+        writer.writeheader()
+        for row in linhas_descarte:
+            writer.writerow(row)
 
 def test():
 
