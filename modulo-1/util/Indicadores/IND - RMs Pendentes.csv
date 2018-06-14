@@ -1,0 +1,2066 @@
+rm;titulo;id_projeto;projeto;tipo_rm;is_backlog
+2901;Verificar alteração de valores...;9;GMNE;Atendimento;1
+8023;Automatizar o processo da programação de coleta de amostras de cianotoxinas (bruta e tratada);16;SGCQ;Evolutiva;1
+8242;Emissão de etiquetas de materiais;3;Alpha;Evoluções e Novos Projetos;1
+8282;COBRANÇA DE DÉBITO POR CLIENTE E POR PERÍODO;17;GSAN;Evolutiva;1
+8602;Criação de trava na importação das Horas não validadas;32;GHE - Gestão de Horas Extras;Evolutiva;1
+8671;Replicar a meta até Dezembro;32;GHE - Gestão de Horas Extras;Atendimento;1
+8721;Criar Relatório contendo dados de usuários.;32;GHE - Gestão de Horas Extras;Atendimento;1
+10719;Melhorias no controle de acesso ao GSAN;17;GSAN;Evolutiva;1
+10981;Solução definitiva da RM 10949 - Processo 282;17;GSAN;Corretiva;1
+11218;Na tabela MICROMEDICAO.HIDROMETRO_INST_HIST está permidindo no campo HIDI_ICINSTALACAOSUBSTITUICAO números diferentes de 1 e 2;17;GSAN;Corretiva;1
+11328;Tratar erro na transferência de débitos entre imóveis;17;GSAN;Corretiva;1
+11339;Demanda de Atendimento - Falconi Consultoria;54;GSI - APOIO A GESTÃO;Atendimento;1
+11349;Ajustar a configuração do Locale para todo o sistema;17;GSAN;Corretiva;1
+11357;Salvar as informações do campo observação em local específico para a Tarifa Social;17;GSAN;Evolutiva;1
+11523;Verificar e corrigir duplicidades no cadastro das localidades preestabelecidas.;16;SGCQ;Corretiva;1
+11665;Unidade de processamento por arquivo;17;GSAN;Corretiva;1
+11709;Quantidade de cortes executados;17;GSAN;Corretiva;1
+11917;NETBASE - Sistema da Informação de Gestão Operacional dos Sistema de Abastecimento de água;3;Alpha;Evolutiva;1
+11923;Relatório Orçamento;3;Alpha;Evoluções e Novos Projetos;1
+11996;Odebrecht :: Gerar TXT Parcelamentos Negociados Empresa Cobranca com Novos Campos;17;GSAN;Atendimento;1
+12217;Evolução do Processo de Acompanhamento de Demandas pela Ouvidoria COMPESA;17;GSAN;Evolutiva;1
+12348;Ausência de indicador em tela de manutenção de anormalidade de consumo;17;GSAN;Corretiva;1
+12356;RD de Tarifa Social (impactos no GSAN) – Perfil de ligação;17;GSAN;Evolutiva;1
+12358;RD de Tarifa Social (impactos no GSAN) – Trava no sistema;17;GSAN;Evolutiva;1
+12359;RD de Tarifa Social (impactos no GSAN) – Tela para exclusão da TS;17;GSAN;Evolutiva;1
+12360;RD de Tarifa Social (impactos no GSAN) – Inserir Registro de Atendimento (especificação);17;GSAN;Evolutiva;1
+12361;RD de Tarifa Social (impactos no GSAN) – Alteração na tela “Inserir Dados da Tarifa Social”;17;GSAN;Evolutiva;1
+12447;Plano de Ação :: Auditoria Interna :: Subprocesso de Faturamento;17;GSAN;Evolutiva;1
+12487;Plano de Ação :: Auditoria Interna :: Rec04;17;GSAN;Evolutiva;1
+12538;Plano de Ação :: Auditoria Interna :: Rec09;17;GSAN;Evolutiva;1
+12539;Plano de Ação :: Auditoria Interna :: Rec11;17;GSAN;Evolutiva;1
+12540;Plano de Ação :: Auditoria Interna :: Rec12;17;GSAN;Evolutiva;1
+12579;Ajuste nas funcionalidades "Inserir Registro de Atendimento" e "Consultar Dados do Registro de Atendimento";17;GSAN;Corretiva;1
+12759;Erro no relatório de resumo de ligações e economias;17;GSAN;Corretiva;1
+12872;Contrato Demanda para imóveis com mais de uma economia;17;GSAN;Corretiva;1
+12916;[COMERCIAL] Criar área para dicas úteis;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+13130;Relatorio de Historico Exames Medicos;3;Alpha;Evoluções e Novos Projetos;1
+13421;Projeto SIG :: Inclusão de Queries no SIG;41;Departamentais;Evolutiva;1
+13431;CRIAR NO SIG RELATÓRIO COM GRÁFICO DE SERVIÇOS PENDENTES;61;SIG - Sistema Informações Gerenciais;Atendimento;1
+13451;Atualizar Dados cadastrais para o imovel: Voltando para tela de pesquisa;17;GSAN;Corretiva;1
+13465;Motivo não entrega de contas - Retorno ISC;17;GSAN;Desenvolvimento;1
+13506;Ajustes funcionalidades Android RM12873;17;GSAN;Evolutiva;1
+13593;regra de medição individualizada;17;GSAN;Evolutiva;1
+13820;Norma de REVISÃO POR INICIATIVA DO CLIENTE;17;GSAN;Evolutiva;1
+13880;Alteração de Vencimento das Faturas;17;GSAN;Corretiva;1
+13946;MEDIÇÃO INDIVIDUALIZADA PARA HABITACIONAIS POPULARES;17;GSAN;Evolutiva;1
+13983;Faturamento e arrecadação sobre análise de projetos;41;Departamentais;Evolutiva;1
+14046;Estratégico DMA :: Novo Modelo de Contrato de Cadastro;17;GSAN;Evolutiva;1
+14047;Estratégico DMA :: Vinculação de CPF e Contrato de Prestação de Serviço em Processos de Cobrança;17;GSAN;Evolutiva;1
+14048;Estratégico DMA :: Demandas Evolutivas Prioritárias;17;GSAN;Evolutiva;1
+14066;ajuste na geração da OS de corte para o GSANEOS;17;GSAN;Atendimento;1
+14078;Verificar como o GSAN associou/permitiu inserir vários códigos de cliente para o mesmo CPF 127.916.088-85;17;GSAN;Atendimento;1
+14107;Criação de módulo de Empreendimentos no SIM;20;SIM;Evolutiva;1
+14157;Alteração no relatório de acompanhamento da atualização cadastral;41;Departamentais;Atendimento;1
+14188;Problema no Cancelamento do Contrato de Parcelamento;17;GSAN;Evolutiva;1
+14199;Marcar no GSAN as ações de cobrança SMS 1 e 2 e Tele Cobrança;38;BI Desenvolvimento;Atendimento;1
+14205;Devolução de Pagamento em Duplicidade;17;GSAN;Evolutiva;1
+14215;Análise das validações do Virtual 2 - Críticas;17;GSAN;Evolutiva;1
+14298;Erro no Processo de Atualização Cadastral - Alteração não realizada no Virtual II;17;GSAN;Corretiva;1
+14326;Inclusão Campos Boletim de Medição;17;GSAN;Evolutiva;1
+14344;[COMERCIAL] Criar visão Simulador de Arrec - Fat - Adimplência;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+14348;[PREMISSAS] Desenvolver BI com as informações das premissas de faturamento;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+14358;Consulta de inscrição associada a imóvel excluído;17;GSAN;Corretiva;1
+14366;DOAÇÕES EM CONTA;17;GSAN;Evolutiva;1
+14422;parcelamento pela Internet - cliente pagou a entrada e o sistema não reconheceu;17;GSAN;Corretiva;1
+14455;Solicitação de Materiais;20;SIM;Evoluções e Novos Projetos;1
+14473;Impossibilidade na atualização de dados da tarifa social;17;GSAN;Corretiva;1
+14569;Envio de faturas por e-mail para o cliente responsável.;17;GSAN;Evolutiva;1
+14638;Criação de relatório SIG;61;SIG - Sistema Informações Gerenciais;Atendimento;1
+14668;Verificar erro no GSAN - Consultar Debitos;17;GSAN;Corretiva;1
+14751;Novo contrato de cadastro - Implantação;17;GSAN;Desenvolvimento;1
+14766;[GSANISC] Contrato Demanda para imóveis com mais de uma economia;17;GSAN;Corretiva;1
+14812;CRIAR RELATÓRIO DE INVENTÁRIO DE MATERIAIS;61;SIG - Sistema Informações Gerenciais;Atendimento;1
+14817;RADAR COMPESA - SOBREPOR DADOS NO GSAN;17;GSAN;Atendimento;1
+14832;===HYPERION===;57;ITC ;Evoluções e Novos Projetos;1
+14855;Dashboard :: Gestão do Contrato de Performance;61;SIG - Sistema Informações Gerenciais;Evoluções e Novos Projetos;1
+14869;Recorrência taxa mínima - código 42;17;GSAN;Corretiva;1
+14911;[COMERCIAL2] Criar visão operacional das RAs;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+14947;Mensagem do Erro no Calendário de Abastecimento do SIM;20;SIM;Atendimento;1
+14960;[GESTAO] Adicionar a Fonte de Recurso do Realizado;38;BI Desenvolvimento;Evolutiva;1
+14968;[COMERCIAL] Inserir todos os RAs e não apenas os que tem imóvel;38;BI Desenvolvimento;Evolutiva;1
+14986;O SISTEMA ESTÁ ACEITANDO IMPLANTAR O MESMO HIDRÔMETRO EM DUAS MATRÍCULAS;17;GSAN;Atendimento;1
+14991;Requisitos Contrato de Performance do Varejo;17;GSAN;Evolutiva;1
+14996;Marcar no GSAN as matriculas que foram enviada SMS1 SMS2 e Tele Cobrança;17;GSAN;Evolutiva;1
+15025;182 - RETIFICAR CONJUNTO CONTAS CONSUMO;17;GSAN;Corretiva;1
+15035;NUMERO DE LIGAÇÕES POR PERFIL;61;SIG - Sistema Informações Gerenciais;Atendimento;1
+15049;[COMERCIAL] Quantitativo de negativação está multiplicado;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+15051;Atualização Cadastral Prefeituras;17;GSAN;Corretiva;1
+15170;Exclusão de Tarifas Inativas da Lista de Tarifas;17;GSAN;Corretiva;1
+15180;Comando Recorte Sul;17;GSAN;Corretiva;1
+15181;ACOMPANHAMENTO PROJETO ÁGUA DA COMPESA;38;BI Desenvolvimento;Atendimento;1
+15227;Projeto RFE - Ampliação do Campo de Observação;65;RFE - Relatório Funcional do Empregado;Evolutiva;1
+15229;Projeto RFE - Importações de Planilhas Mensais;65;RFE - Relatório Funcional do Empregado;Evolutiva;1
+15230;Projeto RFE - Campo de Medida Disciplinar;65;RFE - Relatório Funcional do Empregado;Evolutiva;1
+15231;Projeto RFE - Informação do número do CID;65;RFE - Relatório Funcional do Empregado;Evolutiva;1
+15232;Projeto RFE - Resumo de Status de Estabilidade;65;RFE - Relatório Funcional do Empregado;Evolutiva;1
+15257;===NETBASE===;57;ITC ;Evoluções e Novos Projetos;1
+15264;Trâmite de R.A;17;GSAN;Corretiva;1
+15277;Grupo 40  - Novo Vencimento;17;GSAN;Evolutiva;1
+15317;Calendário de Abastecimento;20;SIM;Atendimento;1
+15324;[PLANO DE METAS] Melhoria da Imagem;38;BI Desenvolvimento;Atendimento;1
+15350;[COMERCIAL] Verificar a memória de cálculo da safra arrecadação;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+15352;simbolo para med individualizada;17;GSAN;Evolutiva;1
+15376;Alterar geração de dados para o SIM;17;GSAN;Evolutiva;1
+15390;Geração de Extratos de Débitos CEASA;17;GSAN;Atendimento;1
+15392;[COMERCIAL] Criar Visão acumulada anual de Faturamento e Arrecadação;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+15419;[PREMISSAS] Carregar as Metas das Premissas de 2017;38;BI Desenvolvimento;Atendimento;1
+15431;INSERIR NOVOS SERVIÇOS  NO GSANEOS;17;GSAN;Evolutiva;1
+15460;INCLUIR NEGOCIAÇÃO DE DÉBITO NO GSANEOS;17;GSAN;Evolutiva;1
+15475;[COMERCIAL] Criar visão de régua de cobrança;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+15480;[OPERACIONAL] Relógio de TMA está indisponível;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+15543;Inclusão de Matrículas no Cadastro de Adesão ao DÉBITO AUTOMÁTICO;61;SIG - Sistema Informações Gerenciais;Atendimento;1
+15555;[COMERCIAL] Gerar visão dos clientes que não pagaram este mês, mas pagaram mes anterior;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+15613;REFORMULAÇÃO DO FUNCIONALIDADE "ATUALIZAR DADOS DO CLIENTE" NA LOJA VIRTUAL;17;GSAN;Evolutiva;1
+15656;INCLUIR CARTA DE COBRANÇA COMO PREDECESSORA;17;GSAN;Evolutiva;1
+15659;[COMERCIAL] Inserção de Aba e Tabelas para Análise no BI COMERCIAL;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+15794;INSERÇÃO DE INFORMAÇÕES SOBRE EXCLUSÃO DA TS;17;GSAN;Evolutiva;1
+15797;[COMERCIAL] Criar gráfico  do Faturamento / Arrecadação de Água e Esgoto no BI / Arrecadação;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+15833;IMOVEL CORTADO COBRADO COMO TARIFA NORMAL CHEIA;17;GSAN;Atendimento;1
+15835;Melhorias no GSAN AC - acréscimo de filtros na consulta;17;GSAN;Evolutiva;1
+15842;Criar novas críticas no Virtual II para quando ocorrer aumento de faturamento;17;GSAN;Evolutiva;1
+15875;[PROJ AGUA COMPESA] acrescentar negativacao na area de cobrança;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+15896;Recuperação de arquivo retorno atualização cadastral setor 880, Garanhuns;17;GSAN;Atendimento;1
+15927;Revisão e redefinição de todas as regras de perfis do almoxarifado(Suprimento);3;Alpha;Atendimento;1
+15935;[COMERCIAL] Ajustar visões de Arrecadação;38;BI Desenvolvimento;Correções;1
+15941;Verificar importação da tabela de custos;28;SIC - Sist. Integrados Compesa;Correções;1
+15945;Boletim Varejo - Indicadores de Performance do Varejo;17;GSAN;Evolutiva;1
+15954;Processo 332 - GERAR SCORE REGUA COBRANCA;17;GSAN;Corretiva;1
+15967;[COMERCIAL] Inclusão de filtros no BI;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+15985;===PETASO===;57;ITC ;Evoluções e Novos Projetos;1
+16059;convênios, Pró-criança, hospital do câncer e fundação terra;17;GSAN;Atendimento;1
+16078;===CICLOPE===;57;ITC ;Evoluções e Novos Projetos;1
+16085;Kit Cas;17;GSAN;Atendimento;1
+16105;47 - GERAR RELATORIO MANTER CLIENTE;17;GSAN;Corretiva;1
+16111;[COMERCIAL] Criar visão para faturas em revisão;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16150;Atualização de Documentação - Novo Contrato do Cadastro (RM14046);17;GSAN;Evolutiva;1
+16162;[PROJ AGUA COMPESA] Validar valores de Arrecadação;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16166;Trava na Previsão por Lotação_ GHE;32;GHE - Gestão de Horas Extras;Evoluções e Novos Projetos;1
+16187;Automatizar Ciclo Processo;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16188;Lean Six Sigma :: Cadastro :: Alteração na funcionalidade de Novo Cliente;17;GSAN;Evolutiva;1
+16189;[COMERCIAL] Ver matrículas com RAs com problema;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16191;[COMERCIAL] Fazer ajustes na visão de arrecadação do Comercial;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16193;Ver possibilidade de integração com IBGE;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16195;[COMERCIAL] Passar o Analiser no Comercial para otimizá-lo;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16196;[COMERCIAL] Migrar visão de mapa de RA para o novo comercial;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16197;[COMERCIAL] Ajustar valores de TMA no módulo de atendimento;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16202;Desenvolvimento aplicação android para incremento de faturamento;17;GSAN;Evolutiva;1
+16231;Emissão carta de cobrança;17;GSAN;Evolutiva;1
+16242;[COMERCIAL] Gráfico da meta;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16243;[COMERCIAL] Gráfico de Alcance;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16244;[COMERCIAL] Verificar divergência do número de ligações/economias de esgoto - Jaboatão dos Guararapes;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16249;[COMERCIAL] Criar legendas para os diversos campos do analítico;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16250;[COMERCIAL] Permitir ver no analítico os outros itens da conta;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16251;[COMERCIAL] Ver possibilidade de exportar as imagens dos gráficos no BI;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16252;[COMERCIAL] Permitir ver a arrecadação corrente;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16253;[COMERCIAL] Criar área de análise do faturamento em relação ao mês anterior;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16278;NOVOS ITENS - CONTRATO DE LEITURA;17;GSAN;Evolutiva;1
+16279;[PROJ AGUA COMPESA] Criar visão de faturas não pagas no mês;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16286;Questionário nas ocorrências de AC e BC;17;GSAN;Evolutiva;1
+16287;Abrir um registro de atendimento pelo smartphone para "FISCALIZAR IMÓVEL VIZINHO";17;GSAN;Evolutiva;1
+16314;[COMERCIAL] Criar indicador de Adimplência acumulada;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16316;[COMERCIAL] Faturamento de tarifa social em 201605 e 201604 não bate;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16340;Ajuste Emissão Relatório Histograma de Esgoto por Economia;17;GSAN;Corretiva;1
+16358;TACAIMBÓ :: ALTERAÇÃO DAS SITUAÇÃO DA LIGAÇÃO DE ESGOTO PARA LIGADO;17;GSAN;Atendimento;1
+16377;ATUALIZAÇÃO DE CONSUMO INFORMADO NAO RECONHECIDA PELO SISTEMA;17;GSAN;Atendimento;1
+16396;Documentar em UC o WebService de Busca de Dados na RF (DataBusca);17;GSAN;Evolutiva;1
+16455;SUBDIVIDIR ROTAS ALTERNATIVAS;17;GSAN;Atendimento;1
+16520;Inclusão e remoção de imóveis dos códigos 42 e 43;17;GSAN;Evolutiva;1
+16549;GSANAS | Qualificação das OS encerradas em Campo;17;GSAN;Evolutiva;1
+16574;[COMERCIAL] Rever cancelamentos e retificações no BI;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16578;[FIDECOM] - Projeto de desenvolvimento do BI - FIDECOM;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16579;[FIDECOM] - Módulo de Comunicação/MKT;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16580;[FIDECOM] - Módulo de Gestão do Relacionamento;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16581;[FIDECOM] - Módulo de Vendas/Comercial;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16582;[FIDECOM] - Módulo de Fidelização da Base;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16583;[FIDECOM] - Módulo de Treinamento;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16616;Ajuste consulta Imóveis Contato conta fixa no Relatório Consumo Excedente;17;GSAN;Corretiva;1
+16644;[PREMISSAS] Ajustar o BI para colapso;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16655;Extrato de Débito Total sem Boleto pagável.;17;GSAN;Corretiva;1
+16657;Relatório do SIG - verificar informações que constam no relatório;17;GSAN;Corretiva;1
+16664;GERAÇÃO DE NOVO LAYOUT PARA COMPESAPREV;3;Alpha;Evoluções e Novos Projetos;1
+16667;Inclusão do Campo DATA DE INCLUSÃO DO ARQUIVO tela Manter Registro de Atendimento;17;GSAN;Evolutiva;1
+16675;11 - GERAR RELATORIO MANTER IMOVEL;17;GSAN;Corretiva;1
+16748;Alteração de Subcategoria no processo de atualização cadastral;17;GSAN;Atendimento;1
+16753;[PROJ AGUA COMPESA] Ao clicar no pin deve mostrar: matricula, endereço, agente;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16759;Relatório Ficha de Compensação BB;17;GSAN;Corretiva;1
+16778;Fiscalização de imóvel - inserir nº de HD;17;GSAN;Evolutiva;1
+16779;[COMERCIAL] Criar gráfico META x REALIZADO de Adimplência;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+16790;PROBLEMAS NO FATURAMENTO DA MATRICULA DO MACRO 16218073;17;GSAN;Corretiva;1
+16803;ALTERAÇÃO NA ROTINA DE DESCONTO VALE TRANSPORTE - FALTA;3;Alpha;Atendimento;1
+16804;Processo 66 - ENCERRAR FATURAMENTO PARTE 2;17;GSAN;Corretiva;1
+16834;Novo campo no GSAN: economias previstas em projeto;17;GSAN;Evolutiva;1
+16852;Erro na alteração de categoria, subcategoria e economia no processo de atualização cadastral - não está alterando aumento de faturamento;17;GSAN;Corretiva;1
+16867;Atualização do Jboss do GSAN;17;GSAN;Atendimento;1
+16925;Revisão do Grupo de Acesso da GCM;17;GSAN;Corretiva;1
+16968;Erro - qualquer O.S pode ser encerrada por qualquer unidade central de atendimento ou usuário com permissão especial "TRAMITAR RA PARA QUALQUER UNIDADE";17;GSAN;Corretiva;1
+16974;Não permitir tramite de R.A sem localidade para unidade sob contrato da GMR;17;GSAN;Evolutiva;1
+16994;Campanha de atualização cadastral;17;GSAN;Atendimento;1
+17002;GSANEOS HIDROMETRIA | Campo número do hidrômetro não funciona;17;GSAN;Corretiva;1
+17029;[COMERCIAL] Criar visão da arrecadação do mes no momento (no dia);38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+17030;[COMERCIAL] Substituir grafico lateral FATURAS PAGAS NO MES por adimplencia atual (Arrecadação);38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+17051;Bloqueio no GSAN para imóveis na situação de cobrança - Em Cobrança Judicial;17;GSAN;Evolutiva;1
+17067;Emissão de proposta de parcelamento RD 13/2017, através da ota de leitura;17;GSAN;Atendimento;1
+17069;Alteração GSAN AC - Ajustes na Tela de Fiscalização;17;GSAN;Evolutiva;1
+17076;Gsan modulo fiscalização cadastro não inseriu algumas matriculas.;17;GSAN;Corretiva;1
+17096;PROJETO ÁGUA DA COMPESA PETROLINA;17;GSAN;Evolutiva;1
+17135;Solicito a correção do relatório de gerado pelo BI;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+17141;Erro tela de abertura de RA de Devolução por Duplicidade de Pagamento;17;GSAN;Corretiva;1
+17153;[COMERCIAL] Criar visão diária de arrecadação (Bioca);38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+17169;Programa Com + Água 2 :: Extração de Dados para o Sisper;17;GSAN;Atendimento;1
+17173;Acesso GSAN;17;GSAN;Corretiva;1
+17175;Faturamento - Matrículas com Anormalidade de Consumo;61;SIG - Sistema Informações Gerenciais;Atendimento;1
+17218;Alteração massa de dados variáveis;17;GSAN;Evolutiva;1
+17228;Projeto Agua da Compesa - View - Varejo;17;GSAN;Atendimento;1
+17237;Patrimônio - Análise  e testes da  parametrizações para gestão do Ativo fixo e do fluxo do processo;3;Alpha;Evoluções e Novos Projetos;1
+17248;consultar nosso número e pelo nsa;17;GSAN;Corretiva;1
+17270;Verificar valores de Retificação e Cancelamento no BI;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+17274;Módulo II :: SIPLAN :: Automação da Planilha de Cálculo das Metas;60;SIPLAN - Sistema Planejamento;Evoluções e Novos Projetos;1
+17275;Módulo I :: SIPLAN :: Inclusão de Ticket Médio por Premissa no Painel Diário;60;SIPLAN - Sistema Planejamento;Evoluções e Novos Projetos;1
+17304;BOLETIM DE MEDIÇÃO - PROJETO ÁGUA DA COMPESA -  PETROLINA;17;GSAN;Evolutiva;1
+17312;[COMERCIAL] Valor divergente de Volume Consumido BI x GSAN;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+17332;manter registro;17;GSAN;Corretiva;1
+17349;Visão Estratégica do Plano de Metas :: Painel de Análise de Fenômeno;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+17357;[COMERCIAL] Substituir "Mot Sit Esp Fatur" por "Mot Entrada Sit Esp Fat" e "Mot Saída Sit Esp Fat";38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+17359;Integração de dados faturamento - colecta;61;SIG - Sistema Informações Gerenciais;Evoluções e Novos Projetos;1
+17404;TRAVA NO SISTEMA PARA CLIENTES GRANDE E CORPORATIVOS;17;GSAN;Evolutiva;1
+17428;Módulo de Orçamentos de Engenharia;3;Alpha;Atendimento;1
+17433;[COMERCIAL] Criar visões de reversão de faturamento;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+17439;FATURA 08/2017 INCLUSA NO PARCELAMENTO E CONSTA NA TELA DE DEBITO - 60567034;17;GSAN;Corretiva;1
+17444;[COMERCIAL] Somatório dos valores de Faturamento por categoria na aba COMPARATIVO é maior que o realizado;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+17524;CRIAR UMA ORDEM DE SERVIÇO PARA FISCALIZAÇÃO DE SERVIÇOS DE LEITURA;17;GSAN;Evolutiva;1
+17617;[REDUÇÃO DE RETIFICAÇÕES E CANCELAMENTOS DE CONTAS] Abrir redmines para travar número de retificações por matricula;70;Lean Six Sigma;Desenvolvimento;1
+17618;[REDUÇÃO DE RETIFICAÇÕES E CANCELAMENTOS DE CONTAS] Elaborar treinamento em retificações e cancelamento de contas;70;Lean Six Sigma;Desenvolvimento;1
+17627;Atualiar o S I G;61;SIG - Sistema Informações Gerenciais;Atendimento;1
+17630;Retificações Usuário - Limite por Matrícula;17;GSAN;Evolutiva;1
+17680;[Redução do TMA de novas ligações de água na RMR] - Etapa Definir;70;Lean Six Sigma;Desenvolvimento;1
+17681;Erro - O.S de devolução gerada repetidas vezes na equipe programada do dia;17;GSAN;Atendimento;1
+17683;Correção nos relatórios dos Ambientes Virtuais - R1446, R1447-A e R1447-B;17;GSAN;Corretiva;1
+17692;VERIFICAR AUSENCIA DAS LEITURAS NA LIGAÇÃO DE ESGOTO DA MATRICULA 55016585;17;GSAN;Corretiva;1
+17702;Projeto Sistema de Padronização;72;Controle de Normas;Evoluções e Novos Projetos;1
+17703;Funcionalidade Validar Serviço Executado - Exibir mensagem "Deseja encerrar o Registro de Atendimento?";17;GSAN;Evolutiva;1
+17728;Alteração - Fechamento do mês;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;1
+17763;PROBLEMA NAS RETIFICAÇÕES QUANDO HÁ FATURAMENTO DE ESGOTO;17;GSAN;Corretiva;1
+17801;Não permitir tramite de R.A sem localidade para unidade sob contrato da GMR - Tramitar Conjunto de Registro de Atendimento;17;GSAN;Evolutiva;1
+17811;GSANAS | Limpar dados e cachê do aplicativo;17;GSAN;Atendimento;1
+17812;[PREMISSAS] Novas ligações;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+17822;[PLANO DE METAS] Margem Ebitda - Com Arrecadação + Despesa + Ebitda - Construção de Tabela;38;BI Desenvolvimento;Atendimento;1
+17824;Software de solicitação de serviços;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;1
+17842;Matrícula 10584450 na RD 12/2016;17;GSAN;Atendimento;1
+17849;Falha no cálculo da conta de imóveis de Petrolina;17;GSAN;Atendimento;1
+17870;Encerrar O.S - Não fazer a pergunta "Deseja encerrar o Registro de Atendimento associado à Ordem de Serviço?" para usuário terceirizado;17;GSAN;Corretiva;1
+17890;Remover e-mails errados;17;GSAN;Atendimento;1
+17891;RA Cancelamentos - RD 12/2016;17;GSAN;Evolutiva;1
+17898;PERMITIR AVERBAÇÃO NAS CARTEIRAS VAREJO E CONDOMÍNIOS;17;GSAN;Atendimento;1
+17906;Acompanhamento e análise de Resultado do IDEP;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;1
+17913;Forma de Pagamento de Novo Contrato: Cível e Juizados;13;JUSCOMPESA;Evoluções e Novos Projetos;1
+17918;Software participação e avaliação visitas mediadas Universo Compesa;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;1
+17932;Alterar nome da especificação nos RAs anteriores a 19/05/2017;17;GSAN;Atendimento;1
+17934;ALTERAR REGRA DO BOLETIM CONTRATO DE VAREJO;17;GSAN;Evolutiva;1
+17953;[PREMISSAS] Suspensão;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+17985;Correção do BM extraído através do SIG;61;SIG - Sistema Informações Gerenciais;Correções;1
+17991;ALTERAÇÃO DE SENHA P/AGENDAMENTO PORTAL COMPESA;28;SIC - Sist. Integrados Compesa;Atendimento;1
+18015;gerar relatório de para do pre-gsan.;17;GSAN;Atendimento;1
+18089;[COMERCIAL] Incluir a arrecadação por água, esgoto e indiretos;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+18092;[COMERCIAL] Mostrar o motivo do corte;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+18100;Implantação do Módulo de Medicina e Segurança;3;Alpha;Atendimento;1
+18101;Desenvolvimento - Cadastro Novo Cliente - Loja Virtual;17;GSAN;Desenvolvimento;1
+18109;Criar caminho para que o Robô (consulta de CPF ao site da Receita) seja ligado e desligado pela GTC;17;GSAN;Evolutiva;1
+18119;Carteira Petrolina;17;GSAN;Atendimento;1
+18136;[FLUXO_CAIXA] Corrigir divergências encontradas em reunião;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+18149;Relatório de doações;61;SIG - Sistema Informações Gerenciais;Evoluções e Novos Projetos;1
+18152;Matrícula nova liberada do Pré-Gsan e não foi criada no GSAN;17;GSAN;Atendimento;1
+18155;Falha no GSAN - Inclusão de faturas (inserir Conta);17;GSAN;Corretiva;1
+18160;Manter  Carteira - Gsan;17;GSAN;Corretiva;1
+18177;Erro - vincula qualquer localidade não pertencente ao município informado, quando não informado a matrícula do imóvel.;17;GSAN;Corretiva;1
+18192;FISCALIZAÇÃO DE CORTADOS ATRAVÉS DA LEITURA SIMULTÂNEA (ISC);17;GSAN;Evolutiva;1
+18201;Baixas do Alpha;28;SIC - Sist. Integrados Compesa;Correções;1
+18203;Incluir informação na Query do SIG - Parcelamento RD;61;SIG - Sistema Informações Gerenciais;Atendimento;1
+18246;Reestruturação do canal de denúncias;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;1
+18253;Solicito que atualize a query;61;SIG - Sistema Informações Gerenciais;Atendimento;1
+18285;Rotina RD 12 - restabelecimento;17;GSAN;Evolutiva;1
+18288;transformar carta de cobrança em OS;17;GSAN;Evolutiva;1
+18290;Relatório de Custo da OS;3;Alpha;Atendimento;1
+18291;AJUSTES NO SISTEMA PARA CONSIDERAR O GEORREFERENCIAMENTO DAS LIGAÇÕES;17;GSAN;Desenvolvimento;1
+18292;Atualização do imóvel;17;GSAN;Atendimento;1
+18294;Gamificação do Compesa Mobile;43;Compesa Mobile;Evoluções e Novos Projetos;1
+18298;[Canal de Denúncias] Fluxo de atendimento da denúncia;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;1
+18313;Corrigir Esgoto do Hospital Portugues;17;GSAN;Corretiva;1
+18329;Bloqueio de geração de RA de religação;17;GSAN;Evolutiva;1
+18330;IMOVEL TELEMEDIDO SAINDO NA ROTA DO LEITURISTA - 103432086;17;GSAN;Atendimento;1
+18340;RELACAO DE RA`s PENDENTS POR GERENCIA;61;SIG - Sistema Informações Gerenciais;Evoluções e Novos Projetos;1
+18346;Criação de webservice para integração com a Prefeitura do Recife;17;GSAN;Atendimento;1
+18353;MARCAR IMÓVEIS DA LOCALIDADE DE PETROLINA NAS CARTEIRAS DO PROJETO;17;GSAN;Atendimento;1
+18354;[PREMISSAS] Colapso;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+18356;[PREMISSAS] Novas ligações de água vegetativo;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+18357;[PREMISSAS] Novas ligações de água obras;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+18358;[PREMISSAS] Novas ligações de esgoto vegetativo;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+18359;[PREMISSAS] Novas ligações de esgoto obras;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+18374;[Query] Elaboração de consulta para extração de informações de religações e cortes, supressões e restabelecimentos, instalação e substituição de hidrômetros;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+18380;Módulo de Controle de Contratos;20;SIM;Evoluções e Novos Projetos;1
+18381;[Controle Contratos] Registro de Ata / Plano de Ação;20;SIM;Evoluções e Novos Projetos;1
+18382;[Controle Contratos] Arquivo digital da Obra;20;SIM;Evoluções e Novos Projetos;1
+18383;[Controle Contratos] Diário de Obras;20;SIM;Evoluções e Novos Projetos;1
+18384;[Controle Contratos] Controle de cartas enviadas/recebidas;20;SIM;Evoluções e Novos Projetos;1
+18385;[Controle Contratos] Página de ajuda/manuais de gestão;20;SIM;Evoluções e Novos Projetos;1
+18388;URGENTE: RETIRAR IMOVEIS CADASTRADOS NAS CATEGORIAS COM E IND DA SISTEMATICA DA SUSPENSÃO AUTOMATICA;17;GSAN;Evolutiva;1
+18405;Enriquecimento da Base de MUNICIPIOS;17;GSAN;Atendimento;1
+18409;Implantação dos Tetos de Diárias no ALPHA_E-mail automático com o Limite Mensal;3;Alpha;Atendimento;1
+18410;Implantação dos Tetos de Diárias no ALPHA_E-mail automático com Saldo de utilização;3;Alpha;Atendimento;1
+18411;Implantação dos Tetos de Diárias no ALPHA_Trava de novos adiantamentos e/ou reembolsos;3;Alpha;Atendimento;1
+18422;[GMR] Extração de dados do BI - ajuste da regra de numero 4 da redmine 18122  -  data/hora de tramite;38;BI Desenvolvimento;Atendimento;1
+18425;Refazer parcelamento;17;GSAN;Atendimento;1
+18426;INSERIR TIPO DE SITUAÇÃO ESPECIAL DE FATURAMENTO;17;GSAN;Atendimento;1
+18427;Preparar progressão para 2017;4;Avaliação de Desempenho;Evoluções e Novos Projetos;1
+18452;CONSUMO FATURADO PEDRAS;17;GSAN;Atendimento;1
+18459;Consultar Registro de Atendimento - Retirar a condição "motivo de encerramento do RA" para habilitar botão "gerar OS" de RA encerrado;17;GSAN;Evolutiva;1
+18460;inserir serviços e localidade para gsaneos enorsul interior;17;GSAN;Atendimento;1
+18468;Caixa Econômica 25 milhões.;61;SIG - Sistema Informações Gerenciais;Evoluções e Novos Projetos;1
+18469;Caixa Econômica 28 milhões.;61;SIG - Sistema Informações Gerenciais;Evoluções e Novos Projetos;1
+18473;Levantamento de informações para o TCE;64;SCL- Sistema Controle Licitações;Atendimento;1
+18476;Acompanhamento do processo de carga de dados GSAN/ALPHA;3;Alpha;Atendimento;1
+18495;Nome na fatura;17;GSAN;Atendimento;1
+18507;Evoluir as funcionalidades de manutenção do Cadastro do Cliente;17;GSAN;Evolutiva;1
+18513;Criação de Menu para a GGR;13;JUSCOMPESA;Evoluções e Novos Projetos;1
+18518;Melhorias Autoleitura;43;Compesa Mobile;Correções;1
+18519;Parcelamentos não suspensos com RD 12;17;GSAN;Corretiva;1
+18533;[COMERCIAL] Verificar no analitico que o resumo de faturamento gera valores sem municipio;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+18557;Plano de Aplicação: e-mail para DGC;3;Alpha;Atendimento;1
+18568;Verificar unidade de tramitação automática;17;GSAN;Corretiva;1
+18571;Alteração no cálculo do indicador de Fiscalização e Indicador Nome;61;SIG - Sistema Informações Gerenciais;Evoluções e Novos Projetos;1
+18590;habilitar serviços na caixa da enorsul;17;GSAN;Atendimento;1
+18599;ADAPTAÇÃO NA INCLUSÃO DE RA PARA INSTALAÇÃO DE HD PARA OBRA;17;GSAN;Evolutiva;1
+18603;TCE;3;Alpha;Atendimento;1
+18612;[Licenciamento Ambiental] Importar planilha dos processos de 2017;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;1
+18623;RAs e OS encerrados em NOVEMBRO/2017;17;GSAN;Atendimento;1
+18625;[Netbase] - Converter coordenadas das views para o formato UTC;17;GSAN;Atendimento;1
+18665;Substituição de campo na Obra;20;SIM;Evoluções e Novos Projetos;1
+18669;PATRIMÔNIO - Criar base migração dos ativos não contemplados no levantamento da consultoria AFIXIBI;3;Alpha;Atendimento;1
+18673;CANCELAMENTO DE NOTA FISCAL DE REMESSA PARA  DEMOSTRAÇÃO;3;Alpha;Atendimento;1
+18687;Sistema Notificação Depreciado;43;Compesa Mobile;Correções;1
+18688;Relatório arrecadação GSAN;17;GSAN;Atendimento;1
+18699;Erro da Ordem de Venda;3;Alpha;Atendimento;1
+18718;ERRO: Já existe um título para este nº de título;3;Alpha;Atendimento;1
+18722;Cadastro de Colaborador;28;SIC - Sist. Integrados Compesa;Atendimento;1
+18725;Erro na confirmação de notas fiscais de saída;3;Alpha;Atendimento;1
+18727;Programa Fidelização;17;GSAN;Corretiva;1
+18734;Gerar kuery de premissas;39;GABI;Atendimento;1
+18784;Ajustes na view BID2_PAGAMENTOS2_COM_OC;3;Alpha;Atendimento;1
+18791;Complementação - Informações Gerenciais Parte 2;20;SIM;Evoluções e Novos Projetos;1
+18800;Incluir campo de parecer nas devoluçoes de O.S. por falta de material e de paracer técnico no GSANAS;17;GSAN;Evolutiva;1
+18803;Dados de faturamento de esgoto por sistema de coleta.;17;GSAN;Atendimento;1
+18804;Implantar imóvel na RD 12/2016;17;GSAN;Corretiva;1
+18813;GMM - alteração do relatório MTTR;3;Alpha;Atendimento;1
+18821;[COMERCIAL] Criar visão Cortes/Religações;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+18824;Envio avisos de corte GCA;17;GSAN;Atendimento;1
+18829;Trâmite automático do sistema GSAN das demandas da internet - Esgoto RMR;17;GSAN;Atendimento;1
+18831;Parcelar boleto - Análise de projeto;17;GSAN;Atendimento;1
+18852;Dados Comerciais BRK;17;GSAN;Atendimento;1
+18858;ATUALIZACAO  ARQUIVO  CONTROLE PRODUTIVIDADE - SIG;61;SIG - Sistema Informações Gerenciais;Atendimento;1
+18868;Projeto Nova Olinda - Permitir o encaminhamento na abertura do RA por setor comercial - subdivisão da localidade;17;GSAN;Evolutiva;1
+18871;Projeto Nova Olinda - Inclusão de associação no âmbito do setor comercial e a unidade organizacional.;17;GSAN;Evolutiva;1
+18880;Prestação de contas de Adiantamento do Travel;3;Alpha;Atendimento;1
+18884;341 - PROCESSOS PARA EXECUCAO DIARIA;17;GSAN;Corretiva;1
+18897;Contratro de Parcelamento;17;GSAN;Atendimento;1
+18911;[COMERCIAL] CRIAR VISÃO DE INCREMENTOS APÓS INSTALAÇÃO/SUBSTITUIÇÃO DE HIDROMETROS;38;BI Desenvolvimento;Evoluções e Novos Projetos;1
+18920;Bloqueio ao digitar as atividades e escala de trabalho no Remanejamento;28;SIC - Sist. Integrados Compesa;Correções;1
+18924;Criação de consulta de Código de Baixa;3;Alpha;Atendimento;1
+18927;correção de boleto;17;GSAN;Atendimento;1
+18937;Carga na base de DADOS para TRAVEL;3;Alpha;Atendimento;1
+18942;Gerar período de 201604 a 201609 - Query FATURAMENTO SUSPENSO do SIG;61;SIG - Sistema Informações Gerenciais;Atendimento;1
+18943;Inserção de inscrição, endereço  e situação de ligação para imóveis novos que serão fiscalizados- Setor 175, localidade 62- Goiana;17;GSAN;Atendimento;1
+18944;Alteração No boletim de Medição;3;Alpha;Correções;1
+18962;Prestação de contas de adiantamento do TRAVEL 2;3;Alpha;Atendimento;0
+18963;Solicitação de query - planilha com informações de percentuais de esgoto em Arcoverde;17;GSAN;Atendimento;0
+18964;CRIAÇÃO DE CHEQUE;3;Alpha;Atendimento;0
+18965;Filtrar NATUREZA DO SERVIÇO: CELPE;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+18969;Petaso - Incorporar identidade visual;57;ITC ;Evoluções e Novos Projetos;0
+18970;Petaso - Utilizar cpf ao invés da matrícula no cadastro;57;ITC ;Evoluções e Novos Projetos;0
+18971;Petaso - Formulário de cadastro de usuários;57;ITC ;Evoluções e Novos Projetos;0
+18972;Petaso - Solicitar lista de veículos com Valéria;57;ITC ;Atendimento;0
+18973;Petaso - Informarções do motorista em: minhas solicitações;57;ITC ;Evoluções e Novos Projetos;0
+18974;Petaso - Testes e verificações de envio de e-mail;57;ITC ;Evoluções e Novos Projetos;0
+18975;Petaso - Ampliar envio de email para trâmite da solicitação;57;ITC ;Evoluções e Novos Projetos;0
+18976;Petaso - Adicionar etapa de liberação pelos gerentes (1ª etapa);57;ITC ;Evoluções e Novos Projetos;0
+18977;FATURAR GRUPO FATURAMENTO  GR-05;17;GSAN;Atendimento;0
+18978;Ciclope - Atualizar mecanismo de atualização de dados;57;ITC ;Evoluções e Novos Projetos;0
+18979;Ciclope - Incluir situação da ligação de esgoto;57;ITC ;Evoluções e Novos Projetos;0
+18980;Ciclope - Apresentar faturamento de água e esgoto separadamente;57;ITC ;Evoluções e Novos Projetos;0
+18981;Ciclope - Mostrar o score de cobrança atual do cliente;57;ITC ;Evoluções e Novos Projetos;0
+18982;Ciclope - Mostrar informação se cliente possui poço ou não;57;ITC ;Evoluções e Novos Projetos;0
+18983;Ciclope - Incluir dashboard inicial;57;ITC ;Evoluções e Novos Projetos;0
+18984;Ciclope - Incluir os dados diários da arrecadação;57;ITC ;Evoluções e Novos Projetos;0
+18985;Erro ao aprovar comunicado de manutenção;28;SIC - Sist. Integrados Compesa;Correções;0
+18986;Pesquisa;17;GSAN;Atendimento;0
+18987;Listagem de serviços de corte;17;GSAN;Atendimento;0
+18988;RD 12/2016;17;GSAN;Atendimento;0
+18990;Sem conseguir fazer RC;3;Alpha;Atendimento;0
+18991;Ajustes na Aba do Juscompesa _Relacionamento com Orgãos de Controle;13;JUSCOMPESA;Evoluções e Novos Projetos;0
+18992;Caixas/Unidade | Levantamento das caixas de responsabilidade da BRK;17;GSAN;Atendimento;0
+18993;Atualização de Query;17;GSAN;Atendimento;0
+18994;Extrair relatório CONTINGENCIA ANALÍTICO para o período 03/09;13;JUSCOMPESA;Atendimento;0
+18995;Retorno da ordem de serviço;17;GSAN;Atendimento;0
+18996;RD 12/2016;17;GSAN;Atendimento;0
+18997;LIBERAR ACESSO A CARTEIRA DE CONDOMINIO E VAREJO;17;GSAN;Atendimento;0
+18998;Lotes Petrolina;17;GSAN;Atendimento;0
+18999;[GMR] - Incluir os campos setor comercial e quadra da localidade na tabela VIEW do SIG;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19000;Ajustes na Aba do Juscompesa - Relacionamento com órgãos de Controle;13;JUSCOMPESA;Atendimento;0
+19001;admin/solution - alteração de senha;3;Alpha;Atendimento;0
+19002;Relação das obras duplicadas e autor;20;SIM;Atendimento;0
+19003;Liberação para Mover Objeto Serial no Alpha e Histórico do Objeto Serial;3;Alpha;Atendimento;0
+19004;Query - Debito Estado até 11/2017.;17;GSAN;Atendimento;0
+19005;Conta Fixa - Simbolo no Gsan;17;GSAN;Atendimento;0
+19006;Cancelamento IDNF;3;Alpha;Atendimento;0
+19007;Mensagem de erro ao importar arquivo;3;Alpha;Atendimento;0
+19008;Acrescentar campo para anexos à Obra;20;SIM;Evoluções e Novos Projetos;0
+19010;Pagamento parcial de um documento de cobrança;17;GSAN;Corretiva;0
+19011;Rejeição: NF-e de devolução;3;Alpha;Atendimento;0
+19012;comando brk;17;GSAN;Atendimento;0
+19014;[COMERCIAL] Incluir no analítico a nova abordagem para o faturamento indireto;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19015;acesso do usuário rodrigolira as atribuições da ADTE;3;Alpha;Atendimento;0
+19016;QUERY - ANORMALIDADE DE CONSUMO - FALTA DE INFORMAÇÃO;61;SIG - Sistema Informações Gerenciais;Evoluções e Novos Projetos;0
+19017;REGISTRO DE ATENDIMENTO COMERCIAL PENDENTE;17;GSAN;Atendimento;0
+19018;Query - Debito Estado até 11/2017.;17;GSAN;Atendimento;0
+19019;GSANAS - Aba Dados Rede de Água - tornar obrigatório preencher os campos diâmetro, tipo de material e profundidade conforme parâmetro no tipo de serviço;17;GSAN;Evolutiva;0
+19020;Mensagem de Erro - requisição de compras autorizada no site 600;3;Alpha;Atendimento;0
+19021;Autorizar funcionária na carteira de Mario Gouveia;17;GSAN;Atendimento;0
+19024;Atualização Relação de devedores;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19026;PROCESSO 259 - GERAR TXT OS CONTAS PAGAS PARCELADAS;17;GSAN;Atendimento;0
+19027;[GMR] - Incluir os dados setor comercial e quadra da localidade na planilha operacional gerada pelo SIG;61;SIG - Sistema Informações Gerenciais;Evoluções e Novos Projetos;0
+19028;[COMERCIAL] Inserir novos campos de pesquisa no BI Analítico;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19029;Erro ao excluir pleitos de abreu e lima;20;SIM;Correções;0
+19030;Falha envio da conta por email;17;GSAN;Atendimento;0
+19031;Acrescentar valor na Autorização de Serviço;20;SIM;Evoluções e Novos Projetos;0
+19032;OC Confirmada/Fechada;3;Alpha;Atendimento;0
+19033;PLANO 2018;3;Alpha;Atendimento;0
+19034;Usuário sem conseguir vincular uma OS ao PLANO2018;3;Alpha;Atendimento;0
+19035;Alteração formulário inspeção;17;GSAN;Evolutiva;0
+19036;RD 12/2016;17;GSAN;Atendimento;0
+19037;REGISTRO DE ATENDIMENTO COMERCIAL PENDENTE;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19038;Migração anual  de projetos para PLANO 2018;3;Alpha;Atendimento;0
+19039;Query contrato Petrolina;17;GSAN;Atendimento;0
+19040;Funcionalidades grupo Agua da Compesa;17;GSAN;Atendimento;0
+19041;Separar por gerência as obras prioritárias no painel de controle;20;SIM;Evoluções e Novos Projetos;0
+19042;Histograma de consumo para Revisão Tarifária 2018;17;GSAN;Atendimento;0
+19043;Habilitar acesso;3;Alpha;Atendimento;0
+19044;URGENTE - CANCELAR GERAÇÃO DE OS AUTOMATICA DE REVISÃO DE CONUMO PARA A ANORMALIDADE DE ALTO CONSUMO - AC;17;GSAN;Atendimento;0
+19047;Grupo Especial Agua da Compesa;17;GSAN;Atendimento;0
+19048;RD 12/2016;17;GSAN;Atendimento;0
+19049;Criação do campo na tabela ORDEM_SERVICO - Referencia de pagamento no boletim de medição;17;GSAN;Evolutiva;0
+19050;Requisição de Material;3;Alpha;Atendimento;0
+19051;Requisição de Material;3;Alpha;Atendimento;0
+19052;Requisição de Material;3;Alpha;Atendimento;0
+19053;Requisição de Material;3;Alpha;Atendimento;0
+19054;Requisição de Material;3;Alpha;Atendimento;0
+19055;Requisição de Material;3;Alpha;Atendimento;0
+19056;Requisição de Material;3;Alpha;Atendimento;0
+19057;impressão BM;3;Alpha;Atendimento;0
+19058;Coluna Tarifa Media de Água zerada no 201711-853;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19061;Relacionar os imóveis novos referente a localidade Goiana - 62, Setor 175;17;GSAN;Atendimento;0
+19062;RETIRAR CODIGO 43 - 53844995;17;GSAN;Atendimento;0
+19064;[COMERCIAL] Dados dívida cobrança;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19065;criação de case;3;Alpha;Atendimento;0
+19066;composição contas a receber novembro  2017;17;GSAN;Atendimento;0
+19067;composição contas a receber dezembro 2017;17;GSAN;Atendimento;0
+19068;[COMERCIAL] Dados de débito tempo de atraso;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19069;Relatorio de partes relacionadas data base dezembro  de 2017;17;GSAN;Atendimento;0
+19070;Criação de novos usuários do alpha;3;Alpha;Atendimento;0
+19071;Processo 50 - ENCERRAR ARRECADACAO PARTE 2;17;GSAN;Atendimento;0
+19072;ATENDIMENTO;3;Alpha;Atendimento;0
+19073;Criar um novo tipo serviço na aba PA intitulado Mais Obras;3;Alpha;Atendimento;0
+19074;Levantamento dos serviços executados pela Enorsul;17;GSAN;Atendimento;0
+19075;Erro ao anexar arquivo em RA;17;GSAN;Atendimento;0
+19076;Impressão de RC;3;Alpha;Atendimento;0
+19077;Separar municípios por região de desenvolvimento e por gerência;20;SIM;Evoluções e Novos Projetos;0
+19079;Relatório por região de desenvolvimento;20;SIM;Evoluções e Novos Projetos;0
+19080;Valor da obra por município;20;SIM;Evoluções e Novos Projetos;0
+19081;Revisão de permissões de acesso;20;SIM;Evoluções e Novos Projetos;0
+19082;Plano de aplicação - Manual de compras 2018;3;Alpha;Atendimento;0
+19083;[COMERCIAL] Adicionar opção de filtro carteira: "SEM CARTEIRA";38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19084;Criação da empresa no Gsan;17;GSAN;Atendimento;0
+19085;CAMPO ANALISADO DISPONÍVEL ATÉ O FATURAMENTO DO GRUPO;17;GSAN;Evolutiva;0
+19086;ATUALIZAÇÃO QUERY ALEX_CARMEN;17;GSAN;Atendimento;0
+19087;Vincular o XML com o IDNF;3;Alpha;Atendimento;0
+19088;APURAÇÃO TELECOBRANÇA;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19089;Planilha para adicionar informações comerciais;17;GSAN;Atendimento;0
+19091;Plano de ação em pleitos;20;SIM;Evoluções e Novos Projetos;0
+19092;[NETBASE] - Remover colunas das tabelas e do script de carga;17;GSAN;Atendimento;0
+19093;Solicitação de Atualização do arquivo de ARRECADAÇÃO e FATURAMENTO;38;BI Desenvolvimento;Atendimento;0
+19094;AJUSTAR O PERÍODO DAS RECEITAS CANCELADAS PARA O CICLO;17;GSAN;Evolutiva;0
+19095;Alterar horário de atendimento das lojas Ferreiros e Camutanga no site;17;GSAN;Atendimento;0
+19096;Solicitação de atualização de Query de IAA e IAE.;38;BI Desenvolvimento;Atendimento;0
+19097;Atualização de  Query das Premissas;38;BI Desenvolvimento;Atendimento;0
+19098;[COMERCIAL] Analisar divergência a nível de Localidade e Gerência entre BI e GSAN em relação aos dados de Volume Faturado e Consumido;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19099;Erro ao cadastrar pleito;20;SIM;Correções;0
+19100;Campos Travados;28;SIC - Sist. Integrados Compesa;Correções;0
+19102;Gsan Online;17;GSAN;Atendimento;0
+19103;Migração da Cifra Engenharia para Rio Una;28;SIC - Sist. Integrados Compesa;Atendimento;0
+19104;Acesso sistema alpha;3;Alpha;Atendimento;0
+19105;TRAVEL - Erro no fechamento das despesas de viagens imputado em 2017 e não concluídos;3;Alpha;Atendimento;0
+19106;Ajuste layout Consultar Imóvel;17;GSAN;Corretiva;0
+19107;Acesso sistema alpha;3;Alpha;Atendimento;0
+19108;Acesso sistema alpha;3;Alpha;Atendimento;0
+19109;Relatório Funcionários;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+19110;Comunicados concluídos com status "Aprovado";28;SIC - Sist. Integrados Compesa;Correções;0
+19111;VERIFICAR FATURA 12/2017 DO IMOVEL 56125507;17;GSAN;Atendimento;0
+19112;Solicito a separação dos valores dos pagamentos;38;BI Desenvolvimento;Atendimento;0
+19113;Processo 2 -  FATURAR GRUPO FATURAMENTO;17;GSAN;Atendimento;0
+19115;Processo 2 -  FATURAR GRUPO FATURAMENTO;17;GSAN;Atendimento;0
+19116;Anexo da obra com acento no nome do arquivo;20;SIM;Correções;0
+19117;Solicitamos gerar uma planilha com a relação dos imóveis novos do roteiro cadastro da localidade Goiana-62, Setor 160;17;GSAN;Atendimento;0
+19118;Liberação acesso alpha;3;Alpha;Atendimento;0
+19119;Erro na Validação de Empregados.;28;SIC - Sist. Integrados Compesa;Atendimento;0
+19120;Gsan Onlin Indisponível;17;GSAN;Atendimento;0
+19121;Query Tribunal de Contas item 4;17;GSAN;Atendimento;0
+19122;Consultar e-mails enviados pelo GABI;39;GABI;Atendimento;0
+19123;Query Tribunal de Contas item 5;17;GSAN;Atendimento;0
+19124;Algumas linhas do QCI não está sendo importadas;28;SIC - Sist. Integrados Compesa;Correções;0
+19125;QCI de Porto de Galinhas não informa o valor de contrapartida;28;SIC - Sist. Integrados Compesa;Correções;0
+19126;O sistema não está permitindo desassociar um contrato de execução;28;SIC - Sist. Integrados Compesa;Correções;0
+19127;Atualização da apresentação do portal de Transparência e Publicidade visando atender a Lei nº 13.303/2016;64;SCL- Sistema Controle Licitações;Atendimento;0
+19128;Atualização da apresentação do portal de Transparência e Publicidade visando atender a Lei nº 13.303/2016;64;SCL- Sistema Controle Licitações;Evoluções e Novos Projetos;0
+19130;PROBLEMA EXTRAÇÃO TELECOBRANÇA;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19131;VINCULAR CHAVE DE ACESSO AO IDNF;3;Alpha;Atendimento;0
+19132;ALPHA 9 - modulo distribuição  - visita consultor;3;Alpha;Evoluções e Novos Projetos;0
+19133;Contrato Petrolina - acesso;17;GSAN;Atendimento;0
+19134;Reativar matrícula 605638;17;GSAN;Atendimento;0
+19135;[Netbase] - Verificar dados da tabela STD_BIL_CPOINT_RELATION;17;GSAN;Atendimento;0
+19136;Acréscimo de nome em marca de hidrômetro;17;GSAN;Atendimento;0
+19137;Inclusão de dados do Cliente e Localidade no pré-gsan;17;GSAN;Atendimento;0
+19138;FUNDO FIXO;3;Alpha;Atendimento;0
+19140;Consulta em controle rápido Usr por conta movimento;3;Alpha;Atendimento;0
+19141;Observação no campo "Observações Fiscalização" está replicando no Pré-Gsan;17;GSAN;Atendimento;0
+19142;CRIAÇÃO DO ACESSO AO ALPHA TS PARA COLABORADORES DA GNR MOXOTÓ;3;Alpha;Atendimento;0
+19143;RD 12/2016;17;GSAN;Atendimento;0
+19144;Adicionar implementação de nova consulta de CPF desenvolvida pela GTC;17;GSAN;Evolutiva;0
+19145;Regularização de Débitos para Implantação de Acordo Judicial;17;GSAN;Atendimento;0
+19146;ROTINA ATUALIZAÇÃO REPOSITÓRIO SIG;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19147;Alteração de Perfil de Senha;3;Alpha;Atendimento;0
+19148;ATUALIZAÇÃO REPOSITÓRIO SIG;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19149;Incluir dados na Query de Retificações e Cancelamentos - SIG;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19150;nao suspender imoveis micromedidos da suspensao do faturamento;17;GSAN;Evolutiva;0
+19151;PLANILHA COM OS IMOVEIS QUE POSSUEM TARIFA INDIGENA ASSOCIADA;17;GSAN;Atendimento;0
+19152;Problema nos filtros de obra;20;SIM;Correções;0
+19153;Erro tela parcelamento;17;GSAN;Corretiva;0
+19154;Perfil no ALPHA;3;Alpha;Atendimento;0
+19155;Erro Validar Serviço Executado - aparece a pergunta "Deseja encerrar o Registro de Atendimento?" para R.A com O.S pendente;17;GSAN;Corretiva;0
+19156;Erro;17;GSAN;Atendimento;0
+19157;Liberar acesso paqra fazer requisição pelo plano de aplicação;3;Alpha;Atendimento;0
+19158;Teste :: Campo Qualidade Escopo;17;GSAN;Evolutiva;0
+19159;Dados do Hidrômetro faltando na ABA LIGAÇÂO;17;GSAN;Corretiva;0
+19160;ORÇAMENTO DE OBRAS - Erro na criação de uma revisão;3;Alpha;Atendimento;0
+19161;Travel - Mudança confirmador de fundo fixo;3;Alpha;Atendimento;0
+19162;Criar Script de atualização de limite orçamentário;3;Alpha;Atendimento;0
+19163;Orçamento - Dúvida mensagem elaboração PA 21 projeto GO006drm16;3;Alpha;Atendimento;0
+19164;IMPRESSÃO DE DEVOLUÇÃO;3;Alpha;Atendimento;0
+19165;TRAVEL - Mudança de autorizador Id travel= 165419;3;Alpha;Atendimento;0
+19166;Corte e Religação solicitação fora do escopo;17;GSAN;Atendimento;0
+19167;TRAVEL - Dúvidas diversas teto orçamentário da travel após colocação em produção em 11/01/2017;3;Alpha;Atendimento;0
+19168;[COMERCIAL] Acompanhamento cartas de cobrança/negociação;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19169;NAO CONSIGO LIBERAR A RC;3;Alpha;Atendimento;0
+19170;Formulário carta de cobrança/negociação;17;GSAN;Evolutiva;0
+19171;Erro Parcelamento;17;GSAN;Atendimento;0
+19172;Revisão SIG - Planilha de Débito Orgãos Públicos;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19173;RD 12/2016;17;GSAN;Atendimento;0
+19174;Planilhas para Boletim de Medição;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19175;Imovel com RD 12 cancelada;17;GSAN;Atendimento;0
+19176;Reunião mensal - projeto ALPHA9;3;Alpha;Atendimento;0
+19177;Criar novo usuário para acesso ao Sistema Alpha - Rodrigo Lima Silva;3;Alpha;Atendimento;0
+19178;resetar senha;3;Alpha;Atendimento;0
+19180;VERIFICAR FATURA 12/2017 DO IMOVEL 56752145;17;GSAN;Atendimento;0
+19181;QUERYS GEV DE DEZEMBRO DE 2017;17;GSAN;Atendimento;0
+19182;CANCELAMENTOS POR REFATURAMENTO - AGUA E ESGOTO;17;GSAN;Atendimento;0
+19183;Relatório Consumido e não faturado Gsan;17;GSAN;Atendimento;0
+19184;[COMERCIAL] Imóveis com motivo de revisão Mário Gouveia;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19185;Query de Parcelamentos e Extratos;17;GSAN;Atendimento;0
+19186;[COMERCIAL] Incluir Campos no BI;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19187;query dívida;17;GSAN;Atendimento;0
+19188;Habilitar exibicao do parametro Magnesio no relatorio analitico;16;SGCQ;Atendimento;0
+19189;atualiza planilha Relação matriculas, célula, anormalidade, revisão, RA. Com dados da Fatura 12/2017;17;GSAN;Atendimento;0
+19190;Query Imóveis Suspensos de faturamento;17;GSAN;Atendimento;0
+19191;RETIRAR CODIGO 43 - 103824685;17;GSAN;Atendimento;0
+19192;Liberar acesso;3;Alpha;Atendimento;0
+19193;Petaso - Realizar a carga dos Autorizadores de viagens;57;ITC ;Evoluções e Novos Projetos;0
+19194;atualização query REGISTRO DE ATENDIMENTO COMERCIAL PENDENTE;17;GSAN;Atendimento;0
+19195;Atualização de query;17;GSAN;Atendimento;0
+19196;Consultar Ordem de Serviço - exibir o parecer do motivo de não encerramento O.S;17;GSAN;Evolutiva;0
+19197;Novo usuário ALPHA;3;Alpha;Atendimento;0
+19198;URGENTE: FATURAS 12/2017 NÃO FORAM GERADAS PARA ALGUNS CLIENTES;17;GSAN;Atendimento;0
+19200;Ampliar croqui dos municípios;20;SIM;Evoluções e Novos Projetos;0
+19201;Dados Comerciais;20;SIM;Atendimento;0
+19202;Plano de Aplicação - Regra de Autorização de Ordem de Compra;3;Alpha;Atendimento;0
+19203;Filtro de contratos ativos trazendo contratos encerrados;28;SIC - Sist. Integrados Compesa;Correções;0
+19204;Ajuste na procedure de boletim de atualização cadastral;17;GSAN;Desenvolvimento;0
+19205;Impressão do Boletim de Medição;3;Alpha;Atendimento;0
+19206;Notas Fiscais - Arredondamento dos Impostos;3;Alpha;Atendimento;0
+19207;VINCULAR CHAVE DE ACESSO AO IDNF;3;Alpha;Atendimento;0
+19208;[COMERCIAL] Relatório de Dívida;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19209;SISTEMATICA DO CODIGO 42 A PARTIR DO CICLO 01/2018;17;GSAN;Atendimento;0
+19210;[GMR] - Desenvolver funcionalidade gráfica no SIG GMR para o Filtro “RA PENDENTES SEM O.S. PENDENTE” por gerência.;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19211;Vincular XML com IDNF;3;Alpha;Atendimento;0
+19212;PROCESSO 110 - GER. CONTAS A RECEBER CONTABIL;17;GSAN;Atendimento;0
+19213;Query Micromedição- Rodrigo;17;GSAN;Atendimento;0
+19214;[COMERCIAL] Criar visão de entradas e saídas de ligações faturas (ligados);38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19215;Sistema de Reserva de Sala;28;SIC - Sist. Integrados Compesa;Correções;0
+19216;Limpeza da Sala Virtual (ALTERAÇÃO DE INSCRIÇÃO VIA BATCH);17;GSAN;Atendimento;0
+19217;Erro - Obras em Andamento e Projetos em Andamento - Ver todos;20;SIM;Correções;0
+19218;[CADASTRO] Gerar Relatórios de Alteração Cadastral;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19219;Inclusão de filtro de gerência relatório SIG;61;SIG - Sistema Informações Gerenciais;Evoluções e Novos Projetos;0
+19220;Problema na emissão de ordem de seletiva;17;GSAN;Atendimento;0
+19221;Erro nas horas incorporadas - GHE;32;GHE - Gestão de Horas Extras;Atendimento;0
+19222;Criar visão com dados de gerentes e coordenadores;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+19223;Problema Consultar Débito;17;GSAN;Corretiva;0
+19224;Erro Importação FIT Nf-e;3;Alpha;Atendimento;0
+19225;[COMERCIAL]  Criar indicadores de controle para Cortes e Religações;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19226;Resposta TC Processo 1724204-6;17;GSAN;Atendimento;0
+19227;GERAÇÃO AUTOMÁTICA DE REGISTRO DE ATENDIMENTO NO PROCESSO DE ATUALIZAÇÃO CADASTRAL;17;GSAN;Evolutiva;0
+19228;Metas 2018 - SIPLAN;60;SIPLAN - Sistema Planejamento;Atendimento;0
+19229;RD 12/2016;17;GSAN;Atendimento;0
+19230;Processo 286 - GERAR RESUMOS DO GERENCIAL FATURAMENTO;17;GSAN;Atendimento;0
+19231;Avisos válidos;17;GSAN;Atendimento;0
+19232;[SAT] Atualização;38;BI Desenvolvimento;Atendimento;0
+19233;Erro Pesquisa SIM;20;SIM;Correções;0
+19234;Criação de três novas senhas de acesso ao Alpha;3;Alpha;Atendimento;0
+19235;[PREMISSAS] Atualização Bases;38;BI Desenvolvimento;Atendimento;0
+19236;AJUSTE DO RELATORIO BOLETIM DE MEDIÇÃO (Parte de notificação de débitos);17;GSAN;Corretiva;0
+19237;DADOS DO HISTORICO DE MEDIÇÃO IDIVIDUALIZADA DO CICLO 10/2017 NÃO DISPONIVEIS NO SISTEMA - 77360320;17;GSAN;Corretiva;0
+19238;[COMERCIAL] Criar visão de negociações realizadas;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19239;Confirmação de OC no site 111;3;Alpha;Atendimento;0
+19240;nota fiscal - rpa cancelado;3;Alpha;Atendimento;0
+19241;nota fiscal - rpa cancelado;3;Alpha;Atendimento;0
+19242;GSAN | Bloqueio para geração das ordens de serviços.;17;GSAN;Corretiva;0
+19243;Atualização de caixas da GNM Norte;17;GSAN;Atendimento;0
+19244;ATUALIZAÇÃO QUERY CONTROLE PRODUTIVIDADE - SIG;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19245;Processo 341 - PROCESSOS PARA EXECUCAO DIARIA;17;GSAN;Corretiva;0
+19246;RD 12/2016;17;GSAN;Atendimento;0
+19247;Exclusão empresa de cobrança;17;GSAN;Atendimento;0
+19248;Erro ao cancelar reserva em OS;3;Alpha;Atendimento;0
+19249;O.S antigas Varejo;17;GSAN;Atendimento;0
+19250;Erro na exclusão de empréstimos;28;SIC - Sist. Integrados Compesa;Correções;0
+19251;Relatório de OS's abertas pelo CCO para unidade;3;Alpha;Atendimento;0
+19252;Informações Negativação;17;GSAN;Atendimento;0
+19253;Alteração de vencimento - Faturas do Contrato de parcelamento;17;GSAN;Atendimento;0
+19254;lotação sem meta;32;GHE - Gestão de Horas Extras;Atendimento;0
+19255;Permisão Especial - Parcelamento;17;GSAN;Atendimento;0
+19256;Consultar Foto da OS - Trocar a edição das coordenadas XY de virgula por ponto;17;GSAN;Evolutiva;0
+19257;RD 12/2016;17;GSAN;Atendimento;0
+19258;Atualização do quadro de acompanhamento da Micromedição 2017;17;GSAN;Atendimento;0
+19259;Projeto Gestão do Uso de Material de O.S - Controlar o material entregue as empresas contratadas e suas aplicações na execução do serviço;17;GSAN;Evolutiva;0
+19260;Alteração GSAN AC cadastro e fiscalização;17;GSAN;Corretiva;0
+19261;liberação de acesso - Solicitação para a cotação;3;Alpha;Atendimento;0
+19262;duvida na consulta de estoque;3;Alpha;Atendimento;0
+19263;Aprovação de Transferências - Assesssores;28;SIC - Sist. Integrados Compesa;Correções;0
+19264;Importar planilha do passivo regulatório;57;ITC ;Evoluções e Novos Projetos;0
+19265;Gerar novamente meses 201703 e 201704 da query FATURAMENTO SUSPENSO do SIG (201703-571 e 201704-571);61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19266;admin/solution - alteraçao de senha;3;Alpha;Atendimento;0
+19267;Envio unidades enorsul;17;GSAN;Atendimento;0
+19268;Criar Rotina e Planilha Excel para Ações de Cobrança;38;BI Desenvolvimento;Atendimento;0
+19269;Disponibilizar relatório das ordens de compras emitidas com a utilização do teto orçamentário para compras;3;Alpha;Atendimento;0
+19270;Alteração GSAN AC - Congelar Filtro;17;GSAN;Corretiva;0
+19271;excluir CPF;17;GSAN;Atendimento;0
+19272;CRIAÇÃO NO SCL O ROL DE DISPENSA DE LICITAÇAO;64;SCL- Sistema Controle Licitações;Atendimento;0
+19273;admin/solution - alteração de senha;3;Alpha;Atendimento;0
+19274;admi/solition - alteraçao de senha;3;Alpha;Atendimento;0
+19275;relatório Negativação - negativador por matrícula;17;GSAN;Evolutiva;0
+19276;admin/solution - alteração de senha;3;Alpha;Atendimento;0
+19277;[PLANO DE METAS] Carregar Metas Comerciais e Operacionais de 2018 no BI;38;BI Desenvolvimento;Atendimento;0
+19278;PortalGSC - Primeira versão do portal;74;Portal GSC;Evoluções e Novos Projetos;0
+19282;[PLANO DE METAS] Atualização - 12º Ciclo;38;BI Desenvolvimento;Atendimento;0
+19283;ERRO AO TENTAR FAZER A CONEXAO DO PROJETO;3;Alpha;Atendimento;0
+19284;INSERIR COTAÇÕES;3;Alpha;Atendimento;0
+19285;Atualizaçaõ de query;17;GSAN;Atendimento;0
+19286;Unidades não aparecem para Validar os Colaboradores;28;SIC - Sist. Integrados Compesa;Atendimento;0
+19287;ATENDIMENTO;3;Alpha;Atendimento;0
+19288;Contratação Serviço IA;67;Gerencial GSC;Atendimento;0
+19289;Erro na abertura de RA para a matrícula 69295703;17;GSAN;Atendimento;0
+19290;Acesso a carteira Petrolina;17;GSAN;Atendimento;0
+19291;Gestão do Uso de Material de O.S - Facilitar preenchimento obrigatório de item de material utilizado em O.S de tipo de serviço hidráulico - GSANAS;17;GSAN;Evolutiva;0
+19292;Corrigir texto da norma para certificado de analise;16;SGCQ;Atendimento;0
+19293;Reativar matrícula 103851461;17;GSAN;Atendimento;0
+19294;Erro ao importar planilha com o índice de perdas;20;SIM;Correções;0
+19295;Inserir motivo PAGAMENTO NÃO BAIXADO;17;GSAN;Atendimento;0
+19296;VERIFICAR SE EXISTE MATRICULAS COM AÇÕES JUDICIAIS NA RELAÇÃO EM ANEXO;13;JUSCOMPESA;Atendimento;0
+19297;Query Análise Pagamento Imóveis Ligados;17;GSAN;Atendimento;0
+19298;Sala Virtual para Retificação;17;GSAN;Evolutiva;0
+19299;criar usuário do alpha;3;Alpha;Atendimento;0
+19300;Solicito uma query da arrecadação de água e esgoto;17;GSAN;Atendimento;0
+19301;RD 12/2016;17;GSAN;Atendimento;0
+19302;Cadastro de Gerente;3;Alpha;Atendimento;0
+19303;[COMERCIAL] IAA e IAE;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19304;[GMR] - ERRO - O dia de feriado considerado no cálculo da data de tramite ajustada não foi aplicado nas datas baseada na data de tramite ajustada;38;BI Desenvolvimento;Atendimento;0
+19305;RETIRAR CODIGO 42 - 68412188;17;GSAN;Atendimento;0
+19306;RETIRAR CODIGO 43 - 53842534;17;GSAN;Atendimento;0
+19307;OPÇÃO DE ATUALIZAR O RA QUANDO O MESMO É GERADO AUTOMATICAMENTE PELO USUARIO ROTINA BATCH;17;GSAN;Corretiva;0
+19308;Abrir e encerrar RA de solicitações de Faturamento;17;GSAN;Atendimento;0
+19309;RETIRAR CODIGO 42 - 55162670;17;GSAN;Atendimento;0
+19310;Cancelamento matricula;17;GSAN;Atendimento;0
+19311;Criar base de dados municipal com informações do IBGE;57;ITC ;Evoluções e Novos Projetos;0
+19312;Notas canceladas;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+19313;Oracle - Query pesada;17;GSAN;Corretiva;0
+19314;GSAN | ALTERAÇÕES CAIXAS OA PARA BRK;17;GSAN;Atendimento;0
+19315;Espelho de Atendimento;17;GSAN;Evolutiva;0
+19316;Processo 330 - RELATORIO ACOMPANHAMENTO PARCEL REC CRED;17;GSAN;Atendimento;0
+19317;Processo 170 - RELATORIO RESUMO DISTRITO OPERACIONAL;17;GSAN;Atendimento;0
+19318;admin\solution;3;Alpha;Atendimento;0
+19319;Exibir a informação de Scores ordenado por ano mês de referência;17;GSAN;Corretiva;0
+19320;Erro Lançamento sem ORDEM;3;Alpha;Atendimento;0
+19321;Criar login do ALPHA para usuários do;3;Alpha;Atendimento;0
+19322;Erro na inclusão dos Ressarcimentos;28;SIC - Sist. Integrados Compesa;Correções;0
+19323;REGISTRO DAS FATURAS NÃO GERADAS NO CICLO 12/2017 NO CICLO 01/2018;17;GSAN;Atendimento;0
+19324;Verificar Situação Especial de Faturamento - Faturar Taxa Mínima;17;GSAN;Atendimento;0
+19325;Controle de Normas - Etapa 1;72;Controle de Normas;Evoluções e Novos Projetos;0
+19326;gsaneos - carta;17;GSAN;Evolutiva;0
+19327;CIA - Alterações;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+19328;Sinalizador Reclame Aqui;17;GSAN;Evolutiva;0
+19329;admin/solution - alteração de senha;3;Alpha;Atendimento;0
+19330;Prestação de Contas;28;SIC - Sist. Integrados Compesa;Atendimento;0
+19331;Erro na Ordem de Compra;3;Alpha;Atendimento;0
+19332;Acréscimo de Informação na Query Análise Pagamento Imóveis Ligados;17;GSAN;Atendimento;0
+19333;ERRO;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+19334;REGISTRO DE ATENDIMENTO OPERACIONAL PENDENTE;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19335;Apoio na instalação do aplicativo para Plan. Estratégico;67;Gerencial GSC;Atendimento;0
+19336;Extrato;17;GSAN;Atendimento;0
+19337;PortalGSC - Dinamizar todo o conteúdo;74;Portal GSC;Evoluções e Novos Projetos;0
+19338;Ciclope - Desenvolver autenticação LDAP;57;ITC ;Evoluções e Novos Projetos;0
+19339;Petaso - Agrupar autorizadores;57;ITC ;Evoluções e Novos Projetos;0
+19340;Petaso - Melhorar importação de dados do Alpha;57;ITC ;Evoluções e Novos Projetos;0
+19341;ativar usuário;3;Alpha;Atendimento;0
+19342;admin/solution - alteração de senha;3;Alpha;Atendimento;0
+19343;Usuário sem conseguir autorizar  RC;3;Alpha;Atendimento;0
+19344;REVER PARAMETRIZAÇÃO DA ANORMALIDADE DE LEITURA DE HD INVERTIDO (COD. 6);17;GSAN;Atendimento;0
+19345;Inclusão de contrato de aluguel no ALPHA para pagamentos de duas parcelas restantes.;3;Alpha;Atendimento;0
+19346;Resetar senha;3;Alpha;Atendimento;0
+19347;Ordenar manobras por Data e Hora no Comunicado;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+19348;Criação de Usuários - DRI;13;JUSCOMPESA;Atendimento;0
+19349;Validação do Dados - Migração anual de projetos para PLANO 2018;3;Alpha;Atendimento;0
+19350;OGE Import - Análise dos dados a serem importados;57;ITC ;Evoluções e Novos Projetos;0
+19351;Solicitação de query - planilha com de arrecadação e faturamento por município;17;GSAN;Atendimento;0
+19352;Reunião - Análise da Demanda Orçamentária da DGC;3;Alpha;Atendimento;0
+19353;Análise CT.OS. 14.4.165 medição 32/32;3;Alpha;Atendimento;0
+19354;Liberar acesso;3;Alpha;Atendimento;0
+19355;alteração documento inexistente;17;GSAN;Evolutiva;0
+19356;Licenciamento Ambiental - Ajustes na planilha;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+19357;[COMERCIAL] Medição;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19358;GSAN | Problemas carregamento de fotos;17;GSAN;Atendimento;0
+19359;Acrescentar no Relatório - unidade OS;3;Alpha;Atendimento;0
+19360;Pré-Gsan: Imóveis com inscrição em duplicidade no Virtual II;17;GSAN;Atendimento;0
+19361;Manutenção Indicadores;3;Alpha;Atendimento;0
+19362;desbloquear senha;3;Alpha;Atendimento;0
+19363;188 - GERAR REL. ACOMPANHAMENTO LEITURISTA;17;GSAN;Atendimento;0
+19364;Matricula-DMC-PC;17;GSAN;Evolutiva;0
+19365;Reunião - Análise da Demanda Orçamentária da DGC;3;Alpha;Atendimento;0
+19366;ATUALIZAÇÃO DA QUERY  PAGAMENTO GRANDES CLIENTES - GNM SUL;17;GSAN;Atendimento;0
+19367;Inclusão de Matrícula no Débito Automático;17;GSAN;Atendimento;0
+19368;Usuária sem conseguir imprimir RC;3;Alpha;Atendimento;0
+19369;Desativar do ALPHA os usuários demitidos.;3;Alpha;Atendimento;0
+19370;Suporte Novo Fluxo de Plano de Aplicação;3;Alpha;Atendimento;0
+19371;Contrato de Varejo - Boletim;17;GSAN;Evolutiva;0
+19372;resetar senha;3;Alpha;Atendimento;0
+19373;resetar senha;3;Alpha;Atendimento;0
+19374;Contrato de Parcelamento;17;GSAN;Atendimento;0
+19375;liberar acesso;3;Alpha;Atendimento;0
+19376;Erro Importacao FIT NF-e;3;Alpha;Atendimento;0
+19377;Criar usuário para o ALPHA;3;Alpha;Atendimento;0
+19378;Ajuste Plano de Aplicação;3;Alpha;Atendimento;0
+19379;RD 12/2016;17;GSAN;Atendimento;0
+19380;Empresa Enorsul Cobrança;17;GSAN;Atendimento;0
+19381;Melhorias nos relatórios - GHE;32;GHE - Gestão de Horas Extras;Atendimento;0
+19382;Criação Projetos Plano Aplicação;3;Alpha;Atendimento;0
+19383;resetar senha;3;Alpha;Atendimento;0
+19384;Não consegue concluir fechamento do GED;3;Alpha;Atendimento;0
+19385;Desbloquear senha;3;Alpha;Atendimento;0
+19386;Relatório SIM;20;SIM;Atendimento;0
+19387;Inclusão de Informações - Guia Dados da Prefeitura;20;SIM;Evoluções e Novos Projetos;0
+19388;Levantamento dos serviços executados pelo ENORSUL;17;GSAN;Atendimento;0
+19389;LIBERAR ACESSO A CARTEIRA DE CONDOMINIO E VAREJO;17;GSAN;Atendimento;0
+19390;Criação de usuário Alpha;3;Alpha;Atendimento;0
+19391;Inclusão das Notas das Avaliações de Desempenho;65;RFE - Relatório Funcional do Empregado;Atendimento;0
+19392;Acesso a carteira Tecnoáguas;17;GSAN;Atendimento;0
+19393;VINCULAR CHAVE DE ACESSO AO IDNF;3;Alpha;Atendimento;0
+19394;Usuário sem conseguir lançar despesas de viagem;3;Alpha;Atendimento;0
+19395;resetar senha;3;Alpha;Atendimento;0
+19396;RD 12/2016;17;GSAN;Atendimento;0
+19397;Geração de relatório de Doações - Pró-Criança  - Instituto Terra - Hospital do Câncer;3;Alpha;Atendimento;0
+19398;Campanha de adesão;17;GSAN;Atendimento;0
+19399;Reativar a matrícula 652415;17;GSAN;Atendimento;0
+19400;Manter Parametro Sistema não mostra parâmetros;17;GSAN;Corretiva;0
+19401;Inclusão de dados - Histórico de Transferência;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+19402;Acrescentar o campo Responsável no cadastro da etapa da ação;39;GABI;Evoluções e Novos Projetos;0
+19403;resetar senha;3;Alpha;Atendimento;0
+19404;Solicitação de relatórios;17;GSAN;Atendimento;0
+19405;ATUALIZAÇÃO QUERY;17;GSAN;Atendimento;0
+19406;comando BRK;17;GSAN;Atendimento;0
+19407;Solicitação de query - histograma de água e esgoto (faixas de consumo);17;GSAN;Atendimento;0
+19408;Criar novo usuário;3;Alpha;Atendimento;0
+19409;[COMERCIAL] Composição Analítica da Arrecadação no Mês no BI;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19410;Acompanhamento de Contratos OGU - Prestação de Contas;28;SIC - Sist. Integrados Compesa;Correções;0
+19411;Erro ao gerar o DE/PARA;3;Alpha;Atendimento;0
+19413;Usuária sem conseguir acessar ALPHA;3;Alpha;Atendimento;0
+19414;Reativar matrícula 108145808;17;GSAN;Atendimento;0
+19415;Resetar senha;3;Alpha;Atendimento;0
+19416;[COMERCIAL] Inclusão de tipo de relação no BI;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19417;RETIRAR CODIGO 42 - 51465466;17;GSAN;Atendimento;0
+19418;Serviços com RA - smartphone;17;GSAN;Evolutiva;0
+19419;Criação de Campo - Mão de obra indireta;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+19420;Planilha Operacional | Lentidão para atualização planilha com view FOZ-COMPESA;17;GSAN;Atendimento;0
+19421;Alteração de nomenclatura de Itens no site;64;SCL- Sistema Controle Licitações;Atendimento;0
+19422;Relatório faltando nome de colaborador;28;SIC - Sist. Integrados Compesa;Correções;0
+19423;admin/solution - alteração de senha;3;Alpha;Atendimento;0
+19424;IMOVEIS CORTADOS E SUPRIMIDOS PASSIVO TOTAL;17;GSAN;Atendimento;0
+19425;CADASTRO DE USUÁRIO POR CONTA MOVIMENTO;3;Alpha;Atendimento;0
+19426;Revalidação de senha do Alpha;3;Alpha;Atendimento;0
+19427;APURAÇÃO TELECOBRANÇA;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19428;Complemento de Planilha já elaborada por Souza;17;GSAN;Atendimento;0
+19429;ATUALIZAÇÃO QUERY ALEX_CARMEN;17;GSAN;Atendimento;0
+19430;RETIRAR CODIGO 42 - 106069853;17;GSAN;Atendimento;0
+19431;[COMERCIAL] Inclusão na Tabela Analítica da Data do Corte / Religação / Supressão / Restabelecimento;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19432;Usuário não recebe e-mail ao ser liberado RC;3;Alpha;Atendimento;0
+19433;Acesso ao Alpha;3;Alpha;Atendimento;0
+19434;negativação;17;GSAN;Atendimento;0
+19435;Ajuste do Indicador para Contrato de Demanda de Tarifa Específica;17;GSAN;Atendimento;0
+19436;Importação Gsan X Alpha;17;GSAN;Evolutiva;0
+19437;Comando de corte físico;17;GSAN;Evolutiva;0
+19438;COMANDOS CORTES FÍSICOS;17;GSAN;Atendimento;0
+19439;RD 12/2016;17;GSAN;Atendimento;0
+19440;admin/solution - alteração de senha;3;Alpha;Atendimento;0
+19441;admin/solution - alteração de senha;3;Alpha;Atendimento;0
+19442;BLOQUEAR ALTERAÇÕES DE PRAZO.;13;JUSCOMPESA;Atendimento;0
+19443;LEVANTAMENTO DE IMOVEIS QUE POSSUEM CPF E CNPJ NO CADASTRO;17;GSAN;Atendimento;0
+19444;Etapas das ações no sistema GABI;39;GABI;Atendimento;0
+19445;[COMERCIAL] Criar visão de cortes executados, valores pagos e sem religação solicitada,;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19446;PLANILHAS PARA BOLETIM DE MEDIÇÃO;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19447;[COMERCIAL] SEPARAR INFORMAÇÕES DE IMOVEIS QUE POSSUEM CPF E CNPJ NO BI;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19448;Atualizar Cliente prefeitura;17;GSAN;Atendimento;0
+19449;[COMERCIAL] IMOVEL 54256345 COM 2 FATURAS COM REFERENCIA 12/2017;17;GSAN;Atendimento;0
+19450;Consulta de OS's por Tipo Manut;3;Alpha;Atendimento;0
+19451;Relatórios Indicadores Contrato de Varejo;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19452;Relação de clientes - categoria/;17;GSAN;Atendimento;0
+19453;PERDAS DE FOTOS NO PROCESSO DE ATUALIZAÇÃO CADASTRAL;17;GSAN;Corretiva;0
+19454;usuária quer cancelar um GED;3;Alpha;Atendimento;0
+19455;Incluir funcionário no alpha;3;Alpha;Atendimento;0
+19456;Acrescentar situação de cobrança em planilha extraída da análise de cenários do Giscomp;17;GSAN;Atendimento;0
+19457;[GESTÃO] Verificar visualização do ano 2020 no BI Despesas;38;BI Desenvolvimento;Atendimento;0
+19458;desbloquear senha;3;Alpha;Atendimento;0
+19459;Avisos do ALPHA sobre vencimentos de contratos;3;Alpha;Atendimento;0
+19460;Cadastrar funcionário no ALPHA;3;Alpha;Atendimento;0
+19461;Acesso ao Projeto "FICHAS-EPI";3;Alpha;Atendimento;0
+19462;Criação dos códigos de baixa na base Copy;3;Alpha;Atendimento;0
+19463;Ajustar a view BID2_PAGAMENTOS2_COM_OC;3;Alpha;Atendimento;0
+19464;Erro na aprovação no Ambiente Virtual II - alteração de categoria com aumento de faturamento e alteração da ligação de água com aumento de faturamento;17;GSAN;Corretiva;0
+19465;Atualização Automática de parametros no SIM;20;SIM;Atendimento;0
+19466;Não conseguir fazer RC;3;Alpha;Atendimento;0
+19467;Dados repetidos no PRÉ GSAN -  matrícula 77917430;17;GSAN;Atendimento;0
+19468;Consulta Info Services - Consulta Estoque Plano de Aplicação - Inclusão de informação;3;Alpha;Atendimento;0
+19469;PROCESSO 3 - GERAR DADOS PARA LEITURA GRUPO 18;17;GSAN;Atendimento;0
+19470;Reativar matrícula 107209837;17;GSAN;Atendimento;0
+19471;fatura 12/2017 não gerada para a matricula 106513010;17;GSAN;Atendimento;0
+19472;Solicitação de Query -;17;GSAN;Atendimento;0
+19473;exclusao negativacao;17;GSAN;Atendimento;0
+19474;Alterar campo dos indicadores no sistema GABI;39;GABI;Atendimento;0
+19475;[COMERCIAL] ANALISE DO FATURAMENTO POR GERENCIA;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19476;HISTÓRICO DE MEDIÇÃO DO ESGOTO - AUSÊNCIA DE INFORMAÇÃO;17;GSAN;Corretiva;0
+19477;RETIRAR CODIGO 43 - 54205104;17;GSAN;Atendimento;0
+19478;Usuário sem conseguir confirmar Fundo Fixo;3;Alpha;Atendimento;0
+19479;Serviços de cobrança;17;GSAN;Atendimento;0
+19480;Solicito a atualização do arquivo IAA e IAE;17;GSAN;Atendimento;0
+19481;Atualizar dados das lojas no site Compesa;17;GSAN;Atendimento;0
+19482;Liberação para reativação de matrícula pela GTC;17;GSAN;Evolutiva;0
+19483;RD 12/2016;17;GSAN;Atendimento;0
+19484;Solicitação de Acesso GSAN;17;GSAN;Atendimento;0
+19485;Incluir e excluir e-mail do cadastro das prefeituras;17;GSAN;Atendimento;0
+19486;Criar Usuário Alan Charles;3;Alpha;Atendimento;0
+19487;TRAVEL - Troca de autorizado dfos fomula´rios da travle de Anderson para Arlenelima;3;Alpha;Atendimento;0
+19488;Alteração de Informações no GSAN;17;GSAN;Atendimento;0
+19489;ALTERAÇÕES NA TELA ANALISAR EXCEÇÕES DE LEITURAS E CONSUMOS;17;GSAN;Evolutiva;0
+19490;AJUSTE DAS QUERYS (GEV - DNN) - REAJUSTE DA TABELA DE PREÇOS DA PPP - FATURA 01-18;17;GSAN;Atendimento;0
+19491;Ajuste no Sistema de Reserva de Salas;28;SIC - Sist. Integrados Compesa;Correções;0
+19492;resetar senha;3;Alpha;Atendimento;0
+19493;Liberar acesso a perfil;3;Alpha;Atendimento;0
+19494;Liberar acesso;3;Alpha;Atendimento;0
+19495;Lembrete de pleitos enviados para gerentes anteriores;20;SIM;Correções;0
+19496;MOVIMENTO DE NEGATIVACAO;17;GSAN;Evolutiva;0
+19497;ALTERAÇÃO DE CONTA MOVIMENTO;3;Alpha;Atendimento;0
+19498;PROCESSO 57 - GERAR FATURA CLIENTE RESPONSAVEL;17;GSAN;Corretiva;0
+19499;Problemas na implantação do HD A05P082526;17;GSAN;Atendimento;0
+19500;RETIRAR CODIGO 42 - GNR Fernando de Noronha;17;GSAN;Atendimento;0
+19501;Volume produzido zerado para Dezembro/2017;20;SIM;Correções;0
+19502;Excluir tarifa;17;GSAN;Atendimento;0
+19503;Carteira de Condomínios;17;GSAN;Atendimento;0
+19504;Liberar acesso;3;Alpha;Atendimento;0
+19505;liberar acesso a solicitação da Requisição de compras;3;Alpha;Atendimento;0
+19506;Liberar acesso;3;Alpha;Atendimento;0
+19507;Ordem de Compra totalmente entregue, mas apresentando etapa "aguardando entrega" para um dos itens;3;Alpha;Atendimento;0
+19508;liberar acesso;3;Alpha;Atendimento;0
+19509;resetar senha;3;Alpha;Atendimento;0
+19510;Retificação do valor do ISS no sistema;3;Alpha;Atendimento;0
+19511;Envio conta por email;17;GSAN;Evolutiva;0
+19512;validação de processos - ALPHA 9 - Atendimento ao Usuário;3;Alpha;Atendimento;0
+19513;Contrato - Erro ocorrido pela mudança de grupo de alguns materiais;3;Alpha;Atendimento;0
+19514;TRAVEL - Erro reportado no saldo orçamentário das diarias da GRC;3;Alpha;Atendimento;0
+19515;relatório documento inexistente;17;GSAN;Atendimento;0
+19516;RETORNO DE NEGATIVACAO;17;GSAN;Atendimento;0
+19517;ANALISE RESUMO DO FATURAMENTO - RELATÓRIO R0173;17;GSAN;Atendimento;0
+19518;Orçamento de Obras - Correção inclusão itens no orçamento de obras;3;Alpha;Atendimento;0
+19519;Verificar inconsistência no Virtual II para a alteração de categoria com aumento de faturamento;17;GSAN;Corretiva;0
+19520;[COMERCIAL] Adicionar filtros de Faturado de água e Faturado de esgoto;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19521;Processo 79 - GERAR RESUMO DEVEDORES DUVIDOSOS;17;GSAN;Atendimento;0
+19522;108 - GER. DEPOIS ENCERRAMENTO FATURAMENTO;17;GSAN;Atendimento;0
+19523;Query de Parcelamentos e Extratos de 2017;17;GSAN;Atendimento;0
+19524;retorno de negativacao;17;GSAN;Atendimento;0
+19525;Query Micromedição- Rodrigo;17;GSAN;Atendimento;0
+19526;Controle de Normas - Etapa 2;72;Controle de Normas;Evoluções e Novos Projetos;0
+19527;sandro lemos moura;67;Gerencial GSC;Consultoria;0
+19528;Boletim Condomínios -  Água da Compesa;17;GSAN;Atendimento;0
+19529;inconsistências nas informações - e-mail automático;3;Alpha;Atendimento;0
+19530;Comando BRK;17;GSAN;Atendimento;0
+19531;303 - PROCESSAR ARQUIVO RESETORIZACAO IMOVEIS;17;GSAN;Atendimento;0
+19532;Premissas;39;GABI;Atendimento;0
+19533;CRIAÇÃO DE USUARIO NO ALPHA;3;Alpha;Atendimento;0
+19534;MATRÍCULA NA ROTA E SEM LEITURA;17;GSAN;Atendimento;0
+19535;Reset na senha do Alpha;3;Alpha;Atendimento;0
+19536;Criação de acesso ao sistema Alpha.;3;Alpha;Atendimento;0
+19537;VERIFICAR CASOS DE CARTA DE CONEXÃO DE ESGOTO QUE FORAM ENCERRADAS COMO SERVIÇO NAO EXECUTADO;17;GSAN;Corretiva;0
+19538;Query de extratos e parcelamentos Janeiro 2017 a Janeiro 2018;17;GSAN;Atendimento;0
+19539;Solicitação de acesso;3;Alpha;Atendimento;0
+19540;Excluir tarifa;17;GSAN;Atendimento;0
+19541;SOLICITAÇÃO DE ACESSO AO ALPHA;3;Alpha;Atendimento;0
+19542;Levantamento de Imóveis;17;GSAN;Atendimento;0
+19543;Alteração na nomenclatura de MEIO DE SOLICITAÇÃO e UNIDADE DE ABERTURA;17;GSAN;Atendimento;0
+19544;Ausência de Dados Comerciais;20;SIM;Correções;0
+19545;ACESSO AO PARÂMETRO DE SISTEMA DO GSAN "AM_REFERENCIA_BOLETIM_MEDICAO_GMR";17;GSAN;Atendimento;0
+19546;FATURAS EM REVISÃO - DATA DE ENTRADA E RETIRADA;17;GSAN;Atendimento;0
+19547;[PREMISSAS] Atualização Bases;38;BI Desenvolvimento;Atendimento;0
+19548;NOTA FISCAL - LANÇAMENTO - MENSAGEM DE ERRO - SITE 701;3;Alpha;Atendimento;0
+19549;EMPREGADOS DEMITIDOS - REATIVADOS;28;SIC - Sist. Integrados Compesa;Correções;0
+19550;Incluir Opções ao Demitir Colaborador;28;SIC - Sist. Integrados Compesa;Atendimento;0
+19551;Imóveis de Mário Gouveia com aviso de corte;17;GSAN;Atendimento;0
+19552;GERAR DADOS PARA LEITURA GRUPO 2;17;GSAN;Atendimento;0
+19554;[COMERCIAL] Verificar possibilidade de inserir o campo Volume Medido na seção Valores de Medição do BI Analítico (nível de matrícula);38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19555;LEVANTAR OS CASOS DE CARTA DE CONEXÃO DE ESGOTO QUE FORAM ENCERRADAS COMO SERVIÇO NAO EXECUTADO POR PROBLEMA NO SISTEMA;17;GSAN;Atendimento;0
+19556;Suporte a usuário GCR;3;Alpha;Atendimento;0
+19557;Implantação da norma de retificação de faturas no sistema;17;GSAN;Evolutiva;0
+19559;Atendimento a usuáruo_Módulo de Contratos;3;Alpha;Atendimento;0
+19560;RD 12/2016;17;GSAN;Atendimento;0
+19561;ADEQUAÇÃO DAS DATAS DE VENCIMENTO GERADAS AUTOMATICAMENTE PELO SISTEMA;17;GSAN;Evolutiva;0
+19562;admin/solution - alteração de senha;3;Alpha;Atendimento;0
+19563;admin/solution - alteração de senha;3;Alpha;Atendimento;0
+19564;regra de medição individualizada (ISC);17;GSAN;Evolutiva;0
+19565;RETIRAR CODIGO 43 - 2336731;17;GSAN;Atendimento;0
+19566;SIG - VOLUME OPERACIONAL - BALANÇO HÍDRICO - ligações - ref Atendimento #15792;61;SIG - Sistema Informações Gerenciais;Correções;0
+19567;Desbloqueio de acesso.;17;GSAN;Atendimento;0
+19568;Perfil - Alpha;3;Alpha;Atendimento;0
+19569;UC1756 – Mover Imóveis Negociados para Lote Performance;17;GSAN;Desenvolvimento;0
+19570;Atendimento a usuáruo_Módulo de Contratos;3;Alpha;Atendimento;0
+19571;UC1731 – Inserir Carteira  e UC1733 – Manter Carteira;17;GSAN;Desenvolvimento;0
+19572;UC1725 – Gerar Carteira Boletim de Medição;17;GSAN;Desenvolvimento;0
+19573;UC1757 - Cadastrar Base de Referência Contrato de Performance;17;GSAN;Desenvolvimento;0
+19575;[TESTES] UCXXXX - Gerar Carteira Acompanhamento Faturamento;17;GSAN;Desenvolvimento;0
+19576;[TESTES] UCXXXX - Gerar Carteira Acompanhamento Arrecadacao;17;GSAN;Desenvolvimento;0
+19577;[TESTES] UCXXXX - Gerar Carteira Acompanhamento Atendimento;17;GSAN;Desenvolvimento;0
+19578;Projeto - Controle de compras de materiais de obras dentro do projeto - orçamento de investimento;3;Alpha;Atendimento;0
+19579;TRAVEL - Alterar o autorizador do ID 186907;3;Alpha;Atendimento;0
+19580;Atendimento a usuáruo_Módulo de Contratos;3;Alpha;Atendimento;0
+19581;Verificar matrículas que estão na inconsistência, aparentemente de forma indevida;17;GSAN;Atendimento;0
+19583;SOLICITAÇÃO DE ACESSO AO ALPHA;3;Alpha;Atendimento;0
+19584;Solicitação e autorização de senha ALPHA;3;Alpha;Atendimento;0
+19585;FATURAS EM REVISÃO - INCLUSÃO DE INFORMAÇÕES;17;GSAN;Atendimento;0
+19586;Atualização de query - faturamento e arrecadação água e esgoto (referência REDMINE #18839);17;GSAN;Atendimento;0
+19587;Melhorias Módulo GGR;13;JUSCOMPESA;Atendimento;0
+19588;Correção do relatório dos orçamentos emitidos através do Navegador Quick Report.;3;Alpha;Atendimento;0
+19589;Atualizar planilha;39;GABI;Atendimento;0
+19590;RD 12/2016;17;GSAN;Atendimento;0
+19591;Inconsistência na trava de limite orçamentário;3;Alpha;Atendimento;0
+19592;Solicitação de query para geração de BM - CT.PS. 17.3.222/Contrato de Performance de Petrolina;17;GSAN;Atendimento;0
+19593;Serviços sem permissão de inserção para equipes de campo no aplicativo Gsan Mobile;17;GSAN;Atendimento;0
+19594;Travar no GSAN a opção de edição do PERCENTUAL DE COLETA por matrícula (perfil da ligação);17;GSAN;Corretiva;0
+19595;Verificar diferença;17;GSAN;Corretiva;0
+19596;Projeto travel fundo fixo;3;Alpha;Atendimento;0
+19597;Empenhos;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+19598;Relatório Fundo-fixo TRAVEL;3;Alpha;Atendimento;0
+19599;Inserir a opção de consultar NF's Pessoa Física e Juridica;3;Alpha;Atendimento;0
+19600;Boletim Condomínios -  Água da Compesa -;17;GSAN;Evolutiva;0
+19601;Alterar 500 matrículas factíveis de água para a situação correta que é ligado;17;GSAN;Atendimento;0
+19602;CRIAÇÃO DE LOGIN DE ACESSO AO ALPHA;3;Alpha;Atendimento;0
+19603;Preenchimento de Planilha anexa;17;GSAN;Atendimento;0
+19604;ALTERAÇÕES NO RELATÓRIO DE COMUNICADOS DO SIC;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+19605;ADICIONAR CAMPOS NO RELATÓRIO CONSULTA OS CCO;3;Alpha;Atendimento;0
+19606;Lançamento Automático de descontos nas Contas de ICMS;17;GSAN;Evolutiva;0
+19607;MENSAGEM DE ERRO - Recebimento de guia de trânsito;3;Alpha;Atendimento;0
+19608;Problema com mês de referência da planilha IPMA;17;GSAN;Atendimento;0
+19609;RD 12/2016;17;GSAN;Atendimento;0
+19610;Avisos Válidos;17;GSAN;Atendimento;0
+19611;Alteração Na Base Prefeituras;17;GSAN;Atendimento;0
+19612;Redmine alteração relatório Quick Report;3;Alpha;Atendimento;0
+19613;SIC COMUNICADO - RELATÓRIO SNIS;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+19614;Retirar contagem do número de visitas dos imóveis;17;GSAN;Evolutiva;0
+19615;Alteração de perfil -;3;Alpha;Atendimento;0
+19616;DIFERENÇA DO FATURAMENTO DE ESGOTO QUERY X GSAN FAT 01-18;17;GSAN;Atendimento;0
+19617;Criar funcionários para os terceirizados;3;Alpha;Atendimento;0
+19618;Atualizar Planilha Relação matricula celula anormalidade... Elaborada por Souza;17;GSAN;Atendimento;0
+19619;ALPHA 9 - reunião mensal projeto ALPHA9;3;Alpha;Atendimento;0
+19620;Erro no Virtual II - quantidade de imóveis pendentes de análise;17;GSAN;Atendimento;0
+19621;Desenvolvimento inicial do sistema;75;Audic;Evoluções e Novos Projetos;0
+19622;Acesso carteira Varejo e Condominios;17;GSAN;Atendimento;0
+19623;Vincular Chave de Acesso ao IDNF;3;Alpha;Atendimento;0
+19624;Data de Vigência Tarifa AGUA TRATADA 20 POR CENTO;17;GSAN;Atendimento;0
+19625;Lembrete AutoLeitura;43;Compesa Mobile;Evoluções e Novos Projetos;0
+19626;Inclusão de tipos de serviços no encerramento da OS - Boletim de medição;17;GSAN;Evolutiva;0
+19627;Inclusão do tipo de consulta no site Compesa;17;GSAN;Evolutiva;0
+19628;Petaso - Configuração de e-mail do sistema;57;ITC ;Evoluções e Novos Projetos;0
+19629;Sistema GABI;39;GABI;Atendimento;0
+19630;correção de  matrícula de empregado;17;GSAN;Atendimento;0
+19631;erro autorizar acesso;17;GSAN;Atendimento;0
+19632;agregar grupo ao login;17;GSAN;Atendimento;0
+19633;Vincular Chave de Acesso ao IDNF;3;Alpha;Atendimento;0
+19634;PROBLEMA EM VINCULAR ATIVIDADE;3;Alpha;Atendimento;0
+19635;Imagens na agência virtual;17;GSAN;Corretiva;0
+19636;RD 12/2016;17;GSAN;Atendimento;0
+19637;RETIRAR CODIGO 43 - 54659156;17;GSAN;Atendimento;0
+19638;Criar Queries Retificações e Cancelamentos;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19639;RETIRAR DO CODIGO 42 IMOVEIS COM FATURAMENTO DE AGUA E ESGOTO (poço medido);17;GSAN;Evolutiva;0
+19640;Retirar Radar Pessoal da Agência Virtual;17;GSAN;Corretiva;0
+19641;Rotas alternativas não aparecem no roteiro;17;GSAN;Atendimento;0
+19642;O Objeto Parâm Num Nota Fiscal não existe.;3;Alpha;Atendimento;0
+19643;Reunião sobre rateio nas cidades;3;Alpha;Atendimento;0
+19644;Problema com mês de referência da planilha IRSE;17;GSAN;Atendimento;0
+19645;composição contas a receber de janeiro de 2018;17;GSAN;Atendimento;0
+19646;Fatura do mês de Clientes que não pagam a 12 meses;17;GSAN;Atendimento;0
+19647;Acesso ao ALPHA;3;Alpha;Atendimento;0
+19648;GERAÇÃO DE QUERY, ATENDENDO AO ACORDO DE COOPERAÇÃO TÉCNICA COM A PCR (Nº 1501.01.2018);17;GSAN;Atendimento;0
+19649;Parcelamentos realizados em 2016;17;GSAN;Atendimento;0
+19650;Relatório para acompanhamento de OSs do CCO;3;Alpha;Atendimento;0
+19651;RETIRAR CODIGO 42 - 57725664;17;GSAN;Atendimento;0
+19652;Recuperar banco S-560 de Prazeres;17;GSAN;Atendimento;0
+19653;Criar login no ALPHA;3;Alpha;Atendimento;0
+19654;AJUSTES NA CRIAÇÃO DO PEDIDO DE MANUTENÇÃO;3;Alpha;Atendimento;0
+19655;Imóvel com Ocorrência e Dados do Cliente repetidos nas Localidades Prazeres e Escada;17;GSAN;Atendimento;0
+19656;Informar caminho para inserir/atualizar o resultado do teste de cloro;17;GSAN;Atendimento;0
+19657;Análise gráfica do módulo BM (SIG);61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19658;RETIRAR CODIGO 43 - 103370870, 104531487 e 103396756;17;GSAN;Atendimento;0
+19659;Comando BRK;17;GSAN;Atendimento;0
+19660;Query para extração de volume consumido (Novo balanço hídrico) contrato Olinda;17;GSAN;Atendimento;0
+19661;Processo 208 - EMITIR DEC. QUITACAO ANUAL DEBITOS: Duplicidade;17;GSAN;Atendimento;0
+19662;Pendência Matrículas BRK;17;GSAN;Atendimento;0
+19663;LEVANTAMENTO DOS SERVIÇOS EXECUTADOS PELA ENORSUL;17;GSAN;Atendimento;0
+19664;Duvidas sobre titulos;3;Alpha;Atendimento;0
+19665;Criação de novo campo para salvar a informação de Volume Consumido (Balanço Hídrico);17;GSAN;Evolutiva;0
+19666;Query TC. Auditoria Externa;17;GSAN;Atendimento;0
+19667;Solicitação de Acesso;17;GSAN;Atendimento;0
+19668;Problema na parte de análise por localização no GTL MAPA;38;BI Desenvolvimento;Atendimento;0
+19669;Query de extratos e parcelamentos Jan-Fev/2018;17;GSAN;Atendimento;0
+19670;criar funcionário no ALPHA;3;Alpha;Atendimento;0
+19671;criar funcionário para as prestadoras;3;Alpha;Atendimento;0
+19672;Ajustes no portal de transparência;64;SCL- Sistema Controle Licitações;Evoluções e Novos Projetos;0
+19673;resetar senha;3;Alpha;Atendimento;0
+19674;Informações adicionais na planilha de clientes avisados sobre corte;17;GSAN;Atendimento;0
+19675;resetar senha;3;Alpha;Atendimento;0
+19676;Solicitação de query - composição da arrecadação de esgoto;17;GSAN;Atendimento;0
+19677;Usuário sem condeguir acessar o GED;3;Alpha;Atendimento;0
+19678;Clientes com Esgoto Fixo sem Hidrometro de Poço;17;GSAN;Atendimento;0
+19679;NOVO USUÁRIO DO ALPHA;3;Alpha;Atendimento;0
+19680;RETIRAR CODIGO 43 - 103292306, 14611983 e 14646752;17;GSAN;Atendimento;0
+19681;RETIRAR CODIGO 42 - 12601611;17;GSAN;Atendimento;0
+19682;Erro ao inserir documento no espelho de contrato;28;SIC - Sist. Integrados Compesa;Correções;0
+19683;Processo 275 - RETIRAR IMOVEIS CONTAS EMPRESAS COBRANCA;17;GSAN;Atendimento;0
+19684;Remover arquivos binários do banco de dados;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+19685;RETIRAR CODIGO 42 - 54168772;17;GSAN;Atendimento;0
+19686;O valor do aviso do dia 19/02/2018, não batem com arrecadação diária.;17;GSAN;Atendimento;0
+19687;Adicionar a deleção dos registros já gerados do processo 6 no step 1;17;GSAN;Atendimento;0
+19688;PROJETO - Controla o orçamento de compra de materiais nos projetos de obras;3;Alpha;Atendimento;0
+19689;Atualização do GCOM OLAP;17;GSAN;Evolutiva;0
+19690;Erro para alterar situação de esgoto;17;GSAN;Atendimento;0
+19691;6 - GERAR DOCUMENTO DE COBRANCA - EVENTUAL (CORTE FISICO EVENTUAL);17;GSAN;Atendimento;0
+19692;Alteração GSAN AC - Imóvel Novo;17;GSAN;Evolutiva;0
+19693;APURAR TELEC. FEV.18;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19694;admin/solution - alteração de senha;3;Alpha;Atendimento;0
+19698;Criação do Código Alpha;67;Gerencial GSC;Atendimento;0
+19700;Query das GNMs;17;GSAN;Atendimento;0
+19702;Solicitação de query - Cobrança de Tarifa de Cortado;17;GSAN;Atendimento;0
+19706;admin/solution - alteraçao de perfil;3;Alpha;Atendimento;0
+19707;Liberar acesso;3;Alpha;Atendimento;0
+19708;CANCELAMENTO DE FATURA 12/2017 PARCELADA OFICIALMENTE - Imovel 56085050;17;GSAN;Atendimento;0
+19709;Agendamento;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19710;Agendamento - Ordem de Compra Não Encontrada;28;SIC - Sist. Integrados Compesa;Correções;0
+19711;Restruturação dos relatórios de orçamento de obras;3;Alpha;Atendimento;0
+19712;Alteração na PUR_ORDER_APPROVAL_UTIL_API;3;Alpha;Atendimento;0
+19713;Exportar csv com informações das matrículas selecionadas para a fiscalização;17;GSAN;Evolutiva;0
+19714;Inclusão query redmine 19638;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19715;Vincular matrículas macros às matrículas micros;17;GSAN;Atendimento;0
+19717;Controle de Normas - Etapa 3;72;Controle de Normas;Evoluções e Novos Projetos;0
+19718;Levantamento de todos os itens Comprados pela Companhia;64;SCL- Sistema Controle Licitações;Atendimento;0
+19719;Alteração na Aba aviso de celebrar contrato;64;SCL- Sistema Controle Licitações;Atendimento;0
+19720;Definir Processo ALPHA;3;Alpha;Atendimento;0
+19721;GMM - relatório de custo por OS;3;Alpha;Atendimento;0
+19722;GERAR DADOS PARA LEITURA - GRUPO 13;17;GSAN;Atendimento;0
+19723;Ajustes no GSAN Versão: 13.02.3 - incluída em 07-03-2018;17;GSAN;Corretiva;0
+19724;[Ouvidoria] Participação em treinamento de ferramenta;57;ITC ;Atendimento;0
+19725;[PREMISSAS] Cancelamentos;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19726;[PREMISSAS] Cancelamentos;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19727;Resetar senha;3;Alpha;Atendimento;0
+19728;Usuário sem conseguir;3;Alpha;Atendimento;0
+19729;Controle de Investimento;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+19730;BASE ATIVA DO BVS;17;GSAN;Atendimento;0
+19731;Inclusão de subação;28;SIC - Sist. Integrados Compesa;Atendimento;0
+19732;Necessidade de Divulgar Resultados das Licitações;64;SCL- Sistema Controle Licitações;Atendimento;0
+19733;INSERIR UNIDADE 1000 e  9894 NA PLANILHA REGISTRO ATENDIMENTO COMERCIAL PENDENTE;17;GSAN;Atendimento;0
+19734;Processo 58 -  DESFAZER PARCELAMENTO ENTRADA NAO PAGA;17;GSAN;Atendimento;0
+19735;base ativa do spc;17;GSAN;Atendimento;0
+19736;Base Ativa do BVS;17;GSAN;Atendimento;0
+19737;Ajustar perfil;3;Alpha;Atendimento;0
+19738;Processo 61 - ENCERRAR ARRECADACAO PARTE 1;17;GSAN;Atendimento;0
+19739;Retirar cód. 42 da matrícula 53817297;17;GSAN;Atendimento;0
+19740;Servidor de Aplicação GSAN ONLINE;17;GSAN;Atendimento;0
+19741;Ajuste Relatório Municipios;20;SIM;Correções;0
+19742;COMUNICADO DE MANUTENÇÃO ARPE 396/2018;28;SIC - Sist. Integrados Compesa;Atendimento;0
+19743;PERMISSÕES DE ACESSO RELATIVAS AO CONSORCIO TECNOÁGUA ATIVO - Petrolina;17;GSAN;Atendimento;0
+19744;RD 12/2016;17;GSAN;Atendimento;0
+19745;admin/solution - alteração e ativação de login;3;Alpha;Atendimento;0
+19746;Ajustar perfil;3;Alpha;Atendimento;0
+19747;Alterar cliente;17;GSAN;Atendimento;0
+19748;criar usuário no alpha;3;Alpha;Atendimento;0
+19749;Solicitação de acesso;17;GSAN;Atendimento;0
+19750;Acesso usuários;17;GSAN;Atendimento;0
+19751;Query de Extratos de 2016;17;GSAN;Atendimento;0
+19752;CRIAÇÃO DE ACESSO AO ALPHA;3;Alpha;Atendimento;0
+19753;PARAMETRIZAÇÃO CONVENIO - MUNICIPIO PETROLINA;17;GSAN;Evolutiva;0
+19754;Acesso carteira Varejo - GNM Sul;17;GSAN;Atendimento;0
+19755;Alteração de OS;17;GSAN;Atendimento;0
+19756;REG AUTOMATICAMENTE MOV ARRECADADORES;17;GSAN;Atendimento;0
+19757;Reset de senha;3;Alpha;Atendimento;0
+19758;Reset de senha Alpha;3;Alpha;Atendimento;0
+19759;VISUALIZAÇÃO DE MATERIAL NO ESTOQUE;3;Alpha;Atendimento;0
+19760;Analisar o valor de custodo Complemento da customização para criação de revisão do PA;3;Alpha;Atendimento;0
+19761;Campo Informações Relevantes;20;SIM;Atendimento;0
+19762;GERAR DADOS DIARIOS ARRECADACAO;17;GSAN;Atendimento;0
+19763;Criar ID funcionario;3;Alpha;Atendimento;0
+19764;Arquivo SPC/SERASA;17;GSAN;Atendimento;0
+19765;Verifica Débito a cobrar e Devolução de duplicidade;17;GSAN;Atendimento;0
+19766;Débito automático;17;GSAN;Atendimento;0
+19767;fatura no parcelamento;17;GSAN;Atendimento;0
+19768;reunião com a 2Easy (Tania);3;Alpha;Atendimento;0
+19769;Questionamento TC.;17;GSAN;Atendimento;0
+19770;Solicitação de uma base de dados mensal set2017 a fev2018;38;BI Desenvolvimento;Atendimento;0
+19771;Erro Validar Serviço Executado - não seleciona correto o codigo de medição do contrato de obra - ID contrato = 8;17;GSAN;Corretiva;0
+19774;Processo 341 - PROCESSOS PARA EXECUCAO DIARIA;17;GSAN;Corretiva;0
+19777;RETIRAR CODIGO 42 - 57935391;17;GSAN;Atendimento;0
+19778;Criação de Campo em Relatório;20;SIM;Evoluções e Novos Projetos;0
+19779;Query Indicadores do Contrato de Varejo;17;GSAN;Atendimento;0
+19780;ACEITAR A LEITURA QUANDO O HID. FOR SUBSTITUIDO COM LEITURA (ISC);17;GSAN;Evolutiva;0
+19781;Solicitação de Query IAA e IAE;17;GSAN;Atendimento;0
+19782;Pesquisa no sistema GABI;39;GABI;Atendimento;0
+19783;Exportar para excel  no sistema GABI;39;GABI;Atendimento;0
+19784;Não tramitar O.S de imóvel em situação de cobrança “CARTEIRA VAREJO” e situação de água FACTÍVEL para unidade das empresas terceirizadas do contrato da GMR;17;GSAN;Evolutiva;0
+19785;Faturamento Categoria;39;GABI;Atendimento;0
+19786;Desbloqueio de acesso.;17;GSAN;Atendimento;0
+19787;composição contas a receber de fevereiro de 2018;17;GSAN;Atendimento;0
+19788;Erro relatório de Empréstimo;28;SIC - Sist. Integrados Compesa;Correções;0
+19789;admin/solution - alteração de senha;3;Alpha;Atendimento;0
+19790;admin/solution - alteração de senha;3;Alpha;Atendimento;0
+19791;Retirar cód. 42;17;GSAN;Atendimento;0
+19792;RETIRAR DA SUSPENSÃO AUTOMÁTICA OS IMOVEIS CADASTRADOS NA CATEGORIA PÚBLICO;17;GSAN;Evolutiva;0
+19793;PLANILHAS PARA GERAR O BOLETIM DE MEDIÇÃO;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19794;Query - Debito Estado até 01/2018.;17;GSAN;Atendimento;0
+19795;Verificar a baixa das guias de pagamento no contrato de parcelamento.;17;GSAN;Corretiva;0
+19796;Premissas do faturamento;39;GABI;Atendimento;0
+19797;[COMERCIAL] Verificar possibilidade de inserir os campos Data de Corte, Motivo do Corte e Data da Religação no BI Analítico como Complementos de Cadastro.;38;BI Desenvolvimento;Atendimento;0
+19798;Ajuste de consulta para melhoria de performance;17;GSAN;Corretiva;0
+19799;Criar Senha do Alpha;3;Alpha;Atendimento;0
+19800;Alterar conta movimento;3;Alpha;Atendimento;0
+19801;Quantitativo de usuários com acesso a retificações;17;GSAN;Atendimento;0
+19802;Matricula 25739639 - Verificar Anormalidade Consumo Fora de Faixa;17;GSAN;Atendimento;0
+19804;Processo 282 concluiu com erro;17;GSAN;Atendimento;0
+19805;Complemento de relatório em planilha;17;GSAN;Atendimento;0
+19806;Arquivo retorno déb.aut. com valor baixo ou sem valor.;17;GSAN;Evolutiva;0
+19807;Acesso ao ALFA;3;Alpha;Atendimento;0
+19808;Implantação do Novo Resumo do Faturamento;17;GSAN;Evolutiva;0
+19809;CRIAÇÃO DO LOGIN E SENHA ALPHA;3;Alpha;Atendimento;0
+19813;Levantamento de Imóveis para conferência.;17;GSAN;Atendimento;0
+19814;RETIRAR CODIGO 42 DE TODAS AS MATRICULAS DOS SETORES ESPECIFICADOS NA DESCRIÇÃO;17;GSAN;Atendimento;0
+19815;BASE ATIVA DO SERASA;17;GSAN;Atendimento;0
+19816;Desbloqueio de acesso.;17;GSAN;Atendimento;0
+19817;RETIRAR CODIGO 43 DE TODAS AS MATRICULAS;17;GSAN;Atendimento;0
+19818;GERAÇÃO DE RA/OS DE RELIGAÇÃO PARA OS IMOVEIS CORTADOS QUE APRESENTAM CONSUMO;17;GSAN;Evolutiva;0
+19819;RD 12/2016;17;GSAN;Atendimento;0
+19820;Ajuste de consulta para melhoria de performance;17;GSAN;Corretiva;0
+19821;ORDEM DE COMPRA RETROATIVA;3;Alpha;Atendimento;0
+19822;[COMERCIAL] Especificações de RAs;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19826;CONDIÇÃO DE PAGAMENTO X BM;3;Alpha;Atendimento;0
+19844;QUERY PARA ESTUDO A SER SUBMETIDO A ARPE;17;GSAN;Atendimento;0
+19845;[SAT] Atualização;38;BI Desenvolvimento;Atendimento;0
+19846;acompanhamento de cancelamentos e retificacoes;17;GSAN;Evolutiva;0
+19860;CONDIÇÃO PAGAMENTO X MEDIÇÃO X OC RETROATIVA X BOLETIM DE MEDIÇAO;3;Alpha;Atendimento;0
+19866;QUERYS GEV DE FEVEREIRO DE 2018;17;GSAN;Atendimento;0
+19871;FATURAR GRUPO FATURAMENTO;17;GSAN;Atendimento;0
+19872;AUTOMATIZAR O PROCESSO DE ALTERAÇÃO DO PERFIL DO CLIENTE QUE ULTRAPASSAR A MÉDIA DE CONSUMO ESTABELECIDA PARA O PERFIL;17;GSAN;Evolutiva;0
+19873;AUTOMATIZAR O PROCESSO DE EXCLUSÃO DO BENEFÍCIO DA TARIFA SOCIAL, RESPEITANDO OS CRITÉRIOS ESTABELECIDOS NA RD 005/2015;17;GSAN;Evolutiva;0
+19874;Comando BRK;17;GSAN;Atendimento;0
+19875;Query para extração de volume consumido (Novo balanço hídrico) contrato Olinda;17;GSAN;Atendimento;0
+19876;Query TC. Auditoria Externa Nova solicitação;17;GSAN;Atendimento;0
+19877;CORREÇÃO DE UMA ORDEM DE SERVIÇO NO SISTEMA SIC;28;SIC - Sist. Integrados Compesa;Correções;0
+19878;Relatório Travel (Consulta Travel por Cód.Despesa);3;Alpha;Atendimento;0
+19880;57 - GERAR FATURA CLIENTE RESPONSAVEL;17;GSAN;Atendimento;0
+19881;ENRIQUECIMENTO DO CADASTRO COMERCIAL, A PARTIR DOS CADASTRO IMOBILIÁRIO DA PCR;17;GSAN;Atendimento;0
+19882;o sistema gerou uma nota fiscal de reajuste automaticamente para contrato CT.PS.16.3.185.;3;Alpha;Atendimento;0
+19884;Correção da estrutura tarifária contida no site da Compesa;17;GSAN;Corretiva;0
+19885;Revisão do plano de Projeto de Gerenciamento do Projeto de Modernização do GSAN;67;Gerencial GSC;Atendimento;0
+19886;Liberar acesso;3;Alpha;Atendimento;0
+19887;Informações de Cliente Auto Leitura;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19888;Solicitação de informações sobre consumo de água;38;BI Desenvolvimento;Atendimento;0
+19891;[COMERCIAL] Adicionar filtro de Comando;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19892;Suporte a usuário;3;Alpha;Atendimento;0
+19893;Criar login no ALPHA;3;Alpha;Atendimento;0
+19894;Erro imóvel - adesão a RD 12;17;GSAN;Atendimento;0
+19895;Atendimento a usuáruo_Módulo de Contratos;3;Alpha;Atendimento;0
+19896;Verificar valores em duplicidade no Resumo do Faturamento;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19897;Ausência de retenções nos Pagamentos importados do Alpha;3;Alpha;Atendimento;0
+19898;Alteração de conta movimento;3;Alpha;Atendimento;0
+19899;Resposta TCE :: OFÍCIO Nº 23 2018 TC DCE (OF - 1207401 - 1 - A1;3;Alpha;Atendimento;0
+19900;Consulta número imóvel;17;GSAN;Corretiva;0
+19901;teste;17;GSAN;Atendimento;0
+19902;Ajuste na Ferramenta da GGR;13;JUSCOMPESA;Atendimento;0
+19903;Inclusão de usuários no grupo GGR;13;JUSCOMPESA;Atendimento;0
+19904;Vincular Chave de Acesso ao IDNF;3;Alpha;Atendimento;0
+19905;suporte a usuário;3;Alpha;Atendimento;0
+19906;resetar senha;3;Alpha;Atendimento;0
+19907;IMOVEL NÃO ESTA SAINDO NA ROTA DE LEITURA;17;GSAN;Atendimento;0
+19908;Atualizar planilha de clientes compesa;38;BI Desenvolvimento;Atendimento;0
+19909;Avisos válidos;17;GSAN;Atendimento;0
+19910;Envio de serviços para unidades CIFRA;17;GSAN;Atendimento;0
+19912;TARIFA SOCIAL :: ANÁLISE DE PERMISSÃO ESPECIAL INDEVIDA;17;GSAN;Atendimento;0
+19913;Imóveis em Processo Judicial;17;GSAN;Atendimento;0
+19914;Erro ao carregar documentos do contrato 264.374-81;28;SIC - Sist. Integrados Compesa;Correções;0
+19915;Parecer Técnico Financeiro para o Projeto de Modernização do GSAN;17;GSAN;Atendimento;0
+19916;Query - Debito Estado até 02/2018;17;GSAN;Atendimento;0
+19917;[COMERCIAL] Converter Relatório de Dívida na Visão BI;38;BI Desenvolvimento;Evoluções e Novos Projetos;0
+19918;Troca senha;3;Alpha;Atendimento;0
+19919;Habilitar usuário no ALPHA;3;Alpha;Atendimento;0
+19920;criar usuário no alpha;3;Alpha;Atendimento;0
+19921;Incluir e-mail no Cadastro do Cliente;17;GSAN;Atendimento;0
+19922;Orientação sobre implantação de Multas;3;Alpha;Atendimento;0
+19924;Plano de Aplicação - Requisição para Solicitação (ERRO);3;Alpha;Atendimento;0
+19925;Melhorias no módulo SIC do Escritório do PAC - inclusão de indicadores;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+19926;Melhorias no módulo SIC do Escritório do PAC;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+19927;Divergencia de valor da Medição e das Notas;3;Alpha;Atendimento;0
+19928;Divergencia entre Boletim e Nota Fiscal;3;Alpha;Atendimento;0
+19929;Liberção de Login ao servidor TS;3;Alpha;Atendimento;0
+19930;Criação de Login e Senha do ALPHA;3;Alpha;Atendimento;0
+19932;RECADASTRAMENTO TARIFA SOCIAL :: GNRs RUSSAS, AGRESTE MERIDIONAL E SERTÃO CENTRAL;17;GSAN;Evolutiva;0
+19933;TARIFA SOCIAL :: ROTINA DE VERIFICAÇÃO DE DATA DE RECADASTRAMENTO;17;GSAN;Evolutiva;0
+19934;ERRO: Alíquota Redução ICMS (Devolução);3;Alpha;Atendimento;0
+19935;Query processos judiciais - juscompesa;13;JUSCOMPESA;Atendimento;0
+19936;Excluir da tarifa;17;GSAN;Atendimento;0
+19937;CRIAÇÃO OC e NF - CT.PS. 12.6.368- 06;3;Alpha;Atendimento;0
+19938;Implantação Contrato de Demanda Prefeitura Saloá;17;GSAN;Atendimento;0
+19939;Erro Condição Pagamento x Medição;3;Alpha;Atendimento;0
+19940;Query Setor 810 - Localidade Tejucupapu (200);17;GSAN;Atendimento;0
+19941;Atualização arquivo REGISTRO DE ATENDIMENTO COMERCIAL PENDENTE;17;GSAN;Atendimento;0
+19942;Alpha;3;Alpha;Atendimento;0
+19943;Trocar o autorizador Travel;3;Alpha;Atendimento;0
+19944;Reajuste do Contrato CT.PS.16.3.62;17;GSAN;Atendimento;0
+19945;Query Análise Carteira Condomínio;17;GSAN;Atendimento;0
+19946;Atualizar planilha, Relação de matricula, célula, anormal ide, RA. Elaborada por Souza;17;GSAN;Atendimento;0
+19947;CANCELAMENTO DE FATURA 01/2018 PARCELADA OFICIALMENTE - Imovel 54139691;17;GSAN;Corretiva;0
+19948;Solicitação de Querye;13;JUSCOMPESA;Atendimento;0
+19950;Query Micromedição - Rodrigo;17;GSAN;Atendimento;0
+19951;ERRO NO PA;3;Alpha;Atendimento;0
+19952;Vincular matrículas macros às matrículas micros - Ciranda da Ilha;17;GSAN;Atendimento;0
+19953;Erro no processo de atualização cadastral através da rota de leitura;17;GSAN;Corretiva;0
+19954;Paralisação da Emissão de Simultânea no DA;17;GSAN;Evolutiva;0
+19955;A Consulta de Ordem de Serviço via "Consultar Ordens de Serviço do Registro de Atendimento" - acrescentar ao botão "Fechar" a função para retornar a Consultar OS do RA;17;GSAN;Evolutiva;0
+19956;COMANDO POR MATRÍCULA - SELEÇÃO;17;GSAN;Atendimento;0
+19957;Criação de usuário no alpha;3;Alpha;Atendimento;0
+19959;Corrigir o indicador de Adimplência no BI de Débito Automático;38;BI Desenvolvimento;Correções;0
+19960;Disponibilizar Boletim no SIG -;17;GSAN;Atendimento;0
+19963;Excluir tarifa;17;GSAN;Atendimento;0
+19966;SOLICITAÇÃO DE ATUALIZAÇÃO DE QUERY IAA e IAE.;17;GSAN;Atendimento;0
+19967;Usuário espelho;3;Alpha;Atendimento;0
+19968;Permissão RA conta em revisão;17;GSAN;Atendimento;0
+19969;Processo 75 -GERAR RELATORIO IMOVEL ENDERECO;17;GSAN;Atendimento;0
+19979;Importação indevida no SGMAP;3;Alpha;Atendimento;0
+19980;parcelamento;17;GSAN;Atendimento;0
+19982;RD 12/2016;17;GSAN;Atendimento;0
+19983;Acesso as Rotina do alpha- Tabela do Travel;3;Alpha;Atendimento;0
+19984;Solicitação de query - planilha com percentuais de esgoto;38;BI Desenvolvimento;Atendimento;0
+19985;SIG para puxar o realizado do faturamento e arrecadação mensal do GSAN;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19987;ATUALIZAÇÃO PAGAMENTOS TELECOBRANÇA;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+19988;Criar novo usuário;3;Alpha;Atendimento;0
+19990;CRIAR NOVO USUÁRIO - SOLICITAÇÃO DE ACESSO AO ALPHA;3;Alpha;Atendimento;0
+19991;Tarifa Social - o sistema está permitindo alterar informações de imóveis Tarifa Social;17;GSAN;Corretiva;0
+19992;Reativar matrícula 104718927;17;GSAN;Atendimento;0
+19993;Problema Relatório de Pleitos SIM;20;SIM;Atendimento;0
+19994;acesso carteira Varejo;17;GSAN;Atendimento;0
+19995;Desbloquear acesso ao Alpha;3;Alpha;Atendimento;0
+19996;criar novo usuário;3;Alpha;Atendimento;0
+19997;Implantação da Tarifa Social;17;GSAN;Atendimento;0
+19998;ÚNICO TITULO COM NUMERAÇÃO DIFERENTE;3;Alpha;Atendimento;0
+19999;Verificar não carregamento do arquivo de publicações - Infojuris;13;JUSCOMPESA;Atendimento;0
+20000;mudança de perfil de acesso de usuária Aline silva;3;Alpha;Atendimento;0
+20001;reset de senha;3;Alpha;Atendimento;0
+20002;Anexar PDF em encerramento de RA/OS;17;GSAN;Evolutiva;0
+20003;Inserção de Filtros no portal transparencia;64;SCL- Sistema Controle Licitações;Atendimento;0
+20004;Reativar matrícula 107060507;17;GSAN;Atendimento;0
+20005;Ajustes em sistema de reserva de salas;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20006;query com historico CANCELAMENTOS;17;GSAN;Atendimento;0
+20007;RD 12/2016;17;GSAN;Atendimento;0
+20008;Demanda da ARPE e ajuste do processo;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+20009;Gerar Inventario;3;Alpha;Atendimento;0
+20010;Vínculo IDNF x XML (ARMAZEM CORAL);3;Alpha;Atendimento;0
+20011;Alterações na caixa de informações do convênio dentro da obra;20;SIM;Evoluções e Novos Projetos;0
+20012;Copiar perfil de usuário Alpha para outros dois;3;Alpha;Atendimento;0
+20013;Melhoria no SINTAM;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20014;DEIXAR O HIDRÔMETRO DISPONÍVEL;17;GSAN;Atendimento;0
+20015;Cancelamento de parcelamento;17;GSAN;Corretiva;0
+20016;Atualizar  OLAP- Micromedição;17;GSAN;Atendimento;0
+20017;Todos os RAs Pendentes;17;GSAN;Atendimento;0
+20018;Vincular XML ao IDNF;3;Alpha;Atendimento;0
+20019;Inclusão de informações de esgoto no arquivo Volume Operacional - Balanço Hídrico;61;SIG - Sistema Informações Gerenciais;Evoluções e Novos Projetos;0
+20020;GIS RECURSOS HUMANOS;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20021;Apuração Indicadores GSC :: Ciclo 03/2018;67;Gerencial GSC;Atendimento;0
+20022;RETIRAR CODIGO 42 DAS LOCALIDADES DE PETROLINA (111) , PAU FERRO - PETROLINA (540) E RAJADA - PETROLINA (307);17;GSAN;Atendimento;0
+20023;APRESENTAÇÃO DO VOLUME MEDIDO E VOLUME FATURADO NA TELA DO GSAN;17;GSAN;Evolutiva;0
+20024;Inclusão de justificativa de aprovação antes da aprovação da cotação;3;Alpha;Atendimento;0
+20025;RD 12/2016;17;GSAN;Atendimento;0
+20026;109 - GER. ULTIMO DIA MES REFERENCIA;17;GSAN;Atendimento;0
+20028;Preparar o GSAN e GSAN AC para Norma GCM - NI-001-01 referente a Subcategorias;17;GSAN;Evolutiva;0
+20029;[COMERCIAL] Inclusão de Unidade Superior no BI Comercial Analítico;38;BI Desenvolvimento;Atendimento;0
+20030;Carga na Base de Dados do GSAN para atender a Norma GCM -NI-001-01 - referente a Subcategorias;17;GSAN;Atendimento;0
+20031;Carregar XML ao IDNF;3;Alpha;Atendimento;0
+20032;Fazer vinculação das Subcategorias para Clientes Perfil Tarifa Social;17;GSAN;Atendimento;0
+20033;5 - GERAR DADOS DIARIOS ARRECADACAO;17;GSAN;Atendimento;0
+20034;Fundo fixo- Não consegue fazer prestação de contas;3;Alpha;Atendimento;0
+20035;Efetuar melhorias no sistema do GGR - Rev. 2;13;JUSCOMPESA;Atendimento;0
+20036;Extratos e Parcelamentos - março/2018;17;GSAN;Atendimento;0
+20037;Criação de webservice para recuperar dados do SIC;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20038;Administração de Carteira;17;GSAN;Atendimento;0
+20039;Informações sobre o HD Y10N117840;17;GSAN;Atendimento;0
+20040;[COMERCIAL] Atribuição de Licença;38;BI Desenvolvimento;Atendimento;0
+20041;Negativacoes;17;GSAN;Atendimento;0
+20042;TESTE IMPRESSORA E APARELHO PARA NOVA EMPRESA DE LEITURA DA RMR;17;GSAN;Evolutiva;0
+20043;Emissão de Extrato Unificado;17;GSAN;Atendimento;0
+20044;Query das matrículas para análise de Subcategorias;17;GSAN;Atendimento;0
+20045;VERIFICAR CALCULO DO RATEIO QUANDO SE TRATADA DE RATEIO PARA AREA COMUM;17;GSAN;Evolutiva;0
+20046;Query Projeto Ibura;17;GSAN;Atendimento;0
+20047;Analisar e atualizar levantamento de requisitos COBRANÇA DE DÉBITO POR CLIENTE E POR PERÍODO;17;GSAN;Desenvolvimento;0
+20048;alterar tipo de Unidade.;17;GSAN;Evolutiva;0
+20049;RD 12/2016;17;GSAN;Corretiva;0
+20050;Levantamento dos serviços executados pelo ENORSUL;17;GSAN;Atendimento;0
+20051;Novo usuário;3;Alpha;Atendimento;0
+20052;Acesso à carteira Mário Gouveia;17;GSAN;Atendimento;0
+20053;Arquivo de retorno;17;GSAN;Atendimento;0
+20054;Ajuste de Dta Vigência Tarifa JCPM SEM DEB AUTOM;17;GSAN;Atendimento;0
+20055;Liberar a carteira "MARIO GOUVEIA" para o colaborador MARCOS ANTONIO ALVES DE SOUSA;17;GSAN;Atendimento;0
+20056;Módulo Manutenção;3;Alpha;Atendimento;0
+20057;RD 12/2016;17;GSAN;Atendimento;0
+20058;NÃO CONSIGO ISERIR O CENTRO DE CUSTO;3;Alpha;Atendimento;0
+20059;Atendimento;3;Alpha;Atendimento;0
+20060;Compliance;13;JUSCOMPESA;Atendimento;0
+20061;ÚNICO TÍTULO COM NUMERAÇÃO DIFERENTE;3;Alpha;Atendimento;0
+20062;Criar novo usuário;3;Alpha;Atendimento;0
+20063;CRIAR USUARIO ALPHA - COORDENADOR REGIONAL;3;Alpha;Atendimento;0
+20064;Espelhar especificação de RA;17;GSAN;Atendimento;0
+20065;Erro na Implantação do contrato;3;Alpha;Atendimento;0
+20066;Matriculas  contas canceladas e retificadas  - perdas e receita canceladas;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20067;Criar uma equipe vinculada a empresa ENORSUL VAREJO para uso da GMR afim de validar as OSs executadas pela CONSTRUTORA SAM;17;GSAN;Atendimento;0
+20068;Comando BRK;17;GSAN;Atendimento;0
+20069;Espelhar especificação de RA de Retificação;17;GSAN;Atendimento;0
+20070;RELATÓRIO PARA TRIBUNAL DE CONTAS;3;Alpha;Atendimento;0
+20071;Solicitação de Acesso à pasta Cotação no Sistema Alpha;3;Alpha;Atendimento;0
+20072;Inclusao na Tarifa Social;17;GSAN;Atendimento;0
+20073;Verificar erro;17;GSAN;Corretiva;0
+20074;Criação de Login Alpha;3;Alpha;Atendimento;0
+20075;Premissas fevereiro;39;GABI;Atendimento;0
+20076;Bloqueio de parcelamento;17;GSAN;Atendimento;0
+20077;manual do Sped 2017;3;Alpha;Atendimento;0
+20078;Redmine Compesa;54;GSI - APOIO A GESTÃO;Atendimento;0
+20079;CEE New - Novo Programa de Controle de Energia Elétrica;79;CEE - NEW;Evoluções e Novos Projetos;0
+20080;Petaso - Configuração de grupos autorizadores;57;ITC ;Atendimento;0
+20081;RD 12/2016;17;GSAN;Atendimento;0
+20082;CRIAÇÃO DE LOGIN ALPHA;3;Alpha;Atendimento;0
+20083;Servidor de Aplicação JBoss Atendimento: 192.168.1.234;17;GSAN;Atendimento;0
+20084;Servidor de Aplicação JBoss Faturamento: 192.168.1.109;17;GSAN;Atendimento;0
+20085;Servidor de Aplicação JBoss Cobrança: 192.168.1.236;17;GSAN;Atendimento;0
+20086;AUSÊNCIA DE CPF;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20087;Funcionaria está no alpha com o chefe superior diferente do que consta no Humanus;3;Alpha;Atendimento;0
+20088;ERRO NO ACESSO AO PLANO 2018 - VINCULAÇÃO DE PROJETO;3;Alpha;Atendimento;0
+20089;Formulario travel para prestação de contas com confirmação de prestação de contas no lado de confirmação Adiantamento;3;Alpha;Atendimento;0
+20090;Geração de arquivo para campanha de e-mail;17;GSAN;Atendimento;0
+20091;Vincular XML ao IDNF;3;Alpha;Atendimento;0
+20092;Inclusão de usuários no grupo GGR;13;JUSCOMPESA;Atendimento;0
+20094;Verificar mensagem no PRÉ-GSAN - imóvel com inscrição em duplicidade no virtual II;17;GSAN;Corretiva;0
+20095;Habilitação de login para fazer requisições de compra pelo site 600;3;Alpha;Atendimento;0
+20096;Vincular XML ao IDNF - B&B;3;Alpha;Atendimento;0
+20097;Não é possível visualizar colaborador;28;SIC - Sist. Integrados Compesa;Correções;0
+20098;Solicitação de habilitação da pasta "Cotação" no sistema.;3;Alpha;Atendimento;0
+20099;Dedução Impostos;17;GSAN;Atendimento;0
+20100;[GMR] - Excluir do boletim de medição as ordens de serviço pagas;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20101;Solicitação de query - composição da arrecadação Indireta;17;GSAN;Atendimento;0
+20102;BOLETIM DE MEDIÇÃO BRK;17;GSAN;Atendimento;0
+20103;Importação do Volume Distribuido;39;GABI;Atendimento;0
+20104;Campo de conclusão do serviço no CIA;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+20105;GERAR DADOS DIARIOS ARRECADACAO;17;GSAN;Atendimento;0
+20106;Query com Relação de Matrículas retornaram o Faturamento de 01-2017 à 12-2017;17;GSAN;Atendimento;0
+20108;Atualizar Query de IAA e IAE;17;GSAN;Atendimento;0
+20109;SITUAÇÃO ESPECIAL DE FATURAMENTO - GUARDAR A INFORMAÇÃO DA ÚLTIMA SITUAÇÃO;38;BI Desenvolvimento;Correções;0
+20110;PRESCRICAO/NEGATIVACAO;17;GSAN;Corretiva;0
+20111;Desenvolvimento dos relatórios no sistema Compesa viagens;57;ITC ;Evoluções e Novos Projetos;0
+20112;Problema Faturamento Contrato de Demanda Muller;17;GSAN;Atendimento;0
+20113;[Petaso] Usuário com problemas para realizar login;57;ITC ;Atendimento;0
+20114;Gestão do Uso de Material de O.S - Facilitar preenchimento obrigatório de item de material utilizado em O.S de tipo de serviço hidráulico - GSAN;17;GSAN;Evolutiva;0
+20115;Corrigir duplicidade de ocorrência e dados do cliente;17;GSAN;Atendimento;0
+20116;RETIRAR CODIGO 42;17;GSAN;Atendimento;0
+20118;Reativar matrícula 107870665;17;GSAN;Atendimento;0
+20120;NEGATIVACOS NAO ACEITAS;17;GSAN;Atendimento;0
+20121;averiguacao dos dados GPIPA;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20122;Criação de Login :: Irina Ferreira Terezo;39;GABI;Atendimento;0
+20123;Solicitar filtro no BI sobre quem possui contrato de demanda;38;BI Desenvolvimento;Atendimento;0
+20124;ATUALIZAÇÃO QUERY ALEX_CARMEN;17;GSAN;Atendimento;0
+20125;Acompanhamento de Atividades da PPP BRK;67;Gerencial GSC;Consultoria;0
+20126;Diferença entre valor faturado e resumo do valor faturado QUE CONSTAM NO BI;47;BI Help;Atendimento;0
+20127;ajuste em produção do Projeto CTPS123250 - DMA (Orçamento x PA);3;Alpha;Atendimento;0
+20128;Criar funcionalidade para extração das informações sobre o volume consumido para balanço hídrico do Olinda Mais Agua;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20129;FLUXO DE CAIXA;61;SIG - Sistema Informações Gerenciais;Evoluções e Novos Projetos;0
+20130;Ajueste em sistema de reserva de salas.;28;SIC - Sist. Integrados Compesa;Correções;0
+20131;Alteração SIC - Cadastro de Comunicado de Manutenção;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+20132;Novas especificações - Cancelamento de fatura;17;GSAN;Atendimento;0
+20133;PROCESSO 282 CONCLUIU COM ERRO;17;GSAN;Atendimento;0
+20134;Solicitação de acesso aos imóveis de varejo;17;GSAN;Atendimento;0
+20135;RETIRAR CODIGO 42 - 54226470;17;GSAN;Atendimento;0
+20136;Inclusão de tipos de serviços no encerramento da OS - Gsan Online;17;GSAN;Desenvolvimento;0
+20137;Inclusão de tipos de serviços no encerramento da OS - Gsan Mobile;17;GSAN;Desenvolvimento;0
+20138;Solicitação de query - composição da arrecadação de água (PPP);17;GSAN;Atendimento;0
+20139;Acesso ao menu para impressao de OS;3;Alpha;Atendimento;0
+20140;volume consumido do projeto Olinda + água;17;GSAN;Atendimento;0
+20141;Vincular XML ao IDNF;3;Alpha;Atendimento;0
+20142;AUTORIZAÇÃO DE SERVIÇO/;3;Alpha;Atendimento;0
+20143;informações de volume faturado de água no BI diferem do GSAN;47;BI Help;Atendimento;0
+20144;Espelhos para novas especificações de Esgoto - DNN;17;GSAN;Atendimento;0
+20145;Faturamento de água diferente ao de esgoto;17;GSAN;Atendimento;0
+20146;Manter Conta - Retificação por Acumulo de Consumo;17;GSAN;Atendimento;0
+20147;Query Extrato_comPagto_Cliente no SIG;17;GSAN;Atendimento;0
+20148;Query Parcelamentos_comPagto__Cliente no SIG;17;GSAN;Atendimento;0
+20149;Lista de usuários com acesso a retificações;17;GSAN;Atendimento;0
+20150;Ajuste no Sistema Reserva de Salas.;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20151;Falha no Módulo Cliente Empreendedor;55;Projeto de Terceiros;Correções;0
+20152;Erro no ALPHA para solicitação de diária;3;Alpha;Atendimento;0
+20153;Cadastros do Projeto;75;Audic;Evoluções e Novos Projetos;0
+20154;Contas a pagar;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20155;erro funcionalidade;17;GSAN;Atendimento;0
+20156;Planilha - EXTRATO e PARCELAMENTO por período e data de pagamento;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20157;RETIRADA DO CODIGO 42 NA GNR FERNANDO DE NORONHA - RM 19500;17;GSAN;Atendimento;0
+20158;Apuração Parcial Indicadores GSC :: Ciclo 04/2018;67;Gerencial GSC;Atendimento;0
+20159;Boletim de medição e acompanhamento de cobrança por resultado;17;GSAN;Atendimento;0
+20160;RETIRAR SEQUENCIAL DE LEITURA - Nova Cruz (174) e Goiana (62);17;GSAN;Atendimento;0
+20161;Criar novo usuário;3;Alpha;Atendimento;0
+20162;Sprint 201804-01 - Reuniões de Monitoramento;67;Gerencial GSC;Atendimento;0
+20163;QUERYS GEV DE MARÇO DE 2018;17;GSAN;Atendimento;0
+20164;Erro Página do Município;20;SIM;Correções;0
+20165;VINCULAR XML AO IDNF - URGENTE!!;3;Alpha;Atendimento;0
+20166;Negativação;17;GSAN;Atendimento;0
+20167;Filtro de meus agendamentos não funciona em telas menores;28;SIC - Sist. Integrados Compesa;Correções;0
+20168;Criar tipo de serviço "Escavação de Vala" e "Remoção de Material" e os vincular ao Contrato CT PS 17.4.053;17;GSAN;Atendimento;0
+20169;resumo de faturado cde esgoto de municipios;17;GSAN;Atendimento;0
+20170;Solicitação de Informações - Cadastrado;13;JUSCOMPESA;Atendimento;0
+20171;Vincular XML ao IDNF;3;Alpha;Atendimento;0
+20172;processo 51 - ENCERRAR FATURAMENTO PARTE 1;17;GSAN;Atendimento;0
+20173;Exportação dos Relatórios do GSAN para Excel;17;GSAN;Evolutiva;0
+20174;Vincular XML ao IDNF - ORACLE;3;Alpha;Atendimento;0
+20175;Desaparecimento de matrículas - PRÉ-GSAN e VIRTUAL II;17;GSAN;Corretiva;0
+20176;Falha no link de religacao;17;GSAN;Corretiva;0
+20177;Nova versão do redmine;17;GSAN;Atendimento;0
+20178;Alterações no agendamento de entrega;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+20179;CRIAR UMA ORDEM DE SERVIÇO PARA FISCALIZAÇÃO DE SERVIÇOS DE LEITURA (GSANEOS);17;GSAN;Desenvolvimento;0
+20180;Vincular XML ao IDNF (CASO EBARA);3;Alpha;Atendimento;0
+20181;boletim de medição;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20182;negativacao;17;GSAN;Atendimento;0
+20183;Criação de query para avaliação das gerências;13;JUSCOMPESA;Atendimento;0
+20184;NÃO VISUALIZAÇÃO DE TRANSFERÊNCIA PENDENTE;28;SIC - Sist. Integrados Compesa;Correções;0
+20186;Tela Negativação;17;GSAN;Atendimento;0
+20187;IDENTIFICAR AS RUBRICAS DO RESUMO DO FATURAMENTO - R0173 QUE SÃO CONSIDERADAS PARA CALCULO DO TOTAL COBRADO NAS CONTAS;17;GSAN;Atendimento;0
+20188;RD 12/2016;17;GSAN;Atendimento;0
+20189;Erro - Apresentação dos Pleitos;20;SIM;Atendimento;0
+20190;Dados sobre número de ecnomias no BI estao diferente com os do GSAN;47;BI Help;Atendimento;0
+20191;faturas cancelada por retificação estão sendo registradas como dados finais no BI;47;BI Help;Atendimento;0
+20192;BM Varejo;17;GSAN;Atendimento;0
+20193;Tabela de dados para geração de indicadores operacionais;61;SIG - Sistema Informações Gerenciais;Evoluções e Novos Projetos;0
+20194;Suprimento - Inclusão da obrigação do PA nas RC's Externas;3;Alpha;Atendimento;0
+20195;PROCESSO 79 -GERAR RESUMO DEVEDORES DUVIDOSOS;17;GSAN;Atendimento;0
+20196;EMISSÃO DE 2ª VIA DE FATURAS. - Solicitação Policia Federal;17;GSAN;Atendimento;0
+20197;REVISÃO DO PROCESSO DE COMPRAS VIA PROJETO 1 - ALPHA;3;Alpha;Atendimento;0
+20198;Reativar matrícula 107543591;17;GSAN;Atendimento;0
+20199;Cliente não recebeu as faturas por -email;17;GSAN;Corretiva;0
+20200;ATUALIZAÇÃO PLAN PAGAMENTO GRANDES CLIENTES - GNM SUL;17;GSAN;Atendimento;0
+20201;CRIAÇÃO DE ACESSO PARA ALPHA;3;Alpha;Atendimento;0
+20202;Inclusão de informações na query Anormalidades de Consumo do SIG;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20203;ACESSO DE USUARIOS NAS CONTA;3;Alpha;Atendimento;0
+20204;Atualização na view IPMA (Indicadores PPP);17;GSAN;Atendimento;0
+20205;Query Micromedição- Rodrigo;17;GSAN;Atendimento;0
+20206;solicito senha para acessar o Alpha;3;Alpha;Atendimento;0
+20207;Senha de acesso ao ALPHA;3;Alpha;Atendimento;0
+20208;Erro importação de itens;3;Alpha;Atendimento;0
+20209;Situação Especial de Faturamento - Faturar Normal EADP;17;GSAN;Corretiva;0
+20210;solicitação de senha do alpha;3;Alpha;Atendimento;0
+20211;Solicitação de senha para acesso ALPHA;3;Alpha;Atendimento;0
+20212;Fatura paga e não baixada;17;GSAN;Corretiva;0
+20213;Liberar acesso da Carteira de Varejo para a colaboradora MONIK;17;GSAN;Atendimento;0
+20214;Nota Fiscal - Tributos;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20215;Problema com Nota Fiscal;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20216;IMPORTAÇÃO TABELA COMPESA 2018 SITE;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20217;6 - GERAR DOCUMENTO DE COBRANCA - EVENTUAL (CARTA NEGOCIACAO);17;GSAN;Atendimento;0
+20218;Exclusão de empresa de cobrança;17;GSAN;Corretiva;0
+20219;ASSOCIAR TARIFA DE CONSUMO A IMOVEIS;17;GSAN;Corretiva;0
+20220;Gerar boleto Policia Militar;17;GSAN;Atendimento;0
+20221;VOLUME CONSUMIDO MARÇO;17;GSAN;Atendimento;0
+20222;Export Resposta às pendências - Solicitação de senha para acesso ALPHA;3;Alpha;Atendimento;0
+20223;Desenvolvimento-RM18599: Evolutiva das Funcionalidade [UC0011 - Inserir Imóvel] e [UC0014 - Manter Imóvel];17;GSAN;Evolutiva;0
+20224;VERIFICAR COBRANÇA DE CORTE E RELIGAÇÃO;17;GSAN;Atendimento;0
+20225;Favor atualizar premissas;39;GABI;Atendimento;0
+20226;Criação de login do Alpha;3;Alpha;Atendimento;0
+20227;ALTERAR DATA DE EMISSÃO DA NF ID;3;Alpha;Atendimento;0
+20228;codigo 36;17;GSAN;Atendimento;0
+20229;Manter conta em Retificação de faturas;17;GSAN;Atendimento;0
+20230;Criação de aba publicações;64;SCL- Sistema Controle Licitações;Atendimento;0
+20231;Criação de aba Aditivos;64;SCL- Sistema Controle Licitações;Atendimento;0
+20232;Exclusão das horas nos campos de datas;20;SIM;Atendimento;0
+20233;Alterar perfil de Usuário Denison Sena;3;Alpha;Atendimento;0
+20234;Troca de dados em campo na base;20;SIM;Atendimento;0
+20235;ALTERAR DATA DE EMISSÃO NF'S 549925 e 550482;3;Alpha;Atendimento;0
+20236;Data de confirmação da OC;3;Alpha;Atendimento;0
+20237;Elaborar consulta para Portal de transparencia;3;Alpha;Atendimento;0
+20238;INCLUIR PERMISSÃO DE USUÁRIO NO SIM;20;SIM;Atendimento;0
+20239;REGISTRO DE ATENDIMENTO COMERCIAL PENDENTE;17;GSAN;Atendimento;0
+20240;Corrigir o relatório de impressão de OS;3;Alpha;Atendimento;0
+20241;Lentidão na emissão de contas e configuração das impressoras;17;GSAN;Atendimento;0
+20242;Trava na Loja Virtual;17;GSAN;Evolutiva;0
+20243;TRAVEL - Correção do cod organização(1471106009 )   da lotação 7000105 cujo  código foi migrado na contabilidade para  1471102006 em 01/01/2018.;3;Alpha;Atendimento;0
+20244;REVISÃO DO PROCESSO DE COMPRAS VIA PROJETO 2 - ALPHA;3;Alpha;Atendimento;0
+20245;REVISÃO DO PROCESSO DE COMPRAS VIA PROJETO 3 - ALPHA;3;Alpha;Atendimento;0
+20246;RESET DA SENHA DO ALPHA;3;Alpha;Atendimento;0
+20247;Liberar acesso a Requisição de Compra;3;Alpha;Atendimento;0
+20248;Relatorio de partes relacionadas data base março 2018;17;GSAN;Atendimento;0
+20249;Atualização do Relatório de Cotação de Material na SC do ALPHA;3;Alpha;Atendimento;0
+20250;composição contas a receber março 2018;17;GSAN;Atendimento;0
+20251;Planilha Pagamentos do Governo por Gerencia e Categorias,;17;GSAN;Atendimento;0
+20252;Mudança de perfil do usuário Nivaldo;3;Alpha;Atendimento;0
+20253;ERRO - VOUCHER_TYPE (B&B);3;Alpha;Atendimento;0
+20254;FUNCIONARIO SEM SUPERVISOR NO ALPHA;3;Alpha;Atendimento;0
+20255;3 - GERAR DADOS PARA LEITURA;17;GSAN;Atendimento;0
+20256;Implantação do Sistema de Gestão da LAI;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20257;Avisos válidos;17;GSAN;Atendimento;0
+20258;Relatório de resumo de comunicados não está saindo sem selecionar o sistema;28;SIC - Sist. Integrados Compesa;Correções;0
+20259;Erro em "manter imóvel" da matrícula 108169715;17;GSAN;Atendimento;0
+20260;CIA - melhorias;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20261;ESPELHO DE LOGIN;3;Alpha;Atendimento;0
+20262;Alterar tela de consulta de logradouros em "manter imóvel" e "inserir imóvel";17;GSAN;Evolutiva;0
+20263;Criar senha e login no alpha;3;Alpha;Atendimento;0
+20265;Erro na funcionalidade "Inserir Tipo de solicitação com especificacão";17;GSAN;Corretiva;0
+20266;Alteração de conta movimento.;3;Alpha;Atendimento;0
+20267;Deletar Usuário e Anexo de Comprovante;13;JUSCOMPESA;Atendimento;0
+20268;PROJETO -- Permitir dentro do projeto criar solicitação de compra para o site 600 além do 111;3;Alpha;Atendimento;0
+20269;Registro de Boletos;17;GSAN;Atendimento;0
+20270;Correção Loja Virtual;17;GSAN;Atendimento;0
+20271;Verificar a possibilidade de carregar o Limite orçamento automaticamente dos Projetos de Plano de aplicação;3;Alpha;Atendimento;0
+20272;correção na tramitação das religações na rd 12;17;GSAN;Evolutiva;0
+20273;Devolução de valor orçamento de viagem;3;Alpha;Atendimento;0
+20274;Reativar matrícula 107391155;17;GSAN;Atendimento;0
+20275;Comando BRK;17;GSAN;Atendimento;0
+20276;VERIFICAR CONTAS COM SITUAÇÃO DE PRE-FATURADAS - MEDIÇÃO INDIVIDUALIZADA;17;GSAN;Corretiva;0
+20277;Reativar matrícula 107811049;17;GSAN;Atendimento;0
+20278;Algumas matrículas apresentam zero economias no BI;47;BI Help;Atendimento;0
+20279;Criar usuário no alpha;3;Alpha;Atendimento;0
+20280;Adicionar a matrícula 16017221 não está na RD12 via BD;17;GSAN;Atendimento;0
+20281;RETIRAR CODIGO 42 - 60501734;17;GSAN;Atendimento;0
+20282;CRIAR NOVO USUARIO;3;Alpha;Atendimento;0
+20283;2 - FATURAR GRUPO FATURAMENTO;17;GSAN;Atendimento;0
+20284;Cria e disponibilizar para consulta relatório que contenham o saldo de materiais dos projetos do Plano de aplicação e Detalhamentodo valor utilizado em OC's;3;Alpha;Atendimento;0
+20285;Inclusão de Campo;13;JUSCOMPESA;Atendimento;0
+20286;Contas a pagar;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20287;Criar novo usuário;3;Alpha;Atendimento;0
+20288;Despesa realizada;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20289;Reunião TCE - CD;3;Alpha;Atendimento;0
+20290;Exclusão empresa de cobrança - matrículas incluídas fora do prazo;17;GSAN;Atendimento;0
+20291;Planilha clientes negativados;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20292;O envio de email da conta está exibindo o 4 em vez de Abril para o mês;17;GSAN;Corretiva;0
+20293;TRAVAMENTO DAS ATUALIZAÇÕES CADASTRAIS :: ROTA DE LEITURA;17;GSAN;Corretiva;0
+20294;RD 12/2016;17;GSAN;Atendimento;0
+20295;LEVANTAMENTO DE INFORMAÇÕES PARA INCLUSÃO NO CODIGO 43;17;GSAN;Atendimento;0
+20296;RD 12/2016;17;GSAN;Atendimento;0
+20297;Planilha Pagamentos do Governo .;17;GSAN;Atendimento;0
+20298;ACESSO A PAGINA DO ALPHA;3;Alpha;Atendimento;0
+20299;GSANEOS - RESTABELECIMENTO COM HD;17;GSAN;Evolutiva;0
+20300;REGISTRAR TRANSAÇÕES NO SISTEMA;17;GSAN;Evolutiva;0
+20301;282 - ATU. DADOS IMOVEL PELO RECADASTRAMENTO;17;GSAN;Corretiva;0
+20302;3 - GERAR DADOS PARA LEITURA;17;GSAN;Atendimento;0
+20303;Liberação de Centro de Custo;3;Alpha;Atendimento;0
+20304;Vincular XML ao IDNF;3;Alpha;Atendimento;0
+20305;ALTERAÇÃO DE EMAIL DE USUÁRIO NO ATENDIMENTO;3;Alpha;Atendimento;0
+20306;Inserir novo colaborador da GPA no Site 130.;3;Alpha;Atendimento;0
+20307;INCOSISTÊNCIA EM CONSULTA OC INTERNA A365662  NO ALPHA;3;Alpha;Atendimento;0
+20308;VOLUME CONSUMIDO MARÇO;17;GSAN;Atendimento;0
+20309;Acesso retificação Carteira Condomínio;17;GSAN;Atendimento;0
+20310;Informações de histograma de faturamento para estudo da tarifa miníma;17;GSAN;Atendimento;0
+20311;COMPOSIÇÃO DO RELATÓRIO DA ARRECADAÇÃO;17;GSAN;Corretiva;0
+20312;Acompanhamento do Projeto BRK;67;Gerencial GSC;Atendimento;0
+20313;Controle de Normas - Etapa 4;72;Controle de Normas;Evoluções e Novos Projetos;0
+20314;RETIRAR CODIGO 42 - 6343945;17;GSAN;Atendimento;0
+20315;Bloqueio na Aprovação de Empregados;28;SIC - Sist. Integrados Compesa;Correções;0
+20316;Importar planilha de terceirizados mão de obra indireta;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20318;Ajuste Relatório Região de Desenvolvimento;20;SIM;Evoluções e Novos Projetos;0
+20319;COMANDO BRK;17;GSAN;Atendimento;0
+20320;LEVANTAR MATRICULAS QUE TIVERAM FATURAS GERADAS DEVIDO A ALTERAÇÃO NO TIPO DE DEBITO CARRO-PIPA PARTICULAR;17;GSAN;Atendimento;0
+20321;Criação de views para consultas;20;SIM;Evoluções e Novos Projetos;0
+20322;Correção tela de simular calculo de conta;17;GSAN;Corretiva;0
+20323;Desenvolvimento-RM18599: Evolutiva das Funcionalidade relativas a REGISTRO DE ATENDIMENTO e ORDEM DE SERVIÇO;17;GSAN;Desenvolvimento;0
+20324;Atualizar projeto e seq. ativ. das OS’s ativas do site 123.;3;Alpha;Atendimento;0
+20325;Alteração automática do Status de Ordem de Compra;3;Alpha;Atendimento;0
+20326;Realização de teste de segurança;76;Netbase;Atendimento;0
+20327;URGENTE: VERIFICAR VIGENCIA CADASTRADA PARA ATUALIZAÇÃO DAS TARIFAS NO SISTEMA;17;GSAN;Corretiva;0
+20328;Identificação dos Grupos das Matrículas em Anexo;17;GSAN;Atendimento;0
+20329;Análise, definição de requisitos e elaboração de solução de processos para sistema de bônus e fidelização, e setorização comercial da Compesa;67;Gerencial GSC;Consultoria;0
+20330;LEVANTAR MATRICULAS QUE TIVERAM FATURAS GERADAS COM A TARIFA REAJUSTADA COM VIGENCIA A PARTIR DE 20/05/2018;17;GSAN;Atendimento;0
+20331;Link Chamados de Engenharia no Site;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20332;EMISSÃO RELATÓRIO DE DÉBITO LOC. 341.SETOR 743 QUADRA 166 - EMPREENDIMENTO MÉRCIA DE ALBUQUERQUE;17;GSAN;Atendimento;0
+20333;Sprint 201804-02 - Reuniões de Monitoramento;67;Gerencial GSC;Reunião;0
+20334;Boletos não registrados;17;GSAN;Atendimento;0
+20335;Vincular XML ao IDNF;3;Alpha;Atendimento;0
+20336;Query contendo todas as matrículas para análise das subcategorias após a implantação da Norma GCM-NI-001-01;17;GSAN;Atendimento;0
+20337;Alteração dos projetos e seq. Ativ. das OC’s da planilha anexa.;3;Alpha;Atendimento;0
+20338;Arrecadação Diária;17;GSAN;Corretiva;0
+20339;Erro ao Gerar o DE/PARA;3;Alpha;Atendimento;0
+20340;Acesso ao Alpha;3;Alpha;Atendimento;0
+20341;Alteração no Relatório para o Boletim de Medição;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20342;Correção do Sistema SIC COMUNICADOS ARPE;28;SIC - Sist. Integrados Compesa;Correções;0
+20343;Descrição de Atividades de forma "invisível";28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+20344;Compromisso Recorrente;13;JUSCOMPESA;Atendimento;0
+20345;Exportação de Dados Cadastrais do Cliente;17;GSAN;Atendimento;0
+20346;Exportação de Dados Cadastrais do Imóvel/Ligação;17;GSAN;Atendimento;0
+20347;Exportação de Dados Histórico de Cobrança;17;GSAN;Atendimento;0
+20348;Exportação de Dados Histórico de Consumo;17;GSAN;Atendimento;0
+20349;Exportação de Dados Histórico de Débitos;17;GSAN;Atendimento;0
+20350;Exportação de Dados Histórico de Créditos;17;GSAN;Atendimento;0
+20351;Exportação de Dados Histórico de Contas/Faturas;17;GSAN;Atendimento;0
+20352;Exportação de Dados Histórico Pagamentos;17;GSAN;Atendimento;0
+20353;Exportação de Dados Histórico de Ordens de Serviço;17;GSAN;Atendimento;0
+20354;Exportação de Dados Histórico de Parcelamento;17;GSAN;Atendimento;0
+20355;Exportação de Dados Histórico de RAs;17;GSAN;Atendimento;0
+20356;Erro usúario SRS;28;SIC - Sist. Integrados Compesa;Correções;0
+20357;Trocar confirmador de formulario despesa;3;Alpha;Atendimento;0
+20358;ATUALIZAÇÃO PLANILHA OPERACIONAL IEPA | gsan (padrão) VW_RA_PPP_ESGOTO_IEPA_RESUMO;17;GSAN;Atendimento;0
+20359;Acesso aos imóveis de Varejo para Zé Roberto;17;GSAN;Atendimento;0
+20360;query conforme modelo em anexo;39;GABI;Atendimento;0
+20361;Criação de Login;3;Alpha;Atendimento;0
+20362;GSANAS | Problema de encerramento dos novos serviços disponibilizados.;17;GSAN;Atendimento;0
+20363;Melhorar funcionalidade do Juscompesa-GGR;13;JUSCOMPESA;Atendimento;0
+20365;Tela Negativação;38;BI Desenvolvimento;Atendimento;0
+20366;Plano de Aplicação Mensagem de limite extrapolado ao confirma OC;3;Alpha;Atendimento;0
+20367;Comando BRK;17;GSAN;Atendimento;0
+20368;Autorização de acesso ao colaborador do Apoio Técnico da DRI, Jair Afonso;3;Alpha;Atendimento;0
+20369;INCLUIR MATRICULAS NO CODIGO 43;17;GSAN;Atendimento;0
+20370;Alterar o GSAN e GSAN AC - Carteira de Imóveis Mário Gouveia -;17;GSAN;Atendimento;0
+20371;Disponibilizar query - Ligações e Economias Faturadas;62;Data Mining;Atendimento;0
+20372;RAs sem unidade dando Bug;17;GSAN;Atendimento;0
+20373;PROCESSO 341 - PROCESSOS PARA EXECUCAO DIARIA;17;GSAN;Atendimento;0
+20374;CADASTRO DE MATERIAL PARA OBRA;3;Alpha;Atendimento;0
+20375;MELHORIA NA TELA DE ANALISE DAS EXCEÇÕES DE LEITURAS E CONSUMOS;17;GSAN;Atendimento;0
+20376;CANCELAMENTO DE ORDEM DE COMPRA;3;Alpha;Atendimento;0
+20377;SOLICITAÇÃO DE AJUDA PARA CRIAÇÃO DE FUNDE FIXO -;3;Alpha;Atendimento;0
+20378;Erro MEDIÇÃO CT.PS. 17.3.084;3;Alpha;Atendimento;0
+20379;fatura com valor baixo;17;GSAN;Atendimento;0
+20380;RD 12/2016;17;GSAN;Atendimento;0
+20381;Retirada do código 42 nas matrículas;17;GSAN;Atendimento;0
+20382;Relatório de Informações Municipais;20;SIM;Evoluções e Novos Projetos;0
+20383;solicitação de ajuste no volume consumido não medido setores de Perijucã;17;GSAN;Atendimento;0
+20384;Criação do login no sistema Alpha;3;Alpha;Atendimento;0
+20385;Atualização planilha avisos;17;GSAN;Atendimento;0
+20386;Emissão de Relatório;17;GSAN;Atendimento;0
+20387;Tela Resumo corte físico;38;BI Desenvolvimento;Atendimento;0
+20388;Painel de Controle - Canal de Denúncias;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+20389;INCLUIR CAMPOS PARA REGISTRO DE ERROS NO PROCESSO DE LEITURA NA TELA DE ANALISE DAS EXCEÇÕES DE LEITURAS E CONSUMOS E CRIAR RELATORIO ANALITICO ESPECIFICO;17;GSAN;Evolutiva;0
+20390;solicitação de redefinição de senha;3;Alpha;Atendimento;0
+20391;CRIAÇÃO DE LOGIN ALPHA;3;Alpha;Atendimento;0
+20392;Funcionario não consta no alpha;3;Alpha;Atendimento;0
+20393;Unidade de Encerramento de OS's - Contrato por Performance;17;GSAN;Atendimento;0
+20394;TROCA DE AUTORIZADOR;3;Alpha;Atendimento;0
+20395;Reativar matrícula 75233019;17;GSAN;Atendimento;0
+20396;Alterar data entrada parcelamento;17;GSAN;Atendimento;0
+20397;Atualização na view IPMA (Indicadores PPP) - Alteração na regra de Negocio referente ao prazo dos tipos de serviço.;17;GSAN;Evolutiva;0
+20398;Erro na Geração do Orçamento;3;Alpha;Atendimento;0
+20399;Planilha Negativação;17;GSAN;Atendimento;0
+20400;CRIAÇÃO DE USUÁRIO ALPHA;3;Alpha;Atendimento;0
+20401;Erro de Anexo do GED;20;SIM;Correções;0
+20402;NÃO CONSEGUE ACESSAR O ALPHA;3;Alpha;Atendimento;0
+20403;Alterar vencimento e emitir segunda via - fatura 03.2018 - matrículas listadas em anexo;17;GSAN;Atendimento;0
+20404;Erro encerramento corte e religação;17;GSAN;Atendimento;0
+20405;Vincular o XML ao IDNF;3;Alpha;Atendimento;0
+20406;Criação de planilha de exportação de orçamento no Módulo de Orçamento.;3;Alpha;Atendimento;0
+20407;Alteração de nome na tela de Orçamento de Obras no Módulo de Orçamento.;3;Alpha;Atendimento;0
+20408;Planilha com informações de percentuais de esgoto por município para ARPE;17;GSAN;Atendimento;0
+20409;Planilha de IMPORTAÇÃO de orçamento no módulo de orçamento.;3;Alpha;Atendimento;0
+20410;Inserir planilha de exportação de orçamento de obras para o BDM;3;Alpha;Atendimento;0
+20411;Habilitar usuário;3;Alpha;Atendimento;0
+20412;Atualizar Query de IAA e IAE;17;GSAN;Atendimento;0
+20413;Tela negociação e tela de comando de corte físico;38;BI Desenvolvimento;Atendimento;0
+20414;Licenciamento Ambiental - Ajustes no Sistema Informatizado;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+20415;Relatórios IFS/ALPHA;3;Alpha;Atendimento;0
+20416;Criação de campos no Módulo de Orçamento;3;Alpha;Atendimento;0
+20417;Desbloqueio de senha;3;Alpha;Atendimento;0
+20418;Processo 61 -  ENCERRAR ARRECADACAO PARTE 1;17;GSAN;Atendimento;0
+20419;Associar código de cliente ao imóvel matrícula 75233019;17;GSAN;Atendimento;0
+20420;Alteração do GSAN - Carteira dos imóveis Mário Gouveia;17;GSAN;Evolutiva;0
+20421;SOLICITAÇÃO DE NOVA SENHA DO ALPHA PARA O GERENTE AMARO ANDRADE;3;Alpha;Atendimento;0
+20422;RD 12/2016;17;GSAN;Atendimento;0
+20423;Criar usuário do ALPHA para a funcionária Elaine Cristine Lopes Ferreira da Silva;3;Alpha;Atendimento;0
+20424;Criação de usuário para a funcionária Tarciana Luzia da silva;3;Alpha;Atendimento;0
+20425;Atualização de RD de Encargos Sociais Portal de Engenharia;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20426;Padrão Compesa - Campo Descrição Relatório;61;SIG - Sistema Informações Gerenciais;Evoluções e Novos Projetos;0
+20427;erro de acesso.;17;GSAN;Atendimento;0
+20428;Valores zerados serão desconsiderados no arquivo de integração com a contabilidade;17;GSAN;Evolutiva;0
+20429;Acesso ao campo Limite de Orçamento dos Projetos de todas as Gerências.;3;Alpha;Atendimento;0
+20431;Registro de atendimento pendente por gerencia;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20435;Geração de Unidades para o GSANEOS;17;GSAN;Atendimento;0
+20436;ERRO AO CONFIRMAR ORDEM DE COMPRA COM SALDO DISPONÍVEL EM PROJETO;3;Alpha;Atendimento;0
+20437;Atualização Query Projeto Ibura;17;GSAN;Atendimento;0
+20438;Ajuste de perfil;3;Alpha;Atendimento;0
+20439;Cadastro Adesão ao Débito Automático;17;GSAN;Atendimento;0
+20440;50 - ENCERRAR ARRECADACAO PARTE 2;17;GSAN;Atendimento;0
+20441;Metas SIPLAN;60;SIPLAN - Sistema Planejamento;Atendimento;0
+20442;RD 12/2016;17;GSAN;Atendimento;0
+20443;Solicitação de mais 02 senhas (Alpha) para o setor da AAS.;3;Alpha;Atendimento;0
+20445;RELATÓRIOS ALPHA EM PDF;3;Alpha;Atendimento;0
+20446;RETIRAR CODIGO 42 - 60303517;17;GSAN;Atendimento;0
+20447;Inserção de Plantão CCO;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20448;Autorização de conta movimento;3;Alpha;Atendimento;0
+20449;Autorização da conta movimento;3;Alpha;Atendimento;0
+20450;GSAN | Relação de Subcategorias do módulo de cadastro;17;GSAN;Atendimento;0
+20451;Aumentar o quantidade de caracteres no Campo de Observação de Situação Especial de Faturamento;17;GSAN;Evolutiva;0
+20452;Desenvolvimento-RM18599: Evolutiva das Funcionalidade relativas à manutenção do CADASTRO DE BAIRROS;17;GSAN;Desenvolvimento;0
+20453;Atualização de query #20124;17;GSAN;Atendimento;0
+20454;Solicitação de Acesso - Consorcio Tecnoáguas;17;GSAN;Atendimento;0
+20455;Homologação SIC Oracle 12;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+20456;Habilitar usuário;3;Alpha;Atendimento;0
+20457;Desbloqueio de acesso.;17;GSAN;Atendimento;0
+20458;Devolução Indevida;17;GSAN;Atendimento;0
+20459;Devolução indevida;17;GSAN;Corretiva;0
+20460;Solicitação;3;Alpha;Atendimento;0
+20461;Gerenciamento e acompanhamento do Projeto BRK;67;Gerencial GSC;Consultoria;0
+20462;Prorrogação de comunicado de manutenção;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+20466;Vincular XML ao IDNF;3;Alpha;Atendimento;0
+20467;Encerramento automático de RAs;17;GSAN;Evolutiva;0
+20468;Desenvolvimento-RM18599: Evolutiva das Funcionalidade relativas à MANUTENÇÃO DO CADASTRO DE LOCALIDADE e TRAMITES AUTOMÁTICOS (ATUALIZAÇÃO CADASTRAL);17;GSAN;Desenvolvimento;0
+20469;Desenvolvimento-RM18599: Evolutiva das Funcionalidade relativas à Geração e Acompanhamento de Roteiros de Atualização Cadastral (Obras);17;GSAN;Desenvolvimento;0
+20470;Desenvolvimento-RM18599: Evolutiva das Funcionalidade relativas ao Tratamento de Dados no Pré GSAN e GSAN AC.;17;GSAN;Desenvolvimento;0
+20471;CORREÇÃO - BIOLOGOS;28;SIC - Sist. Integrados Compesa;Correções;0
+20472;Processo 2 - FATURAR GRUPO FATURAMENTO;17;GSAN;Atendimento;0
+20473;Alerta de mais de uma ARP vigente para o mesmo código de material;3;Alpha;Atendimento;0
+20474;ATUALIZAÇÃO DO COLLECTOR NOS TABLETS DOS FISCAIS DA COMPESA;77;GIS Compesa;Atendimento;0
+20475;AUTERAÇÃO DE CONTA MOVIMENTO;3;Alpha;Atendimento;0
+20476;Boletim de Medição;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20477;Inclusão de Terceirizado;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20479;Erro no Alpha;3;Alpha;Atendimento;0
+20480;PUBLICAÇÃO DO SERVIÇO E APLICATIVO DO GIS OPERAÇÃO ESQUEMÁTICO;77;GIS Compesa;Atendimento;0
+20481;Publicação do DASHBOARD gerencial;77;GIS Compesa;Atendimento;0
+20482;Criação do gráfico do percentual de clientes da TARIFA SOCIAL;77;GIS Compesa;Atendimento;0
+20483;Correção e preenchimento dos valores do DASHBOARD GTC - TARIFA SOCIAL;77;GIS Compesa;Atendimento;0
+20484;VERIFICAR IMPRESSÃO SIMULTANEA DA FATURA DAS MATRICULAS 107651661, 107774143 e 107773848;17;GSAN;Atendimento;0
+20485;Tramitar RAs para caixa 1310;17;GSAN;Atendimento;0
+20486;Relatório de Acompanhamento de Boletos;16;SGCQ;Atendimento;0
+20487;criar login do Alpha;3;Alpha;Atendimento;0
+20488;criar login do Alpha;3;Alpha;Atendimento;0
+20489;Parametrização;17;GSAN;Atendimento;0
+20490;Erro em Transferência;28;SIC - Sist. Integrados Compesa;Correções;0
+20491;modificação de perfil de acesso de novo funcionário lotado na GLD;3;Alpha;Atendimento;0
+20492;Ajuste para análise de balanço hídrico;17;GSAN;Desenvolvimento;0
+20493;BM Petrolina - Informações para acompanhamento da evolução de incremento;17;GSAN;Atendimento;0
+20494;ALTERAÇÃO NO CRONOGRAMA DE FATURAMENTO CONSIDERANDO OS DIFERENTES TIPOS DE IMPRESSÃO (CONVENCIONAL E SIMULTANEA);17;GSAN;Evolutiva;0
+20495;Criar login ALPHA;3;Alpha;Atendimento;0
+20496;Nota de devolução;3;Alpha;Atendimento;0
+20497;volume micro medido ABRIL projeto Olinda+Água;17;GSAN;Atendimento;0
+20498;Alteração GSAN AC;17;GSAN;Evolutiva;0
+20499;QUERYS GEV DE ABRIL DE 2018;17;GSAN;Atendimento;0
+20500;Emitir Relatório de Perdas e Receitas Canceladas - Ciclo 08-2017;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20501;RELATORIO DÉBITO;17;GSAN;Atendimento;0
+20502;Relatório de Acompanhamento de Boletos;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20503;Erro relançamento NF 180868 EBARA;3;Alpha;Atendimento;0
+20504;Alterações e correções no SIG- Sistema Informações Gerenciais;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20505;Desenvolvimento do Layout do serviço e do API WEB para o aplicativo de gestão de manobras;77;GIS Compesa;Atendimento;0
+20506;Integração entre APP de manobras e GISCOMP;77;GIS Compesa;Atendimento;0
+20507;Envio da VIEW do aplicativo de manobras;77;GIS Compesa;Atendimento;0
+20508;Alterar quantidade de caracteres no campo de categoria e subcategoria do Boletim Pré-impresso - necessidade de alteração após as novas subcategorias;17;GSAN;Corretiva;0
+20509;Criar nova VIEW com atualização em tempo real para o GISCOMP;77;GIS Compesa;Atendimento;0
+20510;SOLICITAÇÃO DE DESPESA DE VIAGEM DUPLICADA;3;Alpha;Atendimento;0
+20512;Relatório Custo Geral OS em formato de planilha;3;Alpha;Atendimento;0
+20513;Acesso ao SIG;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20514;Canal de Denúncias - Melhorias;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+20515;PLANILHA COM TODOS OS RA'S PENDENTES NA CAIXA DA GFT (9049);17;GSAN;Atendimento;0
+20516;EXECUÇÃO DA NOVA VERSÃO DO ARQUIVO DE BALANÇO HÍDRICO;61;SIG - Sistema Informações Gerenciais;Evoluções e Novos Projetos;0
+20517;LIBERAR ACESSO A CARTEIRA DE CONDOMINIO E VAREJO;17;GSAN;Atendimento;0
+20518;Consulta no alpha de aditivos para o portal transparencia;64;SCL- Sistema Controle Licitações;Atendimento;0
+20519;Criação login ALPHA;3;Alpha;Atendimento;0
+20520;RETIRAR CODIGO 42 - 17987526;17;GSAN;Atendimento;0
+20521;LIBERAÇÃO DE ACESSO: IMÓVEL NA CARTEIRA MARIO GOUVEIA, NECESSÁRIO PERMISSÃO ESPECIAL.;17;GSAN;Atendimento;0
+20522;Registros de débito automático;17;GSAN;Atendimento;0
+20523;Acréscimo de 10 m³ no volume faturado, nas ligações cortadas sem medição;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20524;Liberar algumas localidades para atualização cadastral pela Rota de Leitura;17;GSAN;Atendimento;0
+20525;RD 12/2016;17;GSAN;Atendimento;0
+20526;ROTINA DE FATURAMENTO - PROCESSO 66 (parte 2);17;GSAN;Atendimento;0
+20527;Emitir Relatório de Perdas e Receitas Canceladas - 2016 e 2017;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20528;Melhorar a funcionalidade do Juscompesa - 2;13;JUSCOMPESA;Atendimento;0
+20529;planilha;17;GSAN;Atendimento;0
+20530;Criação de View Análise Estatísticas da GSC;67;Gerencial GSC;Atendimento;0
+20532;QUERY LOCALIDADE PRAZERES SETOR 701;17;GSAN;Atendimento;0
+20533;Conclusão de serviço no APP GSANAS;17;GSAN;Atendimento;0
+20534;RA encerrada com OS pendente;17;GSAN;Atendimento;0
+20535;MENSAGEM AUTOMÁTICA DE PARABÉNS AO EMPREGADO POR E-MAIL;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+20536;LIBERAÇÃO DE ACESSO AO MODULO DE PROJETOS DO ALPHA PARA CRIAÇÃO DE P.A.;3;Alpha;Atendimento;0
+20537;Homologação SIM Oracle 12;20;SIM;Evoluções e Novos Projetos;0
+20538;Comando A 4983 - Oeste;17;GSAN;Atendimento;0
+20539;Criar Dashboard de utilização do sistema GISCOMP;77;GIS Compesa;Atendimento;0
+20540;[GSANISC] Paralisação da Emissão de Simultânea no DA;17;GSAN;Evolutiva;0
+20541;Implantar no GISCOMP todas as redes de logradouro ( Vermelho ) que tenha ligação de esgoto no GSAN;77;GIS Compesa;Atendimento;0
+20542;Criar Dashboard do SES no mesmo moldes do SAA;77;GIS Compesa;Atendimento;0
+20543;Criar Dashboard por gerencia/localidades no mesmo moldes do SAA/Estado;77;GIS Compesa;Atendimento;0
+20544;Reativar matrícula 15404043;17;GSAN;Atendimento;0
+20545;Melhorias no Dashboard existente de água do estado;77;GIS Compesa;Atendimento;0
+20546;Reestruturação do SIM - Layout;20;SIM;Atendimento;0
+20547;Publicar em algumas localidades as imagens do PE 3D( Padrão ) no GISCOMP;77;GIS Compesa;Atendimento;0
+20548;DEIXAR O HIDRÔMETRO DISPONÍVEL;17;GSAN;Atendimento;0
+20549;CRIAR PARAMETRO NO SISTEMA PARA ATUALIZAR O VALOR DA TARIFA DE CARRO-PIPA PARTICULAR;17;GSAN;Corretiva;0
+20550;INCLUIR INDICADOR DE IMOVEL COM DEBITO AUTOMATICO;17;GSAN;Evolutiva;0
+20551;CRIAR CONTADOR DE IMPRESSÃO DE FATURAS;17;GSAN;Evolutiva;0
+20552;GERAR DADOS DIÁRIOS ARRECADAÇÃO;17;GSAN;Atendimento;0
+20553;Acesso ao Alpha;3;Alpha;Atendimento;0
+20554;Diferenças entre a query do GSAN e a query do Netbase;17;GSAN;Atendimento;0
+20555;Retirar cód. 42;17;GSAN;Atendimento;0
+20556;Acesso ao Alpha;3;Alpha;Atendimento;0
+20557;Acesso à conta movimento GNR ARARIPE;3;Alpha;Atendimento;0
+20558;Erros do sistema em produção;72;Controle de Normas;Correções;0
+20559;fatura nao baixada;17;GSAN;Corretiva;0
+20560;Planilha Negativação por faturas;17;GSAN;Atendimento;0
+20561;Alterações no sistema GABI;39;GABI;Atendimento;0
+20562;Tramitação Conta Braile;17;GSAN;Atendimento;0
+20563;Planilha Arrecadação;17;GSAN;Atendimento;0
+20564;Query- Micromedição-Rodrigo;17;GSAN;Atendimento;0
+20565;Alterar aba Contratacoes diretas;64;SCL- Sistema Controle Licitações;Correções;0
+20566;RELAÇÃO MATRICULA CELULA ANORMALIDADE RA FAT - ELABORADA POR SOUZA.;17;GSAN;Atendimento;0
+20567;RETIRAR SEQUENCIAL DE LEITURA - Frexeiras (451);17;GSAN;Atendimento;0
+20568;GSAN | Problemas Informações Ciclo - VW_ESGOTO_ESTADO_FOZ;17;GSAN;Atendimento;0
+20569;Criação de Pop-up de aditivos de contrato;64;SCL- Sistema Controle Licitações;Atendimento;0
+20570;6 - GERAR DOCUMENTO DE COBRANCA - EVENTUAL (CORTE FISICO);17;GSAN;Atendimento;0
+20571;Problema Sistema de Agendamento de Salas;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20572;Reativar matrícula 9971963;17;GSAN;Atendimento;0
+20573;RETIRAR CODIGO 42 - 44119498;17;GSAN;Atendimento;0
+20574;Permissão da funcionalidade “EFETUAR LIGACAO DE AGUA COM INSTALACAO DE HIDROMETRO”;17;GSAN;Atendimento;0
+20575;Conversão de arquivo DWG para Shapefile;77;GIS Compesa;Atendimento;0
+20576;INCLUSÃO DE CAMPO NO JUSCOMPESA;13;JUSCOMPESA;Atendimento;0
+20577;Servidor de email alterado pela GAO;28;SIC - Sist. Integrados Compesa;Correções;0
+20578;Testar robô da receita excluindo opção do Captcha;77;GIS Compesa;Atendimento;0
+20579;Query com todas as matrículas da GNM Norte;17;GSAN;Atendimento;0
+20580;INSERIR SITUAÇÃO ESPECIAL DE FATURAMENTO "DESCONSIDERAR AC E EC";17;GSAN;Atendimento;0
+20581;Solicitação de matrículas por perfil de ligação;17;GSAN;Atendimento;0
+20582;Travar Períodos;3;Alpha;Atendimento;0
+20583;Criar novo usuário;3;Alpha;Atendimento;0
+20584;INCLUIR MAPA DE CALOR DOS CLIENTES COM AVISO DE DÉBITO VALIDO;77;GIS Compesa;Atendimento;0
+20585;Planilha OS Consistencia Operacional CSV - Centro;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20586;Atualização query ALEX_CARMEN;17;GSAN;Atendimento;0
+20587;Extrair informação do GSAN para clientes com aviso de débito válido através de VIEW;77;GIS Compesa;Atendimento;0
+20588;Automatização do RCC - Relatório de consultas de clientes diário diretamente no BI;38;BI Desenvolvimento;Atendimento;0
+20589;Melhoria no SIC - Mídias Sociais;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+20590;PR 2017 - 2018;28;SIC - Sist. Integrados Compesa;Evoluções e Novos Projetos;0
+20591;Gerar análise de busca por erros com base nos hidrômetros vencidos, e hidrômetros vigentes não ligados;77;GIS Compesa;Atendimento;0
+20593;Criação do perfil do trecho do Distrito de Mandaçaia;77;GIS Compesa;Atendimento;0
+20594;CARTAS DE COBRANÇA - 2017;17;GSAN;Atendimento;0
+20595;excluir CPF;17;GSAN;Atendimento;0
+20596;Permissão de Acesso;17;GSAN;Atendimento;0
+20597;Reativar matrícula 9865802;17;GSAN;Atendimento;0
+20598;Desbloqueio de conta;3;Alpha;Atendimento;0
+20599;Acesso ao Projeto PJ005DRM16 para a usuária Elaine Ferreira;3;Alpha;Atendimento;0
+20600;Acesso ao Projeto PJ005DRM16 para a usuária Tarciana;3;Alpha;Atendimento;0
+20601;Mapas temáticos do IBURA;77;GIS Compesa;Atendimento;0
+20602;Retirada do código 42 na matrícula;17;GSAN;Atendimento;0
+20603;Vincular XML ao IDNF;3;Alpha;Atendimento;0
+20604;Ajustar o manter/inserir carteira para exibir corretamente no linux;17;GSAN;Corretiva;0
+20605;Criar botão "Adicionar RA" na aba RA da tela "Consultar Imóvel";17;GSAN;Evolutiva;0
+20606;Nova View para reembolsáveis - BID;3;Alpha;Atendimento;0
+20607;Correção do GSAN - Processo de Atualização Cadastral;17;GSAN;Corretiva;0
+20608;Análise Prazo Médio de Recebimento - Arrecadação de Esgoto;17;GSAN;Atendimento;0
+20609;Nova Localidade;17;GSAN;Atendimento;0
+20610;Canal de Denúncias - Acesso aos Membros do Comitê de Ética;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20611;Importação Arquivo Celpe;79;CEE - NEW;Desenvolvimento;0
+20612;Integração Folha x Alpha;3;Alpha;Atendimento;0
+20613;Mapa em Aut CAD com curva de nível da localidade de Pesqueira;77;GIS Compesa;Atendimento;0
+20617;Consulta de suspensão de matrículas de Tejucupapo;17;GSAN;Atendimento;0
+20618;Implantação dos nomes dos Sistemas e Bacias (subsistemas), nas matrículas no GSAN.;17;GSAN;Atendimento;0
+20619;parametrização tramite de RA para outras unidades.;17;GSAN;Evolutiva;0
+20620;Relação materiais comprados pela Compesa - Ajuda a Edvaldo;3;Alpha;Atendimento;0
+20621;[PSA IPOJUCA] Inclusão do qvw na rotina automática - Módulo Comercial;38;BI Desenvolvimento;Atendimento;0
+20622;[PSA IPOJUCA] Ajustes de aplicação;38;BI Desenvolvimento;Atendimento;0
+20623;Erro controle orçamentário compras pelo Plano de Aplicação;3;Alpha;Atendimento;0
+20624;PARAMETRIZAÇÃO DE TRAMITAÇÃO;17;GSAN;Atendimento;0
+20625;Comando BRK;17;GSAN;Atendimento;0
+20626;[COMERCIAL] Verificar número de economias ativas residenciais de água e esgoto - Abril/2018;38;BI Desenvolvimento;Correções;0
+20627;Desenvolvimento-RM18599: Funcionalidades Complementares ao Processo;17;GSAN;Desenvolvimento;0
+20628;Criar botão "Consultar Imóvel" na tela de "Manter RA";17;GSAN;Evolutiva;0
+20629;Criar botão "Consultar RA" na tela de "Manter OS";17;GSAN;Evolutiva;0
+20630;Gerar Query com os devedores em dia;17;GSAN;Atendimento;0
+20631;Averbações no processo de atualização cadastral que não estão ficando registrado o validador que liberou;17;GSAN;Corretiva;0
+20632;Ajustar os servidores do GIS com a nova conexão ao banco GSAN-PRODUÇÂO;77;GIS Compesa;Atendimento;0
+20633;Criar novo usuário do ALPHA;3;Alpha;Atendimento;0
+20634;Criar novo usuário do ALPHA;3;Alpha;Atendimento;0
+20635;lentidao do gsan;17;GSAN;Atendimento;0
+20636;Vincular XML ao IDNF;3;Alpha;Atendimento;0
+20637;Melhoria da gestão Juscompesa-GGR;13;JUSCOMPESA;Atendimento;0
+20638;Disponibilização de Material Carrymap;77;GIS Compesa;Atendimento;0
+20639;Sprint 201806-01 - Reuniões de Monitoramento;67;Gerencial GSC;Atendimento;0
+20640;Possibilitar gerar roteiro de cadastro a partir do roteiro do GSANEOS;17;GSAN;Evolutiva;0
+20641;PROCESSO 2 - FATURAR GRUPO FATURAMENTO;17;GSAN;Atendimento;0
+20642;Ajuste do SIG contas a pagar;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20643;Fluxo de Caixa: Inclusão das receitas;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20644;Alteração do Cálculo no Boletim de Medição da Empresa Cifra;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20645;Atualizar query VALOR FATURADO GOV. DE PERNAMBUCO ADMINISTRAÇÃO DIRETA;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20646;RELTORIO DOS IMÓVEIS LOC. 341 SETOR 719 QUADRAS 110 E 125 REF AO IMÓVEIS MARIO GOUVEIA;17;GSAN;Atendimento;0
+20647;Levantar junto ao IFS custo do complemento da customização Revisão de PA;3;Alpha;Atendimento;0
+20648;Alteração no Processo de Atualização Cadastral - Fiscalização;17;GSAN;Evolutiva;0
+20649;Problema na recepção do Roteiro Localidade Serra Talhada, Setor 836;17;GSAN;Corretiva;0
+20650;Criação de Situação Especial de Faturamento :: Case Arena de Pernambuco;17;GSAN;Evolutiva;0
+20651;Erro na remoção de imóveis do Pré-Gsan - matrículas 8542023 e 8465517;17;GSAN;Corretiva;0
+20652;Exportação de Dados do Imóvel;17;GSAN;Atendimento;0
+20653;Reativar matrícula 106004492;17;GSAN;Atendimento;0
+20654;Problema na averbação de usuário pessoa jurídica pelo processo de atualização cadastral;17;GSAN;Corretiva;0
+20655;Exportação de Histórico de Faturamento;17;GSAN;Atendimento;0
+20656;Adicionar  a ligação join os novos campos;77;GIS Compesa;Atendimento;0
+20657;Colocar o esgoto para Factivel -   Lot. Vale Dourado;17;GSAN;Atendimento;0
+20658;Criar novo usuário ALPHA;3;Alpha;Atendimento;0
+20659;Corrigir erros no GABI;39;GABI;Atendimento;0
+20660;Criação da tela: Aquisições de Bens;64;SCL- Sistema Controle Licitações;Atendimento;0
+20661;BM Petrolina - Informações para análise - medição e faturamento;17;GSAN;Atendimento;0
+20662;PROCESSO 256 - ENVIO DE EMAIL DA CONTA PARA O CLIENTE;17;GSAN;Atendimento;0
+20663;Levantamento de OS de Hidrômetro;17;GSAN;Atendimento;0
+20664;Executar query de Retificações e Cancelamentos;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20665;TRAMITAÇÃO DE UNIDADE;17;GSAN;Atendimento;0
+20667;SCRIPT DE PRODUÇÃO PARA CONSULTA DO COLLECTOR;77;GIS Compesa;Atendimento;0
+20668;Vincular XML ao IDNF - URGENTE!!! (DECISION);3;Alpha;Atendimento;0
+20669;Query de imóveis cortados que foram religados- janeiro a maio 2018;17;GSAN;Atendimento;0
+20670;composição contas a receber abril 2018;17;GSAN;Atendimento;0
+20671;Ajustar perfil;3;Alpha;Atendimento;0
+20672;QUERY REGISTRO DE ATENDIMENTO COMERCIAL PENDENTE;17;GSAN;Atendimento;0
+20673;Juscompesa - Módulo GGR;13;JUSCOMPESA;Atendimento;0
+20674;Contrato de Fornecedor CT.OS. 14.6.315;3;Alpha;Atendimento;0
+20675;INCONSISTENCIA: IMPRESSAO EM CAMPO DE FATURA DE IMOVEL CORPORATIVO;17;GSAN;Atendimento;0
+20676;Processo 341-  PROCESSOS PARA EXECUCAO DIARIA;17;GSAN;Atendimento;0
+20677;criação de novo usuário;3;Alpha;Atendimento;0
+20678;Comando BRK 1425;17;GSAN;Atendimento;0
+20679;Aviso de corte atualização;17;GSAN;Atendimento;0
+20680;VERIFICAR FATURA EM DEBITO AUTOMATCO QUE DEIXOU DE SER IMPRESSA EM CAMPO;17;GSAN;Atendimento;0
+20681;Calendário de abastecimento;77;GIS Compesa;Atendimento;0
+20682;Erro de sistema;17;GSAN;Atendimento;0
+20683;Listagem dos códigos das unidades do GSAN;17;GSAN;Atendimento;0
+20684;RETIRAR CODIGO 42 - 23308290;17;GSAN;Atendimento;0
+20685;RELATÓRIO FATURAS EM ABERTO;38;BI Desenvolvimento;Atendimento;0
+20686;MATRÍCULAS RELIGADAS À REVELIA (QUANTIDADE DE FATURAS);17;GSAN;Evolutiva;0
+20687;GERAÇÃO DE QUERIE - ATRIBUTOS DE CADASTRO NÃO PREENCHIDOS;17;GSAN;Atendimento;0
+20688;Publicações e Compromissos para Processos - Inativados;13;JUSCOMPESA;Atendimento;0
+20689;Permissão para o colaborador JOSE FRANCISCO DE ARRUDA NETO;17;GSAN;Atendimento;0
+20690;Erro - R.A reativado quando alterado perde o dado do R.A da reativação;17;GSAN;Corretiva;0
+20691;Processo 109 -  GER. ULTIMO DIA MES REFERENCIA;17;GSAN;Atendimento;0
+20692;GERAR DADOS PARA LEITURA - GRUPO 09;17;GSAN;Atendimento;0
+20693;Erro ao gerar DE/PARA;3;Alpha;Atendimento;0
+20694;MUDANÇA DE HORARIO;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20695;Prescrição de fatura;17;GSAN;Atendimento;0
+20696;PROBLEMA AO CONFIRMA OC;3;Alpha;Atendimento;0
+20697;BM Petrolina - Informações para análise;17;GSAN;Atendimento;0
+20698;Solicitamos alteração no GSAN AC;17;GSAN;Atendimento;0
+20699;Problema no Alpha;3;Alpha;Atendimento;0
+20700;ERRO GSAN;17;GSAN;Corretiva;0
+20701;Modificar usuário cadastro no IMEI;17;GSAN;Atendimento;0
+20702;CRIAR NOVO MOTIVO DE SITUAÇÃO ESPECIAL DE FATURAMENTO;17;GSAN;Atendimento;0
+20703;Liberação de acesso à Carteira Mário Gouveia;17;GSAN;Atendimento;0
+20704;Licenciamento Ambiental - Ajustes no Sistema Informatizado;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20705;Acesso ao IFS/Alpha;3;Alpha;Atendimento;0
+20706;Nivelamento Técnico :: 5º Aditivo BRK :: Monitoramento Projeto;67;Gerencial GSC;Atendimento;0
+20707;Vincular XML ao IDNF;3;Alpha;Atendimento;0
+20708;Rejeição - NCM incompleto (M&P);3;Alpha;Atendimento;0
+20709;Rejeição - NCM incompleto (DECISION);3;Alpha;Atendimento;0
+20710;Rejeição - NCM incompleto (AC POWER);3;Alpha;Atendimento;0
+20711;Rejeição - NCM incompleto (FERGAVI);3;Alpha;Atendimento;0
+20712;Erro importação FIT (KSB);3;Alpha;Atendimento;0
+20713;Acesso ao GSAN;17;GSAN;Atendimento;0
+20714;Vincular XML ao IDNF;3;Alpha;Atendimento;0
+20715;Dificuldades em fazer medição de contrato;3;Alpha;Atendimento;0
+20716;Acesso a conta movimento;3;Alpha;Atendimento;0
+20717;SIC - Aprovação de Colaborador;28;SIC - Sist. Integrados Compesa;Atendimento;0
+20718;DESENVOLVIMENTO NO SIPLAN DE MÓDULO COM INDICADORES ESTRATÉGICOS, SETORIAIS E GERENCIAIS;60;SIPLAN - Sistema Planejamento;Evoluções e Novos Projetos;0
+20719;Ajustes no boletim de medição do contrato de petrolina;17;GSAN;Evolutiva;0
+20720;Inclusão de campo em BI GSAN;38;BI Desenvolvimento;Atendimento;0
+20721;Envio de e-mail automático nas tramitações de RA's;17;GSAN;Atendimento;0
+20722;Criação de Perfil de usuário GSAN;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20723;Criar um perfil de usuário de GSAN;61;SIG - Sistema Informações Gerenciais;Atendimento;0
+20724;Correções no modelo de representação do calendário público;77;GIS Compesa;Atendimento;0
+20725;Valor solicitar os valores arrecadados de água dos imóveis contidos na Carteira Varejo nas arrecadações 03, 04 e 05/2018, conforme modelo em anexo.;17;GSAN;Atendimento;0
+20726;Funcionalidade de Conta Fixa;17;GSAN;Corretiva;0
+20727;Cliente descumpre benefício da RD 12/2016;17;GSAN;Atendimento;0
+20728;VERIFICAR DIVERGENCIA ENTRE A LEITURA INFORMADA E A LEITURA FATURADA NO IMOVEL 54241836;17;GSAN;Atendimento;0
+20729;FATURA NAO IMPRESSA NA SIMULTANEA - 107639858;17;GSAN;Atendimento;0
+20730;Gateway de Pagamentos On-Line :: Revisão do Anexo I do Edital;67;Gerencial GSC;Atendimento;0
+20731;BM Petrolina - Informações para análise - medição e faturamento;17;GSAN;Atendimento;0
+20732;PROCESSO 341 - PROCESSOS PARA EXECUCAO DIARIA;17;GSAN;Atendimento;0
+20733;VERIFICAR COBRANCA DE DESPESA DE ENDEREÇO ALTERNATIVO - 54021879;17;GSAN;Atendimento;0
+20734;Acesso GSAN;17;GSAN;Atendimento;0
+20735;Info Servive - Pagamentos diversos - Erro carga de dados;3;Alpha;Atendimento;0
+20736;Agenda Telefônica não atualizada com SIC;28;SIC - Sist. Integrados Compesa;Correções;0
+20737;Vincular XML ao IDNF (BORTOLINI);3;Alpha;Atendimento;0
+20738;clientes da categoria comercial que são água bruta;17;GSAN;Atendimento;0
+20739;Quary de débitos das Prefeituras;17;GSAN;Atendimento;0
+20740;Complemento de informação em planilha;17;GSAN;Atendimento;0
+20741;habilitar serviços na caixa da RS para GSANEOS;17;GSAN;Atendimento;0
+20742;Contas parceladas após o início contrato devem ser pegas para a empresa contratada;17;GSAN;Evolutiva;0
+20743;Correção - Quantidade de RA's;38;BI Desenvolvimento;Atendimento;0
+20744;Desbloqueio de acesso.;17;GSAN;Atendimento;0
+20745;Inserir valor das premissas de corte de Janeiro;39;GABI;Atendimento;0
+20746;Processo 2 - FATURAR GRUPO FATURAMENTO GR-9;17;GSAN;Atendimento;0
+20747;Criar simbologia para logradouros que não batem com os dados do GSAN e para ligações perdidas com o endereço errado segundo vizinhos;77;GIS Compesa;Atendimento;0
+20748;Alteração do ambiente de validação da equipe da comercial;77;GIS Compesa;Atendimento;0
+20749;Instalação do ArcMAP nos PCs da comercial;77;GIS Compesa;Atendimento;0
+20750;Treinamento da equipe;77;GIS Compesa;Atendimento;0
+20751;Criação das versões do BD Versionado;77;GIS Compesa;Atendimento;0
+20752;Criação do fluxo de devolução de dados editados no GISCOMP para o GSAN.;77;GIS Compesa;Atendimento;0
+20753;Processo 341-  PROCESSOS PARA EXECUCAO DIARIA;17;GSAN;Corretiva;0
+20754;Correção dos valores do SNIS para o Dashboard do CT;77;GIS Compesa;Atendimento;0
+20755;Erro - Incluindo O.S de unidade/tipo serviço diferente da unidade de equipe/tipo serviço pertinente ao contrato GMR;17;GSAN;Corretiva;0
+20756;Erro Alteração Tipo Documento;72;Controle de Normas;Atendimento;0
+20757;PROCESSO 190 - GER. RESUMO DIARIO NEGATIVACAO PARTE 2;17;GSAN;Atendimento;0
+20758;Alteração no Pré-GSAN -Editar: Nome do Cliente, CPF e Data de Nascimento;17;GSAN;Evolutiva;0
+20759;Processo 341-  PROCESSOS PARA EXECUCAO DIARIA;17;GSAN;Atendimento;0
+20761;Modificar recepção cadastro para receber e-mail do campo;17;GSAN;Corretiva;0
+20762;Incluir campo email GsanAc;17;GSAN;Corretiva;0
+20763;PLANILHA OPERACIONAL - gsan (padrão) VW_ESGOTO_ESTADO_FOZ | Problemas no retorno da informação de Ciclo 01/01/2016 à 23/01/2017;17;GSAN;Atendimento;0
+20764;aplicar dicionário do delivery CPSA20180523-01;3;Alpha;Atendimento;0
+20765;Alteração do Relatório do Totalizador de OS's por Tipo Manut;3;Alpha;Atendimento;0
+20766;Reativar matrícula 23653796;17;GSAN;Atendimento;0
+20767;Geração de arquivo no formato Shapefile;77;GIS Compesa;Atendimento;0
+20768;Erro ao CRIAR ORDEM DE COMPRA;3;Alpha;Atendimento;0
+20769;Ajuste data tarifa;17;GSAN;Atendimento;0
+20770;Processo 341 -  6Gerar arquivos cobranca para DataCob (Lock);17;GSAN;Corretiva;0
+20771;Extração de dados para a Assessoria de Planejamento Operacional;77;GIS Compesa;Atendimento;0
+20772;Sistema Gabi;39;GABI;Atendimento;0
+20773;Processo 2 - FATURAR GRUPO FATURAMENTO GR-11;17;GSAN;Atendimento;0
+20774;VOLUME CONSUMIDO DE MAIO;17;GSAN;Atendimento;0
+20775;erro tela parcelamento;17;GSAN;Atendimento;0
+20776;Elaboração de Relatório - CONTRATOS X CENTRO DE CUSTO;3;Alpha;Atendimento;0
+20777;Inclusão de RM e RC na consulta "Custo Geral OS - Consulta";3;Alpha;Atendimento;0
+20778;Processo 341-  PROCESSOS PARA EXECUCAO DIARIA;17;GSAN;Corretiva;0
+20779;Criar camada "LOGRADOUROS UNIFICADOS" para publicação no GISCOMP;77;GIS Compesa;Atendimento;0
+20780;Finalizar DASHBOARD de ações gerenciais;77;GIS Compesa;Atendimento;0
+20781;Configuração do AD Compesa no novo portal do ambiente federado de FMIGUELINO;77;GIS Compesa;Atendimento;0
+20782;Alteração do layout da fatura;17;GSAN;Atendimento;0
+20783;Identificar ações de obras nos dados do GISMR;77;GIS Compesa;Atendimento;0
+20784;Trocar LINK do gis operação por LINK do GIS ESQUEMÁTICO;77;GIS Compesa;Atendimento;0
+20786;Remoção do GIS MANUTENÇÃO DE REDES DE ESGOTO do portal GISCOMP até segunda ordem;77;GIS Compesa;Atendimento;0
+20787;Gsan Online 192.168.1.67;17;GSAN;Atendimento;0
+20788;Criar informação de incremento e decremento de ATIVOS no GISCOMP;77;GIS Compesa;Atendimento;0
+20789;Criar DASHBOARD com valores de Incremento e Decremento em relação ao mês anterior;77;GIS Compesa;Atendimento;0
+20790;Criar camada sinalizando os clientes que mudaram de situação nos últimos 3 meses.;77;GIS Compesa;Atendimento;0
+20791;Validação do funcionamento da aplicação de gestão de manobras;77;GIS Compesa;Atendimento;0
+20792;parcelamento;17;GSAN;Atendimento;0
+20793;NÃO CONSIGO IMPRIMIR BOLETIM DE MEDIÇÃO;3;Alpha;Atendimento;0
+20794;Desbloqueio de acesso.;17;GSAN;Atendimento;0
+20795;Cadastramento de Nova Unidade Organizacional - Finalidade Uso interno (processos automatizados do GSAN);17;GSAN;Atendimento;0
