@@ -32,6 +32,7 @@ import codecs
 import csv
 import json
 import pprint
+import re
 
 CITIES = 'cities.csv'
 
@@ -44,10 +45,43 @@ def audit_file(filename, fields):
     fieldtypes = {}
 
     # YOUR CODE HERE
-
+    with open(filename, "r") as f:
+        reader = csv.DictReader(f)
+        header = reader.fieldnames
+        # Recurso de expressao regular para busca de DBPedia em strings de interesse
+        p = re.compile('DBPedia', re.IGNORECASE)
+        for linhas in reader:
+            # Verifica a existencia da expressao regular na string, no caso, a coluna URI
+            # Busca pela string DBPedia no conteudo da coluna
+            if p.search(linhas["URI"]):
+                for field in fields:
+                    var = linhas[field]
+                    if fieldtypes.get(field) == None:
+                        cjt = set()
+                        cjt.add(def_type(linhas[field]))
+                        fieldtypes[field] = cjt
+                    else:
+                        cjt = fieldtypes[field]
+                        cjt.add(def_type(linhas[field]))
 
     return fieldtypes
 
+def def_type(var):
+    if var == "" or var.upper() == "NULL":
+        return type(None)
+
+    if var.startswith('{'):
+        return(type([]))
+
+    try:
+        real = float(var)
+        try:
+            inteiro = int(var)
+            return type(int(var))
+        except ValueError:
+            return type(float(var))
+    except ValueError:
+        return(type(str()))
 
 def test():
     fieldtypes = audit_file(CITIES, FIELDS)
