@@ -32,8 +32,8 @@ def evolucao_rms():
             if rm_atual != rm_anterior:
                 tempo_espera = {}
                 dataHoraCriacao = datetime.strptime(transicoes['criacao_rm'], FORMATO_DATA_HORA)
-                dataHoraInicial = datetime.strptime(transicoes['transicao'], FORMATO_DATA_HORA)
-                delta = dataHoraInicial - dataHoraCriacao
+                dataHoraAtual = datetime.strptime(transicoes['transicao'], FORMATO_DATA_HORA)
+                delta = dataHoraInicial - dataHoraAtual
                 tempo_espera['rm'] = rm_atual
                 tempo_espera['tempo'] = delta.days
                 lista_tempo_espera.append(tempo_espera)
