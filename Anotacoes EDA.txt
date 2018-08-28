@@ -1,0 +1,19 @@
+Análise Exploratória de dados
+:: Mentalidade cética e curiosa
+:: Framework javascript - D3
+:: Linguagem R - https://en.wikipedia.org/wiki/R_(programming_language)
+:: Nathan Yau
+:: Google Trends - https://trends.google.com/trends/?geo=US
+:: Sensitivity and Specificity and ROC Curves for Binary Classifiers 
+   https://community.alteryx.com/t5/Data-Science-Blog/ROC-Curves-in-Python-and-R/ba-p/138430
+:: Pacote ggplot2
+
+Instalação do R
+:: https://geoind.wordpress.com/2017/02/06/r-e-rstudio-ubuntu-16-04/
+:: Swirl
+	- install.packages("swirl")
+	- library(swirl)
+	- swirl()
+:: https://www.statmethods.net/
+:: https://google.github.io/styleguide/Rguide.xml
+:: http://www.cookbook-r.com/

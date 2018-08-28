@@ -108,12 +108,12 @@ def test():
         "label": "Argiope",
         "description": "The genus Argiope includes rather large and spectacular spiders that often have a strikingly coloured abdomen. These spiders are distributed throughout the world. Most countries in tropical or temperate climates host one or more species that are similar in appearance. The etymology of the name is from a Greek name meaning silver-faced."
     }
-
+'''
     assert len(data) == 76
     assert data[0] == first_entry
     assert data[17]["name"] == "Ogdenia"
     assert data[48]["label"] == "Hydrachnidiae"
     assert data[14]["synonym"] == ["Cyrene Peckham & Peckham"]
-
+'''
 if __name__ == "__main__":
     test()
