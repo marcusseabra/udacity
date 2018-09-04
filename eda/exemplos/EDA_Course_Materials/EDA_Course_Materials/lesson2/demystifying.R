@@ -55,7 +55,7 @@ numbers
 udacious <- c("Chris Saden", "Lauren Castellano",
               "Sarah Spikes","Dean Eckles",
               "Andy Brown", "Moira Burke",
-              "Kunal Chawla", YOUR_NAME)
+              "Kunal Chawla", "Marcus Seabra")
 
 # Notice how R updates 'udacious' in the workspace.
 # It should now say something like 'chr[1:8]'.
@@ -63,7 +63,7 @@ udacious <- c("Chris Saden", "Lauren Castellano",
 # 3. Run the following two lines of code. You can highlight both lines
 # of code and run them.
 
-mystery = nchar(udacious)
+mystery <- nchar(udacious)
 mystery
 
 # You just created a new vector called mystery. What do you
@@ -245,7 +245,9 @@ tail(mtcars, 3)
 mtcars$mpg
 
 # Print out any two other variables to the console.
-
+?mtcars
+mtcars$hp
+mtcars$wt
 
 
 # This is a vector containing the mpg (miles per gallon) of

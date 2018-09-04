@@ -14,6 +14,29 @@ Instalação do R
 	- install.packages("swirl")
 	- library(swirl)
 	- swirl()
-:: https://www.statmethods.net/
+:: Boa referência para iniciar probramação em R
+	https://www.statmethods.net/
 :: https://google.github.io/styleguide/Rguide.xml
 :: http://www.cookbook-r.com/
+
+:: Tipos de dados
+   Vector (vetor)
+:: Colchetes são usados, geralmente, para obter subconjuntos
+:: names(conjuntoDados) -> Exibe as variáveis do conjunto de dados
+:: ?conjuntoDados -> Exibe informações sobre o conjunto de dados
+:: str(conjuntoDados) -> Fornece a estrutura do conjunto de dados
+:: Para acessar uma coluna -> conjuntoDados$Coluna
+:: Comandos apresentados: c, nchar, data, str, dim, names, row.names, head, tail, mean
+:: Diretório de trabalho
+	getwd()
+	setwd('/home/seabra/dev/udacity/eda')
+	getwd()
+	setwd('/home/seabra/dev/udacity/eda/exemplos')
+	getwd()
+:: Subconjuntos
+	subset(statesInfo, state.region == 1)
+	statesInfo[statesInfo$state.region == 1, ]
+	taxaHomicidios <- subset(statesInfo, murder >= 10)
+:: Pacotes importantes para serem instalados
+	install.packages('knitr', dependencies = T) 
+	library(knitr)
