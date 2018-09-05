@@ -20,7 +20,7 @@ Instalação do R
 :: http://www.cookbook-r.com/
 
 :: Tipos de dados
-   Vector (vetor)
+   https://www.statmethods.net/input/datatypes.html
 :: Colchetes são usados, geralmente, para obter subconjuntos
 :: names(conjuntoDados) -> Exibe as variáveis do conjunto de dados
 :: ?conjuntoDados -> Exibe informações sobre o conjunto de dados
@@ -37,6 +37,9 @@ Instalação do R
 	subset(statesInfo, state.region == 1)
 	statesInfo[statesInfo$state.region == 1, ]
 	taxaHomicidios <- subset(statesInfo, murder >= 10)
+	subset(mtcars, mpg < 14 | disp > 390)
 :: Pacotes importantes para serem instalados
 	install.packages('knitr', dependencies = T) 
 	library(knitr)
+:: Pacote ggplot
+   http://www.cookbook-r.com/Graphs/
