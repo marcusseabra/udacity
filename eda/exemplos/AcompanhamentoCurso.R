@@ -33,3 +33,38 @@ qplot(data = entrevistasInfo, x = income.range)
 # ================================================================================
 
 
+# Variáveis fatoriais
+set.seed(124)
+
+exemplo <- sample(0:1, 20, replace = TRUE)
+
+is.factor(exemplo)
+
+is.numeric(exemplo)
+
+exemplo.f <- factor(exemplo, labels = c("private", "public"))
+exemplo.f
+
+levels(exemplo.f)
+
+is.factor(exemplo.f)
+
+statusSocial <- c("low", "middle", "low", "low", "low", "low", "middle", "low", "middle",
+                  "middle", "middle", "middle", "middle", "high", "high", "low", "middle",
+                  "middle", "low", "high")
+is.factor(statusSocial)
+
+is.character(statusSocial)
+
+statusSocial.niveis <- factor(statusSocial, levels= c("low", "middle", "high"))
+
+levels(statusSocial.niveis)
+
+statusSocial.ordenado <- ordered(statusSocial, levels= c("low", "middle", "high"))
+statusSocial.ordenado
+
+is.factor(statusSocial.ordenado)
+
+statusSocial.ordenado <- ordered(statusSocial, levels= c(levels(statusSocial.ordenado) , "very.high"))
+statusSocial.ordenado[21] <- "very.high"
+statusSocial.ordenado
