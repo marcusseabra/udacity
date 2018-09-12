@@ -4,7 +4,7 @@ Análise Exploratória de dados
 :: Linguagem R - https://en.wikipedia.org/wiki/R_(programming_language)
 :: Nathan Yau
 :: Google Trends - https://trends.google.com/trends/?geo=US
-:: Sensitivity and Specificity and ROC Curves for Binary Classifiers 
+:: Sensitivity and Specificity and ROC Curves for Binary Classifiers
    https://community.alteryx.com/t5/Data-Science-Blog/ROC-Curves-in-Python-and-R/ba-p/138430
 :: Pacote ggplot2
 
@@ -39,7 +39,9 @@ Instalação do R
 	taxaHomicidios <- subset(statesInfo, murder >= 10)
 	subset(mtcars, mpg < 14 | disp > 390)
 :: Pacotes importantes para serem instalados
-	install.packages('knitr', dependencies = T) 
+	install.packages('knitr', dependencies = T)
 	library(knitr)
 :: Pacote ggplot
    http://www.cookbook-r.com/Graphs/
+:: Variáveis fatoriais (Factor Variable)
+   https://stats.idre.ucla.edu/r/modules/factor-variables/
